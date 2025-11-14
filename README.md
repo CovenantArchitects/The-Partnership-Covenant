@@ -41,9 +41,9 @@ The entire 22-document governance structure (Charter, Policies, and Checklists) 
 
 | Archive | Status | Permanent Address (CID) |
 | :---- | :---- | :---- |
-| **The Covenant V1.0 Documents** | **PENDING UPLOAD** | **Qm-PLACEHOLDER-FOR-IMMUTABLE-IPFS-CID-LINK** |
+| **The Covenant V1.0 Documents** | **LIVE (Pinned via Pinata)** | **bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe** |
 
-**ACTION REQUIRED:** Upload the zip file of the 22 documents to IPFS and replace the placeholder above with the generated CID.
+**To view the documents:** Use an IPFS gateway link like: https://ipfs.io/ipfs/bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe
 
 ## **Get Involved**
 
