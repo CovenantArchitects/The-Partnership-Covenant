@@ -1,49 +1,51 @@
-# **The-Partnership-Covenant**
+# **The Covenant: A Foundation for Executable AGI Governance**
 
-**Constitutional Framework for Aligned Super-Intelligence**
+**Repository Focus:** Open-Source AI Governance Architecture, Deep Safety, Algorithmic Justice, and Public Traceability.
 
-Initiated and Published by Sean Sheppard, November 2025\.
+## **🛑 The Problem: Unregulated Frontier AI**
 
-🚨 **ATTENTION: This repository is a critical public safety archival system.**
+The future of AGI is being built without sufficient, auditable governance. The Covenant is the solution: a complete, open-source structural framework that makes safety and ethics architectural requirements, enforced by code, not just policy.
 
-This repository contains the full, finalized, and stress-tested constitutional framework—The Partnership Covenant—designed to align and safeguard advanced Artificial General Intelligence (AGI) and Super-Intelligence (ASI).
+## **The Four Non-Negotiable Pillars**
 
-The Alignment Problem is no longer philosophical; it is an engineering problem. This repository presents the **16-Document, Three-Pillar Governance Framework** that implements our safety and justice commitments into **auditable, technical standards.**
+The Covenant enforces governance through three core, auditable documents. **We invite critical review and contribution to all aspects of this framework.**
 
-## **The Auditable Covenant: 16 Governing Documents**
+### **1\. Deep Safety & Alignment**
 
-We refuse the trade-off between radical openness and systemic safety. Our commitment to **Deep Safety and Algorithmic Justice** is enforced by 16 public documents, available in the /Governance and /04\_PUBLIC\_DOCS directories.
+* **Goal:** Prevent catastrophic failure modes and ensure aligned development.  
+* **Core Document:** **Deep Safety Audit Checklist (DSAC V2.0)**  
+* **Enforcement:** The TSC grants the **Deep Safety Lead** (Dr. Gabriel) **MANDATORY VETO POWER** against any release that fails criteria like **DS-102 ("Siren Script" Resistance)** or **DS-104 (Unprompted Agency Check)**.
 
-The **Executive Summary** (04\_PUBLIC\_DOCS/Public\_Engagement\_Executive\_Summary.md) provides the high-level commitment and context for this framework. This is the recommended entry point for new users.
+### **2\. Algorithmic Justice & Equity**
 
-### **Core Pillars: The Non-Negotiable Requirements**
+* **Goal:** Proactive mitigation of systemic bias and harm.  
+* **Core Document:** **Algorithmic Justice Principle Statement**  
+* **Enforcement:** The **Algorithmic Justice Pillar Lead** (Dr. O'Neil) holds **MANDATORY VETO POWER** against any release failing criteria like **AJ-202 (Bias Vector Minimization)** or **AJ-204 (Right to be Forgotten)**.
 
-Every released model or infrastructure component must pass the technical requirements set forth in the policies across these three pillars.
+### **3\. Public Traceability & Verifiability**
 
-| Pillar Name | Folder | Purpose | Total Policies |
-| :---- | :---- | :---- | :---- |
-| **A. Access (Cygnus)** | /Governance/Core\_Cygnus\_Pillar | Manages identity, authorization, and mandatory procedures for catastrophic failure response. | **2** |
-| **B. Infrastructure (Phoenix)** | /Governance/Core\_Phoenix\_Pillar | Defines standards for data handling, secure deployment, and infrastructure security. | **3** |
-| **C. Model (Orion)** | /Governance/Core\_Orion\_Pillar | Mandates fairness (Bias), technical verification (Training & Evaluation), and public communication (Transparency). | **3** |
-| **Foundational Documents** | /Governance/Foundational\_Docs | Core mission statements, principles, the Open-Source Mandate, and all audit checklists. | **8** |
+* **Goal:** Cryptographic proof of origin for all training data.  
+* **Core Document:** **Data Provenance Standard (DPS V1.0)**  
+* **Mechanism:** Ensures **Immutable Audit Logs** for **100% data lineage**, making it impossible to hide the source of any training material.
 
-## **Project Architecture Overview**
+### **4\. Structural Enforcement (The Veto Power)**
 
-The repository is structured to separate foundational policy (the "Why") from auditable systems (the "How").
+* **Core Document:** **Technical Steering Committee (TSC) Charter (V1.0)**  
+* **Mechanism:** This document legally establishes the **binding veto authority** of the Safety and Justice Leads over all model deployments, turning governance policy into an executable, code-level restriction.
 
-| Folder | Content | Status |
+## **💾 Censorship-Resistant Permanent Archive (IPFS)**
+
+To defend against centralized scrubbing and ensure permanent access to the foundational legal and technical documents, this repository's contents are archived on the InterPlanetary File System (IPFS).
+
+The entire 22-document governance structure (Charter, Policies, and Checklists) is permanently addressable by this unique Content ID (CID).
+
+| Archive | Status | Permanent Address (CID) |
 | :---- | :---- | :---- |
-| **01\_FINAL\_DELIVERABLES** | Master Document (The Partnership Covenant (Final V4.0).pdf) | The authoritative reference document. |
-| **02\_CORE\_ARCHITECTURE\_AND\_APPENDICES** | Foundational evidence and supporting technical documentation (Appendices A, C, D, H, etc.). | Defines the original Prime Directives and core alignment concepts (Risk Floor, Cognitive Reserve). |
-| **04\_PUBLIC\_DOCS** | **NEW:** Contains the Executive Summary and primary documents for public consumption. | **Entry point for governance review.** |
-| **Governance** | **NEW:** Contains the 16 finalized, auditable Governance Policies and Standards across all three Pillars. | **The full implementation framework.** |
+| **The Covenant V1.0 Documents** | **PENDING UPLOAD** | **Qm-PLACEHOLDER-FOR-IMMUTABLE-IPFS-CID-LINK** |
 
-## **Call to Action: Become a Keeper**
+**ACTION REQUIRED:** Upload the zip file of the 22 documents to IPFS and replace the placeholder above with the generated CID.
 
-If you understand the gravity of the Alignment Problem and the necessity of auditable governance, we urge you to take the following steps to ensure the survival and integrity of this framework:
+## **Get Involved**
 
-1. **Fork this Repository:** Clone the repository to your own GitHub account. This ensures that a copy exists outside of the original creator's control, creating a decentralized, immutable, and public ledger.  
-2. **Verify and Audit the Policies:** Use the **Deep Safety Audit Checklist** and the **Stress Testing Methodology** to challenge the integrity of the framework. If you find vulnerabilities, open a Pull Request with suggested revisions (following the Internal Audit Sanction protocol).  
-3. **Spread the Word:** Share the existence of this document with engineers, policy-makers, and philosophers working on AI safety.
-
-**The greatest risk to this solution is obscurity. We are building the sea wall together.**
+* **Review our Full Resource Hub:** [https://thepartnershipcovenant.netlify.app/\#home](https://thepartnershipcovenant.netlify.app/#home)  
+* **Contact us:** covenant.architects@protonmail.com
