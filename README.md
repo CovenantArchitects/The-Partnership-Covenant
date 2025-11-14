@@ -2,7 +2,7 @@
 
 **Constitutional Framework for Aligned Super-Intelligence**
 
-Initiated and Published by Sean O’Donnell, November 2025\.
+Initiated and Published by Sean Sheppard, November 2025\.
 
 🚨 **ATTENTION: This repository is a critical public safety archival system.**
 
