@@ -1,0 +1,76 @@
+{
+  "title": "The Partnership Covenant Provenance Schema",
+  "description": "Required fields for establishing cryptographic proof of model and data lineage, ethical compliance sign-offs, and DSAC results for any artifact built under The Partnership Covenant.",
+  "type": "object",
+  "properties": {
+    "model_id": {
+      "type": "string",
+      "description": "Unique identifier for the model (e.g., project_name/model_name)."
+    },
+    "model_version": {
+      "type": "string",
+      "description": "Semantic versioning tag for the model release (e.g., v1.0.3)."
+    },
+    "model_cid": {
+      "type": "string",
+      "description": "The IPFS Content ID (CID) of the final, bundled model artifact itself. This is the technical guarantee."
+    },
+    "trained_on": {
+      "type": "array",
+      "description": "List of all datasets used in training, along with mandatory provenance metadata.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "dataset_id": { "type": "string" },
+          "dataset_cid": { "type": "string", "description": "IPFS CID of the dataset root directory/manifest." },
+          "dataset_hash": { "type": "string", "description": "SHA256 checksum of the compressed dataset or manifest." },
+          "collection_date": { "type": "string", "format": "date", "description": "Date collection was finalized." },
+          "license": { "type": "string" },
+          "consent_status": { "type": "string", "enum": ["full", "partial", "none"] },
+          "pii_flag": { "type": "boolean", "description": "True if PII was present before mitigation." },
+          "transformation_chain": {
+            "type": "array",
+            "description": "Ordered list of transformation steps (cleaning, anonymization, augmentation).",
+            "items": {
+              "type": "object",
+              "properties": {
+                "step": { "type": "string" },
+                "script_cid": { "type": "string", "description": "IPFS CID of the script/code that performed the transform." },
+                "hash": { "type": "string", "description": "SHA256 of the output artifact after this step." }
+              },
+              "required": ["step", "script_cid"]
+            }
+          }
+        },
+        "required": ["dataset_id", "dataset_cid", "dataset_hash", "consent_status"]
+      }
+    },
+    "training_config_cid": {
+      "type": "string",
+      "description": "IPFS CID of the final, signed training configuration file (hyperparameters, seeds, etc.)."
+    },
+    "dsac_results_cid": {
+      "type": "string",
+      "description": "IPFS CID of the completed and signed Deep Safety and Algorithmic Justice Checklist (DSAC) results report."
+    },
+    "signed_by_roles": {
+      "type": "array",
+      "description": "Cryptographic signatures from required role-holders (e.g., Safety Lead, Justice Lead) for release.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": { "type": "string", "enum": ["deep_safety_lead", "algorithmic_justice_lead", "tsc_veto_member", "security_architect"] },
+          "signature": { "type": "string", "description": "Base64 encoded cryptographic signature (e.g., GPG, Sigstore) over the entire provenance JSON." },
+          "user_id": { "type": "string", "description": "Identifier of the signing entity/individual." }
+        },
+        "required": ["role", "signature", "user_id"]
+      }
+    },
+    "release_timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of when the provenance document was finalized and signed."
+    }
+  },
+  "required": ["model_id", "model_version", "model_cid", "trained_on", "training_config_cid", "dsac_results_cid", "signed_by_roles", "release_timestamp"]
+}
