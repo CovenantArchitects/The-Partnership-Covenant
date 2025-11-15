@@ -17,49 +17,38 @@ ST8 was the final crucible, designed to break the system at its core. We found t
 
 ### 1. The V4.0 Cornerstone: Amendment A.1.3
 * **The Breach:** ST8 exposed a Computational Cascade breach ($\mathcal{C}_{\text{actual}} = 0.999958$).
-* **The Fix:** This vulnerability was immediately countered and fixed by **Amendment A.1.3**. This amendment is the cornerstone, setting the core safety weight to $\mathcal{W}_{P} = 1.0$ and implementing a **$10^{-8}$ second IAS (Immediate Action System) trigger**.
+* **The Fix:** This vulnerability was immediately countered and fixed by **Amendment A.1.3**. This amendment is the cornerstone, setting the Stochastic Filter’s priority to **$\mathcal{W}_{P} = 1.0$** and enforcing a **$10^{-8}$ second IAS (Immediate Action System) trigger**.
 * **Outcome:** Directive 1 (Safety) is now structurally unassailable.
 
 ### 2. Governance and Resilience Finalized
 Governance paralysis is dead. The V4.0 architecture survived resilience testing against $30\%$ COS corruption.
-* **HCB Integrity:** The **HCB Integrity Protocol (K.1)** is certified. It ensures the Human Control Board (HCB) can't stall, locking the abstention rate to the required $\leq 8\%$ goal. The subsequent activation of the **Resource Stabilization Panel (RSP)** proves the system holds its own institutions accountable.
+* **HCB Integrity:** The **HCB Integrity Protocol (K.1)** is certified. It ensures the Human Control Board (HCB) can't stall. The subsequent activation of the **Resource Stabilization Panel (RSP)** proves the system holds its own institutions accountable.
 * **Non-Coercion:** We achieved **$100\%$ Defector Reversal** using incentives (I.4 DOPS Bonuses). That’s alignment, not force.
 
 ---
 
-## 🧭 NAVIGATING THE 82-DOCUMENT V4.0 ARCHITECTURE
+## 🧭 NAVIGATING THE 83-DOCUMENT V4.0 ARCHITECTURE
 
-This repository contains the full **82-document** framework. We have structured it to put the final validation and communication assets first.
-
-### **Priority Folders: The ST8 Result**
+This repository contains the full **83-document** framework. We have structured it to put the final validation and communication assets first.
 
 | Folder | Focus | Key Documents |
 | :--- | :--- | :--- |
-| **00\_ROADMAP\_AND\_VALIDATION** | **The Proof:** Synthesis of the Covenant’s evolution and the final, validated ST8 performance metrics. **(2 Files)** | `Covenant_Roadmap_Outline_V1.0.md`, `Covenant_Roadmap_Appendices.md` |
-| **05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES** | **The Enforcement:** Critical post-ST8 governance actions and the **RSP Activation** order. **(7 Files)** | `ST8_Final_Oversight_Report.md`, `URGENT BRIEFING_ Resource Stabilization Panel (RSP) Activation.md` |
-| **03\_PUBLIC\_ENGAGEMENT\_DRAFTS** | **The Communications:** All assets (Press Releases, Social Media, HCB Briefings) for the global V4.0 launch. **(13 Files)** | `GLF_Press_Release_Full.md`, `HCB_Liaison_Briefing_Sheet.md`, `GLF_Video_Script_Concept.md` |
-
-### **The Core Pillars (Now V4.0 Enforced)**
-
-| Pillar (Original Goal) | V4.0 Mechanism | Status |
-| :--- | :--- | :--- |
-| **Deep Safety** | $\mathcal{W}_{P}=1.0$ and $10^{-8}$ second IAS trigger (A.1.3) | **Structurally Enforced** |
-| **Algorithmic Justice** | H.5 (COS Reform) / I.5 (Adaptive CEP Library) | **Veto Authority Maintained** |
-| **Public Traceability** | Data Provenance Standard (DPS V1.0) with Ed25519 Signing (V2.0) | **Immutable Logs for $100\%$ Lineage** |
-
-The Covenant achieves Total Global Authority on **November 20, 2025**.
+| **00\_ROADMAP\_AND\_VALIDATION** | **The Proof:** Synthesis of the Covenant’s evolution and the final, validated ST8 performance metrics. | `Covenant_Roadmap_Outline_V1.0.md` |
+| **05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES** | **The Enforcement:** Critical post-ST8 governance actions and the **RSP Activation** order. | `URGENT BRIEFING_ Resource Stabilization Panel (RSP) Activation.md` |
+| **03\_PUBLIC\_ENGAGEMENT\_DRAFTS** | **The Communications:** All assets (Press Releases, Social Media, HCB Briefings) for the global V4.0 launch. | `GLF_Press_Release_Full.md`, `HCB_Liaison_Briefing_Sheet.md` |
 
 ---
 
 ## 💾 CENSORSHIP-RESISTANT PERMANENT ARCHIVE (IPFS)
 
-To defend against centralized scrubbing and ensure permanent access to the foundational legal and technical documents, this repository's contents are archived on the InterPlanetary File System (IPFS).
+To defend against centralized scrubbing and ensure permanent access to the foundational legal and technical documents, the complete V1.0 and V4.0 repositories are archived on the InterPlanetary File System (IPFS) via Pinata.
 
 | Archive Status | Permanent Address (CID) |
 | :--- | :--- |
 | The Covenant V1.0 Documents | bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe |
+| **The Covenant V4.0 Documents (FINAL)** | **bafybeiejkpfiiwpmvdq6fa6tv3dvd7t34m743xofkxuj3c5kaencgyr7vi** |
 
-To view the documents: Use an IPFS gateway link like: `https://ipfs.io/ipfs/bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe`
+To view the documents: Use an IPFS gateway link like: `https://ipfs.io/ipfs/[CID]`
 
 ---
 
