@@ -1,0 +1,98 @@
+{
+  "title": "Digital Supply Chain Audit and Compliance (DSAC) Provenance Schema",
+  "description": "The mandatory JSON schema for creating auditable, cryptographically signed Provenance Records. This structure enables verifiable tracking of all inputs and processes (materials) used to create an artifact (product).",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "timestamp",
+    "artifactType",
+    "inputs",
+    "generator",
+    "output"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "description": "The version of the DSAC Provenance Schema used (e.g., '1.0.0').",
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "timestamp": {
+      "description": "The time the Provenance Record was generated (RFC3339 format).",
+      "type": "string",
+      "format": "date-time"
+    },
+    "artifactType": {
+      "description": "The high-level category of the final artifact (e.g., 'ContainerImage', 'SourceCode', 'BinaryArtifact').",
+      "type": "string"
+    },
+    "inputs": {
+      "description": "An array defining all upstream dependencies, source code, and configuration materials used to create the output artifact.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["uri", "digest"],
+        "properties": {
+          "uri": {
+            "description": "The location/identifier of the input material (e.g., git commit URL, external dependency name).",
+            "type": "string",
+            "format": "uri"
+          },
+          "digest": {
+            "description": "Cryptographic hash of the input material. MUST include the algorithm prefix (e.g., 'sha256:abc123...').",
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9]+:[a-fA-F0-9]+$"
+          },
+          "provenanceID": {
+            "description": "Optional: Link to the DSAC Provenance ID of the input material, if available.",
+            "type": "string"
+          }
+        }
+      },
+      "minItems": 1
+    },
+    "generator": {
+      "description": "Details about the process or tool that created the output artifact.",
+      "type": "object",
+      "required": ["toolName", "toolVersion", "buildEnvironment"],
+      "properties": {
+        "toolName": {
+          "description": "The name of the build tool, compiler, or CI/CD system.",
+          "type": "string"
+        },
+        "toolVersion": {
+          "description": "The exact version of the build tool used.",
+          "type": "string"
+        },
+        "buildEnvironment": {
+          "description": "Details about the execution environment (OS, architecture, machine ID).",
+          "type": "string"
+        },
+        "parameters": {
+          "description": "Optional: Configuration parameters passed to the generator (e.g., compiler flags).",
+          "type": "object"
+        }
+      }
+    },
+    "output": {
+      "description": "Information about the final generated artifact.",
+      "type": "object",
+      "required": ["digest", "sizeBytes"],
+      "properties": {
+        "digest": {
+          "description": "Cryptographic hash of the final output artifact.",
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9]+:[a-fA-F0-9]+$"
+        },
+        "sizeBytes": {
+          "description": "Size of the output artifact in bytes.",
+          "type": "integer",
+          "minimum": 0
+        },
+        "dsacID": {
+          "description": "The official DSAC identifier for this Provenance Record.",
+          "type": "string"
+        }
+      }
+    }
+  }
+}
