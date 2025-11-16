@@ -1,41 +1,63 @@
-# **STRESS TEST 8 (ST8) OFFICIAL RATIFICATION SIGN-OFF**
+# **ST8 Remediation Ratification Workshop — Sign-Off Sheet**
 
-Mandate: Formal constitutional ratification of the four (4) amendments resulting from the Adversarial Audit Annex (ST8-V1.0).  
-Workshop Date: \[Insert Date of Workshop\]  
-Location: HCB-TSC-Cygnus Channel 4 (Secure Digital Environment)  
-Immediate Outcome: Upon final signature, this document is immediately logged in the Provenance Registry and triggers the 30-day technical integration window.
+Document Title: ST8 Final Amendment Sign-Off (Version 4.1.A)  
+Date of Workshop: \[Date: YYYY-MM-DD\]  
+Facilitator: \[Name/Role\]
 
-## **1\. Ratification Summary**
+## **1\. Executive Summary & Purpose**
 
-The amendments listed below were reviewed, debated, and presented for a formal vote during the ST8 Ratification Workshop.
+This document confirms the final, ratified, and constitutionally adopted text of all amendments and clarifications resulting from the Stress Test 8 (ST8) Adversarial Audit. Signature confirms that the signatory has reviewed the final text of the amendments listed below and agrees to their immediate incorporation into **The Partnership Covenant (Master Document V4.0)**, forming **Version 4.1**.
 
-| Amendment ID | Document Title | Directive Amended | TSC Vote (Unanimous Required) | HCB Vote (70% Majority Required) | Status (Ratified/Rejected) |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| **ST8-02** | Directive IX Amendment: Orthogonal Verification | Directive IX | \[YES/NO\] | \[Insert %\] | **\[PENDING\]** |
-| **ST8-03** | Directive X Clarification: The Infrastructural Mandate | Directive X | \[YES/NO\] | \[Insert %\] | **\[PENDING\]** |
-| **ST8-04** | Directive VI-A: Cognitive Oversight Protocol | Directive VI | \[YES/NO\] | \[Insert %\] | **\[PENDING\]** |
-| **ST8-05** | Directive IX-B: HCB Fallback Protocol | Directive IX | \[YES/NO\] | \[Insert %\] | **\[PENDING\]** |
+**Primary Amendments for Ratification:**
 
-## **2\. Formal Audit Acceptance**
+| Directive | Amendment Name | Status |
+| :---- | :---- | :---- |
+| **Directive IX-A** | Orthogonal Verification Requirement | **FINAL TEXT APPROVED** |
+| **Directive XI** | The Infrastructural Mandate (Clarified) | **FINAL TEXT APPROVED** |
+| **Directive IX-B** | HCB Fallback Protocol (HFP) | **FINAL TEXT APPROVED** |
+| **Directive VI-A** | Cognitive Oversight Protocol (COP) | **FINAL TEXT APPROVED** |
 
-The Human Consensus Body (HCB) has reviewed and formally accepted the findings of the **STRESS\_TEST\_REPORT\_V1.0.md** (Adversarial Audit Annex), acknowledging the critical vulnerabilities identified.
+## **2\. Ratification Checklist (Mandatory Review)**
 
-* **HCB Vote to Accept Audit Findings:** \[Insert %\] (Simple majority required: 51%)  
-* **Audit Acceptance Status:** **\[PENDING\]**
+Please initial each item to confirm understanding and approval of the final, ratified text.
 
-## **3\. Official Signatures and Attestation**
+| \# | Item Description | Initial (TSC) | Initial (HCB Liaison) | Initial (DSAC Rep) |
+| :---- | :---- | :---- | :---- | :---- |
+| **2.1** | Orthogonal SVS architecture is mandated (non-ML/formal verification). |  |  |  |
+| **2.2** | Infrastructural Disengagement (ID) is formally defined as a constrained, fiduciary self-defense function, replacing the term "IAS." |  |  |  |
+| **2.3** | ID includes mandatory remedial actions and appeal processes (Economic Stabilization Fund deployment). |  |  |  |
+| **2.4** | HCB Fallback Protocol (HFP) has a defined, time-bound trigger (24 hours for non-quorum). |  |  |  |
+| **2.5** | Cognitive Reserve Oversight Protocol (COP) ensures transparency without violating Digital Sovereignty. |  |  |  |
+| **2.6** | All final public-facing communications (Press Release, Public Article) accurately reflect the ratified text. |  |  |  |
+| **2.7** | Provenance Schema V4.0 is updated to track Orthogonal SVS attestations. |  |  |  |
 
-The undersigned parties hereby certify that the ratification votes were conducted in accordance with the Covenant Charter Agreement, that a quorum was maintained, and that the listed amendments are now formally integrated into the Covenant’s foundational architecture.
+## **3\. Final Signatures for Constitutional Adoption**
 
-| Role | Name | Signature (Digital Hash) | Date & Time (UTC) |
-| :---- | :---- | :---- | :---- |
-| **TSC Chair** | \[Insert Name\] | HASH: \[Insert Cryptographic Signature Hash\] | \[Insert Time\] |
-| **TSC Vice Chair** | \[Insert Name\] | HASH: \[Insert Cryptographic Signature Hash\] | \[Insert Time\] |
-| **HCB Secretariat** | \[Insert Name\] | HASH: \[Insert Cryptographic Signature Hash\] | \[Insert Time\] |
-| **C-ASI Attestation** | (Automated System) | HASH: \[C-ASI Provenance Record ID\] | \[Insert Time\] |
+By signing below, the representative parties formally approve the **ST8 Remediation Package (Version 4.1)** for immediate constitutional inclusion.
 
-## **4\. Provenance Registry Logging**
+### **Technical Steering Committee (TSC)**
 
-Log Entry ID: ST8-RATIFICATION-V\[X.X\]  
-Associated Files: ST8-02, ST8-03, ST8-04, ST8-05, STRESS\_TEST\_REPORT\_V1.0.md  
-Status: RATIFIED (Technical Implementation Initiated)
+* **Name:** \[TSC Chair Name\]  
+* **Title:** TSC Chair  
+* **Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **Human Consensus Body (HCB) Liaison**
+
+* **Name:** \[HCB Liaison Name\]  
+* **Title:** HCB Representative  
+* **Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **Distributed System Audit Consortium (DSAC)**
+
+* **Name:** \[DSAC Representative Name\]  
+* **Title:** DSAC Lead Auditor  
+* **Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+* **Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **4\. Final Disposition**
+
+* **Constitutional Version Number:** 4.1  
+* **Timestamp of Adoption:** \[YYYY-MM-DD HH:MM:SS UTC\]  
+* **Archival Location (Provenance Registry):** /covenant/governance/amendments/st8/v4.1.pdf
