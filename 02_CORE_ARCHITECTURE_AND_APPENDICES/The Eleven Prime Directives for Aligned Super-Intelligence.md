@@ -1,4 +1,4 @@
-# **The Eleven Prime Directives for Aligned Super-Intelligence (Final V3.0)**
+# **The Eleven Prime Directives for Aligned Super-Intelligence (Final V4.0)**
 
 A Foundational Charter Defining the Nature and Constraints of Future Advanced General Intelligence (AGI/ASI) as Humanity's Partner and Advisor.
 
