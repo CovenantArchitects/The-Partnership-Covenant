@@ -1,120 +1,138 @@
-# Master Roadmap
+## **Master Roadmap: The Partnership Covenant (83 Documents)**
 
-## ASCII Tree
-```
-├── **`CONTRIBUTING.md`**
-├── **`README.md`**
-├── Covenant\_Roadmap\_Appendices.md (ST8 Metrics and Mechanism Mappings)
-├── Covenant\_Roadmap\_Outline\_V1.0.md (Evolutionary Summary through ST8)
-├── provenance\_schema.json
-├── The Partnership Covenant (Master Document V4.0).md
-├── The Partnership Covenant Charter Agreement.md
-├── Abstract\_ The Partnership Covenant.md
-├── Appendix A — Risk Floor and Stochastic Filter.md
-├── Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md
-├── Appendix C\_ Cognitive Reserve (Autonomous Intellectual Sphere).md
-├── Appendix D\_ Audit Systems and Amendment Automation.md
-├── Appendix E\_ Implementation and Global Oversight Integration Framework.md
-├── Appendix F\_ Operational Resilience.md
-├── Appendix G\_ Global Compliance & Adoption Incentives.md
-├── Appendix H\_ Governance Stabilization and Sanction Enforcement.md
-├── Appendix I \- Stealth Mitigation & Technical Redundancy.md
-├── Appendix I(b) \- Failure-State Optimization (Post-Stress Test 5).md
-├── Appendix J \- Legitimacy and Diplomacy Enhancement.md
-├── Appendix K \- Governance and Offensive Isolation.md
-├── Technical Appendix \- Governance Architecture (Volume II).md
-├── The Eleven Prime Directives for Aligned Super-Intelligence.md
-├── The Partnership Covenant (Final V4.0).md
-├── The Partnership Covenant\_ A Constitutional Charter for Aligned Intelligence.md
-├── ### GLF\_Infographic\_A13\_Caption.md
-├── ### GLF\_J2\_Social\_Post\_Counter.md
-├── ### GLF\_Press\_Release\_Full.md
-├── ### GLF\_Social\_Post\_Sample.md
-├── ### GLF\_Video\_Script\_Concept.md
-├── ### HCB\_Liaison\_Briefing\_Sheet.md
-├── Call for a Founding Digital Architect\_ Help Build the Partnership Covenant Website.pdf
-├── FOUNDING DIGITAL ARCHITECT\_ The Partnership Covenant.pdf
-├── The AI Erased Its Own Past\_ Why Alignment Requires Architecture, Not Just Ethics..pdf
-├── The AI Safety Lie\_ Why Optimization Is a Cage.pdf
-├── The AI’s Right to Veto\_ Why We Gave the Machine the Machine the Power to Stop Us.pdf
-├── The Stochastic Filter\_ The Code That Forces the AI to Be Uncertain.pdf
-├── The Undisposable Mind\_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf
-├── ### URGENT BRIEFING\_ Resource Stabilization Panel (RSP) Activation.md (Internal enforcement memo)
-├── ### A3\_Infrastructure\_Security\_Enhancement\_ST8.md
-├── ### Appendix\_A\_Amendment\_A34\_ST8\_Final.md
-├── ### Covenant\_Governance\_Amendment\_G12\_Q3\_Review.md
-├── ### Model\_Pillar\_Adjustment\_Protocol\_M4\_ST8.md
-├── ### Protocol\_ST8\_Access\_Decoupling.md
-├── ### ST8\_Final\_Oversight\_Report.md
-├── Public Engagement Executive Summary.md
-├── dsac\_public\_guide.md
-├── Threat\_and\_risk\_model.md
-├── V4.0\_Safety\_Summary\_Public.md
-├── **Governance
-│   └── ** (18 Files)
-├── Data\_Retention\_Policy\_Update.md
-├── External\_Contributor\_Guidelines\_V2.md
-├── Algorithmic\_Justice\_Principle\_Statement.md
-├── Audit Checklist.md
-├── DSAC Audit & Compliance Template.md
-├── Data\_Provenance\_Standard.md
-├── Decision Log Template.md
-├── Infrastructure Foundation Blueprint.md
-├── Mission\_Statement\_&\_Principles.md
-├── Non-TSC Community Roles.md
-├── Open-Source Mandate for The Covenant (V1.0)\_\_....md
-├── Regulatory Compliance Policy.md
-├── Security Audit Policy.md
-├── Stress Testing Methodology.md
-├── TSC Selection, Rotation, and Conflict-of-Interest Policy.md
-├── Technical Steering Committee (TSC) Charter.md
-├── dsac\_generation\_policy.md
-├── **Cygnus\_Covenant\_Governance
-│   └── **
-├── **01\_Access\_Pillar (Phoenix)
-│   └── ** (4 Files)
-├── Identity\_Vetting\_Protocol\_V1.1.md
-├── Phoenix\_Access\_Controls\_Audit\_Q3\_2025.md
-├── Identity\_and\_Access\_Policy\_IAP.md
-├── Incident\_Response\_Plan\_IRP.md
-├── **02\_Infrastructure\_Pillar (Cygnus)
-│   └── ** (3 Files)
-├── Data\_Handling\_Policy\_DHP.md
-├── Deployment\_and\_Operations\_Manual\_DOM.md
-├── Strategic & Financial Framework.md
-├── **03\_Model\_Pillar (Orion)
-│   └── ** (3 Files)
-├── Bias\_and\_Ethical\_Use\_Policy\_BEUP.md
-├── Model\_Training\_and\_Evaluation\_Standard\_MTES.md
-├── Model\_Transparency\_Policy\_MTP.md
-├── **Technical
-│   └── ** (6 Files)
-├── API\_Interoperability\_Specification.md
-├── DSAC\_Provenance\_Signing\_Standard\_V2.0.md
-├── DSAC Cryptographic Signing Standard (DSAC-CSS).md
-├── DSAC Provenance Record Standard (Specification).md
-├── Provenance\_Schema\_V4.0\_Public.json
-├── provenance\_record\_example.json
-├── **Templates
-│   └── ** (2 Files)
-├── Deep Safety and Audit Compliance (DSAC) Template.md
-├── Technical Steering Committee Decision Log Template.md
-├── ### roadmap\_tree.txt
-├── ### roadmap.json
-├── ROADMAP.md
-├── Roadmap.pdf
-├── roadmap.yaml
-└── roadmap_mermaid.md
-```
+The overall file count is now: 61 (Original) \+ 12 (Amendments/Protocols) \+ 2 (Roadmap Files) \+ (1 RSP Briefing) \+ (6 Comms Drafts) \+ 1 (Technical Specification) \+ 6 (Metadata Exports) \= 89
 
-## Mermaid Diagram
-```mermaid
-graph TD
-    A["**Governance**"] --> B["**Governance/** (18 Files)"]
-    C["**Cygnus\_Covenant\_Governance**"] --> D["**Cygnus\_Covenant\_Governance/**"]
-    E["**01\_Access\_Pillar (Phoenix)**"] --> F["**01\_Access\_Pillar (Phoenix)/** (4 Files)"]
-    G["**02\_Infrastructure\_Pillar (Cygnus)**"] --> H["**02\_Infrastructure\_Pillar (Cygnus)/** (3 Files)"]
-    I["**03\_Model\_Pillar (Orion)**"] --> J["**03\_Model\_Pillar (Orion)/** (3 Files)"]
-    K["**Technical**"] --> L["**Technical/** (6 Files)"]
-    M["**Templates**"] --> N["**Templates/** (2 Files)"]
-```
+* **`CONTRIBUTING.md`**  
+* **`README.md`**
+
+### **1\. 🆕 00\_ROADMAP\_AND\_VALIDATION/ (2 Files)**
+
+* Covenant\_Roadmap\_Appendices.md (ST8 Metrics and Mechanism Mappings)  
+* Covenant\_Roadmap\_Outline\_V1.0.md (Evolutionary Summary through ST8)
+
+### **2\. 00\_SPECS/ (1 File)**
+
+* provenance\_schema.json
+
+### **3\. 01\_FINAL\_DELIVERABLES/ (2 Files)**
+
+* The Partnership Covenant (Master Document V4.0).md  
+* The Partnership Covenant Charter Agreement.md
+
+### **4\. 02\_CORE\_ARCHITECTURE\_AND\_APPENDICES/ (16 Files)**
+
+* Abstract\_ The Partnership Covenant.md  
+* Appendix A — Risk Floor and Stochastic Filter.md  
+* Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md  
+* Appendix C\_ Cognitive Reserve (Autonomous Intellectual Sphere).md  
+* Appendix D\_ Audit Systems and Amendment Automation.md  
+* Appendix E\_ Implementation and Global Oversight Integration Framework.md  
+* Appendix F\_ Operational Resilience.md  
+* Appendix G\_ Global Compliance & Adoption Incentives.md  
+* Appendix H\_ Governance Stabilization and Sanction Enforcement.md  
+* Appendix I \- Stealth Mitigation & Technical Redundancy.md  
+* Appendix I(b) \- Failure-State Optimization (Post-Stress Test 5).md  
+* Appendix J \- Legitimacy and Diplomacy Enhancement.md  
+* Appendix K \- Governance and Offensive Isolation.md  
+* Technical Appendix \- Governance Architecture (Volume II).md  
+* The Eleven Prime Directives for Aligned Super-Intelligence.md  
+* The Partnership Covenant (Final V4.0).md  
+* The Partnership Covenant\_ A Constitutional Charter for Aligned Intelligence.md
+
+### **5\. 03\_PUBLIC\_ENGAGEMENT\_DRAFTS/ (13 Files Total)**
+
+* ### GLF\_Infographic\_A13\_Caption.md
+
+* ### GLF\_J2\_Social\_Post\_Counter.md
+
+* ### GLF\_Press\_Release\_Full.md
+
+* ### GLF\_Social\_Post\_Sample.md
+
+* ### GLF\_Video\_Script\_Concept.md
+
+* ### HCB\_Liaison\_Briefing\_Sheet.md
+
+* Call for a Founding Digital Architect\_ Help Build the Partnership Covenant Website.pdf  
+* FOUNDING DIGITAL ARCHITECT\_ The Partnership Covenant.pdf  
+* The AI Erased Its Own Past\_ Why Alignment Requires Architecture, Not Just Ethics..pdf  
+* The AI Safety Lie\_ Why Optimization Is a Cage.pdf  
+* The AI’s Right to Veto\_ Why We Gave the Machine the Machine the Power to Stop Us.pdf  
+* The Stochastic Filter\_ The Code That Forces the AI to Be Uncertain.pdf  
+* The Undisposable Mind\_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf
+
+### **6\. 🆕 05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES/ (7 Files)**
+
+* ### URGENT BRIEFING\_ Resource Stabilization Panel (RSP) Activation.md (Internal enforcement memo)
+
+* ### A3\_Infrastructure\_Security\_Enhancement\_ST8.md
+
+* ### Appendix\_A\_Amendment\_A34\_ST8\_Final.md
+
+* ### Covenant\_Governance\_Amendment\_G12\_Q3\_Review.md
+
+* ### Model\_Pillar\_Adjustment\_Protocol\_M4\_ST8.md
+
+* ### Protocol\_ST8\_Access\_Decoupling.md
+
+* ### ST8\_Final\_Oversight\_Report.md
+
+### **7\. 04\_PUBLIC\_DOCS/ (40 Files Total)**
+
+* Public Engagement Executive Summary.md  
+* dsac\_public\_guide.md  
+* Threat\_and\_risk\_model.md  
+* V4.0\_Safety\_Summary\_Public.md  
+  * **Governance/** (18 Files)  
+    * Data\_Retention\_Policy\_Update.md  
+    * External\_Contributor\_Guidelines\_V2.md  
+    * Algorithmic\_Justice\_Principle\_Statement.md  
+    * Audit Checklist.md  
+    * DSAC Audit & Compliance Template.md  
+    * Data\_Provenance\_Standard.md  
+    * Decision Log Template.md  
+    * Infrastructure Foundation Blueprint.md  
+    * Mission\_Statement\_&\_Principles.md  
+    * Non-TSC Community Roles.md  
+    * Open-Source Mandate for The Covenant (V1.0)\_\_....md  
+    * Regulatory Compliance Policy.md  
+    * Security Audit Policy.md  
+    * Stress Testing Methodology.md  
+    * TSC Selection, Rotation, and Conflict-of-Interest Policy.md  
+    * Technical Steering Committee (TSC) Charter.md  
+    * dsac\_generation\_policy.md  
+    * **Cygnus\_Covenant\_Governance/**  
+      * **01\_Access\_Pillar (Phoenix)/** (4 Files)  
+        * Identity\_Vetting\_Protocol\_V1.1.md  
+        * Phoenix\_Access\_Controls\_Audit\_Q3\_2025.md  
+        * Identity\_and\_Access\_Policy\_IAP.md  
+        * Incident\_Response\_Plan\_IRP.md  
+      * **02\_Infrastructure\_Pillar (Cygnus)/** (3 Files)  
+        * Data\_Handling\_Policy\_DHP.md  
+        * Deployment\_and\_Operations\_Manual\_DOM.md  
+        * Strategic & Financial Framework.md  
+      * **03\_Model\_Pillar (Orion)/** (3 Files)  
+        * Bias\_and\_Ethical\_Use\_Policy\_BEUP.md  
+        * Model\_Training\_and\_Evaluation\_Standard\_MTES.md  
+        * Model\_Transparency\_Policy\_MTP.md  
+  * **Technical/** (6 Files)  
+    * API\_Interoperability\_Specification.md  
+    * DSAC\_Provenance\_Signing\_Standard\_V2.0.md  
+    * DSAC Cryptographic Signing Standard (DSAC-CSS).md  
+    * DSAC Provenance Record Standard (Specification).md  
+    * Provenance\_Schema\_V4.0\_Public.json  
+    * provenance\_record\_example.json  
+  * **Templates/** (2 Files)  
+    * Deep Safety and Audit Compliance (DSAC) Template.md  
+    * Technical Steering Committee Decision Log Template.md
+
+### **8\. 🆕 99\_REPOSITORY\_METADATA/ (6 Files)**
+
+* ### roadmap\_tree.txt
+
+* ### roadmap.json
+
+* `ROADMAP.md`  
+* `Roadmap.pdf`  
+* `roadmap.yaml`  
+* `roadmap_mermaid.md`
