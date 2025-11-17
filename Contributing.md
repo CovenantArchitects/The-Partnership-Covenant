@@ -4,18 +4,18 @@
 
 ## **Table of Contents**
 
-1. [What We’re Building](https://www.google.com/search?q=%23what-were-building)  
-2. [Ways to Contribute](https://www.google.com/search?q=%23ways-to-contribute)  
+1. What We’re Building  
+2. Ways to Contribute  
 * Reporting Issues  
 * Proposing Improvements  
 * Documentation & Writing  
 * Technical Contributions  
 * Governance Participation  
-3. [How Contributions Are Reviewed](https://www.google.com/search?q=%23how-contributions-are-reviewed)  
-4. [Community Norms & Code of Conduct](https://www.google.com/search?q=%23community-norms--code-of-conduct)  
-5. [Decision Making & Transparency](https://www.google.com/search?q=%23decision-making--transparency)  
-6. [Onboarding & Orientation](https://www.google.com/search?q=%23onboarding--orientation)  
-7. [Getting in Touch](https://www.google.com/search?q=%23getting-in-touch)
+3. How Contributions Are Reviewed  
+4. Community Norms & Code of Conduct  
+5. Decision Making & Transparency  
+6. Onboarding & Orientation  
+7. Getting in Touch
 
 ## **What We’re Building**
 
