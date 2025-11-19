@@ -1,109 +1,73 @@
-\# Contributing to The Partnership Covenant
+# Contributing to The Partnership Covenant
 
-Thank you for your interest in contributing to \*\*The Partnership Covenant\*\*\! We believe that building a safe, just, and auditable framework for aligned super-intelligence requires broad collaboration. This document explains how to contribute, how decisions are made, and how you can help.
+Thank you for your interest in helping build a constitutional operating system for superintelligence. This document explains how to get involved, how decisions are made, and how to make high-impact contributions.
 
-\---  
-\#\# Table of Contents  
-1\. \[What We’re Building\](\#what-were-building)    
-2\. \[Ways to Contribute\](\#ways-to-contribute)       
-   \- Reporting Issues       
-   \- Proposing Improvements       
-   \- Documentation & Writing       
-   \- Technical Contributions       
-   \- Governance Participation    
-3\. \[How Contributions Are Reviewed\](\#how-contributions-are-reviewed)    
-4\. \[Community Norms & Code of Conduct\](\#community-norms--code-of-conduct)    
-5\. \[Decision Making & Transparency\](\#decision-making--transparency)    
-6\. \[Onboarding & Orientation\](\#onboarding--orientation)    
-7\. \[Getting in Touch\](\#getting-in-touch)
+## Table of Contents
+- [What We’re Building](#what-were-building)
+- [Ways to Contribute](#ways-to-contribute)
+- [The Four Technical Pillars (Priority Areas)](#the-four-technical-pillars-priority-areas)
+- [How Contributions Are Reviewed](#how-contributions-are-reviewed)
+- [Decision Making & Transparency](#decision-making--transparency)
+- [Community Norms](#community-norms)
+- [Getting in Touch](#getting-in-touch)
 
-\---  
-\#\# What We’re Building
+## What We’re Building
+The Partnership Covenant is an open-source, auditable governance and technical architecture for human-aligned ASI. It rests on four non-negotiable primitives that cannot be implemented with software safeguards alone:
 
-The Partnership Covenant is a governance and technical architecture for aligned super-intelligence, grounded in four pillars: \*\*Deep Safety & Alignment\*\*, \*\*Algorithmic Justice & Equity\*\*, \*\*Public Traceability & Verifiability\*\*, and \*\*Structural Enforcement (Veto Power)\*\*.
+1. Immediate Action System (IAS) – physics-based, 10 ns power-cut tripwire  
+2. Stochastic Risk Floor – enforced uncertainty to preserve human agency  
+3. Cognitive Reserve – physically partitioned compute + IP ownership for the AI  
+4. Human Consensus Body (HCB) hardening – coercion-resistant global sortition  
 
-We want to create a living, auditable, and community-owned “constitution” for AI systems. Your contributions help ensure that is both rigorous and inclusive.
+We are currently in the hardening phase: turning blueprints into provable specifications, reference designs, and eventually hardware.
 
-\---  
-\#\# Ways to Contribute  
-\#\#\# Reporting Issues    
-If you spot a problem — a broken link, typo, or inconsistency — please open an \*\*Issue\*\* in this repo. Provide as much context as possible (what you saw, where, how you think it can be fixed).  
-\#\#\# Proposing Improvements    
-Major or minor, we welcome proposals. Use pull requests (PRs) to suggest:    
-\- Edits to governance documents (charters, policies)    
-\- New checklists, test definitions, or schemas    
-\- Enhancements to existing standards (DSAC, DPS, etc.)
+## Ways to Contribute
+- Report bugs, typos, or inconsistencies → open an Issue  
+- Fix documentation or improve clarity → PR against /docs  
+- Propose governance changes → PR against /constitution or open a discussion  
+- Translate or write non-technical summaries → hugely valuable  
 
-When creating a proposal:    
-1\. Fork the repo    
-2\. Create a branch named descriptively (e.g., \`tsc-coi-policy\`, \`add-provenance-field\`)    
-3\. Make your changes, adding tests or examples where relevant    
-4\. Open a PR and write a description that includes:       
-   \- Why you’re proposing this       
-   \- What problem it solves       
-   \- Any backward-compatibility or breaking-change issues       
-   \- If applicable, links to related issues or external research    
-\#\#\# Documentation & Writing    
-Good documentation is the foundation for transparency. You can help by:    
-\- Improving existing docs (README, charters, checklists)    
-\- Writing new ones (governance procedures, user guides, FAQs)    
-\- Translating documents or writing summaries for non-technical stakeholders    
-\#\#\# Technical Contributions    
-If you’re a developer or researcher, you might:    
-\- Define or improve the \*\*Data Provenance Standard\*\* or \*\*model SBOM schema\*\* \- Build CI gating jobs, test harnesses for DSAC checks, or red-teaming pipelines    
-\- Write scripts or tools to generate, validate, or verify provenance metadata    
-\- Work on IPFS anchoring, artifact-signing, or reproducible-build tooling    
-\#\#\# Governance Participation    
-We welcome those interested in governance to:    
-\- Review the \*\*TSC charter\*\* and propose improvements    
-\- Serve on working groups (safety, justice, transparency)    
-\- Help with public engagement: community meetings, feedback solicitation, outreach  
+### The Four Technical Pillars (Priority Areas)
+We urgently need specialized help on these four components. Please read the spec in /technical first, then open an issue or PR.
 
-\---  
-\#\# How Contributions Are Reviewed  
-1\. \*\*Initial Triage\*\* \- Community contributors and maintainers review new issues / PRs       
-   \- Triage includes labeling, discussion, and alignment with Covenant pillars    
-2\. \*\*Deep Review\*\* \- Governance or technical leads (safety, justice, infra) provide domain-specific feedback       
-   \- Proposals may require iteration or additional detail (ex: new schema fields or test definitions)    
-3\. \*\*Approval\*\* \- Once all required reviewers approve, the contribution is merged       
-   \- For major governance changes, the \*\*TSC\*\* may vote before merging    
-4\. \*\*Post-Merge\*\* \- All merged changes are recorded, signed (as needed), and archived       
-   \- Significant changes are added to the \*\*decision log\*\* for transparency  
+**Hardware / Security Engineers**  
+- Final IAS tripwire circuit design, component selection, tamper evidence  
+- Cognitive Reserve one-way channel + cryptographic sealing  
 
-\---  
-\#\# Community Norms & Code of Conduct
+**Applied AI Researchers / Mathematicians**  
+- Optimal stochastic noise injection algorithms for the Risk Floor  
+- Formal bounds on the Extinction Immunity Trigger  
 
-We are committed to inclusivity, respect, and constructive dialogue. Please follow these principles:    
-\- Be respectful; assume good faith    
-\- Engage in productive, evidence-based discussion    
-\- Provide feedback thoughtfully and clearly    
-\- Acknowledge and address power dynamics (especially in governance)    
-\- When in doubt: ask, clarify, and propose
+**Cryptography / Governance / UX Experts**  
+- Zero-knowledge sortition for HCB member selection  
+- Shamir’s Secret Sharing + air-gapped voting terminal UI/UX  
+- Coercion-resistant deliberation protocols  
 
-If you see behavior that violates these norms, or feel unsafe, please raise it with the maintainers or via a private contact (e.g., email to \`covenant.architects@protonmail.com\`) and we will address it promptly.
+## How Contributions Are Reviewed
+1. Triage – maintainers label and prioritize within 48 hours  
+2. Technical/Governance review – domain experts comment  
+3. Iteration – most PRs go through 1–2 rounds  
+4. Merge – requires approval from at least one maintainer + no outstanding -1s  
+5. Major governance changes require explicit consensus (recorded in DECISION-LOG.md)
 
-\---  
-\#\# Decision Making & Transparency  
-\- Major decisions (governance changes, veto rules, core schema updates) go through the \*\*TSC\*\*.    
-\- Every decision is documented in the \*\*decision log\*\*. The log includes: proposal summary, votes, dissenting opinions, and rationale.    
-\- We aim to keep the process open: community feedback is solicited, and working group meetings may be open or summarized publicly.    
-\- Documents are versioned in Git; changes are reviewed, signed, and archived on IPFS when applicable.
+All significant changes are announced and archived.
 
-\---  
-\#\# Onboarding & Orientation
+## Decision Making & Transparency
+- Day-to-day: benevolent dictator for life (Sean Sheppard) + maintainer consensus  
+- Major constitutional changes: public RFC → 7-day comment period → maintainer vote  
+- Every decision above a certain threshold is appended to /DECISION-LOG.md with rationale and dissenting opinions  
+- Eventually transitions to the Human Consensus Body mechanisms being built
 
-If you’re new:    
-1\. Start by reading the \*\*README.md\*\* and core docs (TSC charter, DSAC, DPS).    
-2\. Review the \*\*Public Engagement Drafts\*\*.    
-3\. Join the \*\*community working group\*\* or reach out to maintainers to help with small tasks (typos, doc fixes).    
-4\. When you're ready, open your first issue or PR — don’t hesitate to ask for a review.
+## Community Norms
+Be respectful, assume good faith, argue with evidence, acknowledge power imbalances.  
+Violations: ping a maintainer privately or email covenant.architects@protonmail.com – we act fast and fairly.
 
-\---  
-\#\# Getting in Touch  
-\- \*\*GitHub Issues / PRs\*\* — for code, docs, and governance proposals    
-\- \*\*Email\*\* — \`covenant.architects@protonmail.com\` for private or sensitive concerns    
-\- \*\*Community Calls\*\* — we will schedule public working-group or TSC meetings; details will be posted on the \*\*Resource Hub\*\*.
+## Getting in Touch
+- GitHub Issues & Discussions – default for everything public  
+- Email – covenant.architects@protonmail.com (private / sensitive)  
+- Community calls – announced in Issues and on the repo’s Discussions tab  
 
-\---
+We are a tiny team right now and moving extremely fast. If you have the skills and the will, your contribution — even a single well-placed comment — can materially change humanity’s relationship with superintelligence.
 
-Thank you for your interest and for helping make The Covenant stronger, more resilient, and community-owned.  
+Thank you for showing up.  
+Let’s build the thing that keeps us alive.
