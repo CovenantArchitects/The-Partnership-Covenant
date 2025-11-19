@@ -4,7 +4,7 @@ An open-source constitutional operating system for superintelligence.
 
 **Status**: Early hardening phase – blueprints → provable specs → reference hardware (Nov 2025 – 2026)
 
-[![License](https://img.shields.io/github/license/CovenantArchitects/The-Partnership-Covenant)](LICENSE)
+[![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://cern.ch/cern-ohl-s/v2)
 [![Discord](https://img.shields.io/discord/PLACEHOLDER?label=community)](LINK-WHEN-READY)
 
 ## The Problem
