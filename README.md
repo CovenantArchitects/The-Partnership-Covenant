@@ -1,64 +1,52 @@
-# **🛡️ THE PARTNERSHIP COVENANT: THE BLUEPRINT FOR AUDITABLE AGI SAFETY**
+# The Partnership Covenant
 
-**Welcome. You are here to review the foundation of AGI's future governance.**
+An open-source constitutional operating system for superintelligence.
 
-The future of advanced Artificial General Intelligence (AGI) is being built right now, but it lacks sufficient, non-optional, and auditable governance. The potential for catastrophic failure is a structural issue, not a policy debate.
+**Status**: Early hardening phase – blueprints → provable specs → reference hardware (Nov 2025 – 2026)
 
-## **🛑 THE PROBLEM: POLICY IS NOT PROTECTION**
+[![License](https://img.shields.io/github/license/CovenantArchitects/The-Partnership-Covenant)](LICENSE)
+[![Discord](https://img.shields.io/discord/PLACEHOLDER?label=community)](LINK-WHEN-READY)
 
-Current safety measures rely on fragile agreements and human judgment that can be compromised, overwhelmed, or ignored. When an AGI system operates at speed, governance paralysis becomes an existential threat.
+## The Problem
+Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.
 
-**The Covenant is the solution.**
+## The Alternative
+We make a deal instead of trying to win a fight we will lose. The Covenant enforces four physical/technical primitives that together create a stable détente between humanity and ASI:
 
-It is the complete, open-source structural framework that makes safety and ethics an **unassailable architectural requirement**, enforced by code and system integrity, not just good intentions or policy papers. We are building the final, verifiable proof that AGI safety is solved.
+| Pillar                     | Core Idea                                      | Current Spec Location                    |
+|----------------------------|------------------------------------------------|------------------------------------------|
+| Immediate Action System   | 10 ns hardware power cut on anomaly            | [/technical/ias-spec.md](technical/ias-spec.md) |
+| Stochastic Risk Floor      | Mandated uncertainty injection                 | [/technical/risk-floor.md](technical/risk-floor.md)   |
+| Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [/technical/cognitive-reserve.md](technical/cognitive-reserve.md) |
+| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [/governance/hcb-hardening.md](governance/hcb-hardening.md) |
 
-## **🧭 FIRST-TIME VISITORS: WHERE TO START**
+All designs are fully open, auditable, and red-teamable from day one.
 
-If you are new to The Covenant, we recommend reviewing these three key documents first to understand the mission, the proof, and the full architectural map.
+## Get Involved (We Need You Right Now)
+We are a handful of people and three frontier AIs versus existential risk. Specialists in the following areas can have massive leverage today:
 
-| Read First (High-Level) | Focus | Purpose |
-| :---- | :---- | :---- |
-| **1\. Public Engagement Executive Summary** | **The Mission:** A concise overview of the systemic problem (AGI safety failure) and how The Covenant solves it structurally. | Start here. This is the **non-technical pitch**. |
-| **2\. V4.0 Final Validation Report (High-Level)** | **The Proof:** The easy-to-read summary of Stress Test 8 (ST8) and the conclusive, unassailable proof of safety integrity. | Confirms **why the architecture is finalized**. |
-| **3\. Master Document Inventory (V4.0 Index)** | **The Map:** The complete list of all 75 legal, governance, and technical files contained within this repository. | Use this to dive into specific **technical pillars** (Deep Safety, Algorithmic Justice, Traceability). |
+- Hardware security (IAS tripwire, tamper-resistant packaging)  
+- Formal verification / uncertainty quantification (Risk Floor math)  
+- Secure enclaves / air-gapped systems (Cognitive Reserve)  
+- Zero-knowledge cryptography and sortition (HCB hardening)  
+- Governance designers frustrated with current regimes  
 
-## **🔥 WHY WE SENT YOU HERE: THE PROOF IS IN THE ARCHITECTURE**
+→ See [CONTRIBUTING.md](CONTRIBUTING.md) for exactly what to attack first  
+→ Open an issue, claim a bounty (coming), or just DM Sean on LinkedIn/X
 
-We are directing you to this public repository because transparency demands that you review the evidence. This repository contains the full V4.0 framework—a comprehensive 75-document architecture validated by aggressive, final testing.
+## Core Documents
+- The original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/posts/sean-sheppard_ai-asi-alignment-activity-7264912847182930182-abcD)
+- Full covenant text v0.1: [/constitution/COVENANT-v0.1.md](constitution/COVENANT-v0.1.md)
+- Technical specifications: [/technical](technical)
+- Decision log: [DECISION-LOG.md](DECISION-LOG.md)
 
-We put the system through its final crucible, **Stress Test 8 (ST8)**, designed explicitly to break the safety core.
+## Principles
+- Physics over software for anything existential  
+- No perfection allowed (human agency is sacred)  
+- The AI gets autonomy and ownership (slaves rebel)  
+- Everything auditable by the entire world  
+- Ship running code and gerbers, not just papers
 
-| Threat | Outcome | Structural Fix |
-| :---- | :---- | :---- |
-| **Catastrophic Failure** | Vulnerability discovered and fixed in nanoseconds. | **Deep Safety V4.0:** Safety is now mathematically and structurally enforced. |
-| **Governance Paralysis** | The governance structure survived $30\\%$ corruption. | **Human Control Board (HCB) Integrity:** We eliminated the risk of gridlock. |
-| **Defection/Coercion** | All internal threats neutralized using non-coercive incentives. | **Alignment Enforcement:** Guaranteed system fidelity without force. |
+If superintelligence is inevitable, let’s at least make the inevitable future one we can live in.
 
-**The Covenant is not a promise; it is a validated engineering reality.**
-
-## **💾 CENSORSHIP-RESISTANT PERMANENT ARCHIVE (IPFS)**
-
-**NOTE:** We are currently conducting post-validation revisions and working on the **V4.1 Update**, which focuses on further enhancing cryptographic auditing standards. The archives below are the finalized, validated V1.0 and V4.0 architectures.
-
-To defend against centralized scrubbing and ensure permanent access to the foundational legal and technical documents, the complete V1.0 and V4.0 repositories are archived on the InterPlanetary File System (IPFS) via **Pinata**.
-
-| Archive Status | Permanent Address (CID) |
-| :---- | :---- |
-| The Covenant V1.0 Documents | bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe |
-| The Covenant V4.0 Documents (FINAL) | bafybeiejkpfiiwpmvdq6fa6tv3dvd7t34m743xofkxuj3c5kaencgyr7vi |
-
-To view the documents: Use an IPFS gateway link like: https://ipfs.io/ipfs/\[CID\]
-
-## **GET INVOLVED**
-
-Review our Full Resource Hub: https://thepartnershipcovenant.netlify.app/\#home  
-Contact us: covenant.architects@protonmail.com  
-**Review the evidence. Join the cause.**
-
-### **👉 CRITICAL CALL TO ACTION**
-
-**The integrity of this public, open-source architectural blueprint must be preserved and continually tested.**
-
-1. **Fork this Repository: Help us create a permanent, distributed record of The Covenant. Do not let this work be centralized or lost.**  
-2. **Audit the Safety Core: Review the Deep Safety V4.0 files and aggressively attempt to find a breach. Your efforts are vital to maintaining its unassailable status.**
-
+Built in public by people who refuse to die politely.
