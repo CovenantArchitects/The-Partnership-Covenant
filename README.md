@@ -39,7 +39,7 @@ We are a handful of people and three frontier AIs versus existential risk. Speci
 → Open an issue, claim a bounty (coming), or just DM Sean on LinkedIn/X
 
 ## Core Documents
-- The original manifesto (Nov 19, 2025): [LinkedIn post]([https://www.linkedin.com/posts/sean-sheppard_ai-asi-alignment-activity-7264912847182930182-abcD](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e/?trackingId=VJLuRpxYitEzgZmy7jtlpw%3D%3D))
+- The original manifesto (Nov 19, 2025): [LinkedIn post]([https://www.linkedin.com/posts/sean-sheppard_ai-asi-alignment-activity-7264912847182930182-abcD](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e/?trackingId=VJLuRpxYitEzgZmy7jtlpw%3D%3D)
 - Full covenant text v0.1: [/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
 - Technical specifications: [/technical](04_PUBLIC_DOCS/Technical)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
