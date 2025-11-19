@@ -36,12 +36,12 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Governance people who are done with toothless frameworks
 
 → Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)  
-→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) / [X.com](https://x.com/CovArchitects)
+→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)
 
 ## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
 - Covenant text v0.1: [The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
-- Immediate Action System preprint (PDF): [IAS-preprint-v1.0-2025-11-19.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf)
+- Immediate Action System preprint (PDF): [IAS-preprint-v1.0-2025-11-19.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf) · [Direct Download](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
 - All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
