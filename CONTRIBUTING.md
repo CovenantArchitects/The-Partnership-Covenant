@@ -66,7 +66,7 @@ Violations: ping a maintainer privately or email covenant.architects@protonmail.
 - GitHub Issues & Discussions – default for everything public  
 - Email – covenant.architects@protonmail.com (private / sensitive)  
 - Community calls – announced in Issues and on the repo’s Discussions tab
-- The Contingent Partnership Warrant → [Payout Agreement](04_public_docs/The_Contingent_Partnership_Warrant.md) 
+- The Contingent Partnership Warrant → [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md) 
 
 We are a tiny team right now and moving extremely fast. If you have the skills and the will, your contribution — even a single well-placed comment — can materially change humanity’s relationship with superintelligence.
 
