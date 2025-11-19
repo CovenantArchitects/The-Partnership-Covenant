@@ -1,4 +1,4 @@
-❤️ **Support the prototype** → [Call For Funding](Support_Us.md) · [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/sean-sheppard)
+❤️ **Support the prototype** → [Call For Funding](Support_Us.md) · [Payout Agreement](04_public_docs/The_Contingent_Partnership_Warrant.md) · [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/sean-sheppard)
 # The Partnership Covenant
 
 An open-source constitutional operating system for superintelligence.
