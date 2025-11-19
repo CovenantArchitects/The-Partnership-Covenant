@@ -19,7 +19,7 @@ We make a deal instead of trying to win a fight we will lose. The Covenant enfor
 
 | Pillar                     | Core Idea                                      | Current Spec Location                                      |
 |----------------------------|------------------------------------------------|------------------------------------------------------------|
-| Immediate Action System   | 10 ns hardware power cut on anomaly            | [ias-spec.md](04_PUBLIC_DOCS/Technical/ias-spec.md) · [PDF preprint](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf) |
+| Immediate Action System   | 10 ns hardware power cut on anomaly            | [ias-spec.md](04_PUBLIC_DOCS/Technical/ias-spec.md) · [PDF preprint](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf) |
 | Stochastic Risk Floor      | Mandated uncertainty injection                 | [risk-floor.md](04_PUBLIC_DOCS/Technical/risk-floor.md)                     |
 | Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [cognitive-reserve.md](04_PUBLIC_DOCS/Technical/cognitive-reserve.md)       |
 | Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [hcb-hardening.md](04_PUBLIC_DOCS/Governance/hcb-hardening.md)              |
