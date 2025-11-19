@@ -41,6 +41,7 @@ Currently we are one person and three frontier AIs versus existential risk. Spec
 ## Core Documents
 - The original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e/?trackingId=VJLuRpxYitEzgZmy7jtlpw%3D%3D)
 - Full covenant text v0.1: [/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
+- Full technical preprint (PDF): [IAS-preprint-v1.0-2025-11-19.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant//04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf)
 - Technical specifications: [/technical](04_PUBLIC_DOCS/Technical)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
 
