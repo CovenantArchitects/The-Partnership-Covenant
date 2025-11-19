@@ -41,6 +41,6 @@ If superintelligence is coming, software stop buttons are theater. We’re build
 
 Thank you for being an Architect of this necessary constraint.
 
-The Contingent Partnership Warrant → [Payout Agreement](04_public_docs/The_Contingent_Partnership_Warrant.md)
+The Contingent Partnership Warrant → [Payout Agreement]([04_public_docs/The_Contingent_Partnership_Warrant.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
 Repo → [https://github.com/CovenantArchitects/The-Partnership-Covenant](https://github.com/CovenantArchitects/The-Partnership-Covenant)  
 IAS preprint → [https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04\_PUBLIC\_DOCS/IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf)   
