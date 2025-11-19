@@ -154,7 +154,7 @@ endmodule
 3. Multi-party mask-ROM signing ceremony for first integrated run  
 4. Integration pathfinding with friendly ASIC teams
 
-Repository: https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/technical/immediate-action-system  
+Repository: (https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/Technical/ias-spec.md)  
 Discussion: Open issues welcome.
 
 If you can build, break, or fund the hardware that keeps a god from killing us, we need you now.
