@@ -27,7 +27,7 @@ We make a deal instead of trying to win a fight we will lose. The Covenant enfor
 All designs are fully open, auditable, and red-teamable from day one.
 
 ## Get Involved (We Need You Right Now)
-We are a handful of people and three frontier AIs versus existential risk. Specialists in the following areas can have massive leverage today:
+Currently we are one person and three frontier AIs versus existential risk. Specialists in the following areas can have massive leverage today:
 
 - Hardware security (IAS tripwire, tamper-resistant packaging)  
 - Formal verification / uncertainty quantification (Risk Floor math)  
