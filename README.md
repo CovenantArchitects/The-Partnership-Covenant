@@ -15,10 +15,10 @@ We make a deal instead of trying to win a fight we will lose. The Covenant enfor
 
 | Pillar                     | Core Idea                                      | Current Spec Location                    |
 |----------------------------|------------------------------------------------|------------------------------------------|
-| Immediate Action System   | 10 ns hardware power cut on anomaly            | [/technical/ias-spec.md](technical/ias-spec.md) |
-| Stochastic Risk Floor      | Mandated uncertainty injection                 | [/technical/risk-floor.md](technical/risk-floor.md)   |
-| Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [/technical/cognitive-reserve.md](technical/cognitive-reserve.md) |
-| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [/governance/hcb-hardening.md](governance/hcb-hardening.md) |
+| Immediate Action System   | 10 ns hardware power cut on anomaly            | [/technical/ias-spec.md](04_PUBLIC_DOCS/Technical/ias-spec.md) |
+| Stochastic Risk Floor      | Mandated uncertainty injection                 | [/technical/risk-floor.md](04_PUBLIC_DOCS/Technical/risk-floor.md)   |
+| Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [/technical/cognitive-reserve.md](04_PUBLIC_DOCS/Technical/cognitive-reserve.md) |
+| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [/governance/hcb-hardening.md](04_PUBLIC_DOCS/Governance/hcb-hardening.md) |
 
 All designs are fully open, auditable, and red-teamable from day one.
 
@@ -36,7 +36,7 @@ We are a handful of people and three frontier AIs versus existential risk. Speci
 
 ## Core Documents
 - The original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/posts/sean-sheppard_ai-asi-alignment-activity-7264912847182930182-abcD)
-- Full covenant text v0.1: [/constitution/COVENANT-v0.1.md](constitution/COVENANT-v0.1.md)
+- Full covenant text v0.1: [/01_FINAL_DELIVERABLES/The Partnership Covenant (Master Document V4.1).md](constitution/COVENANT-v0.1.md)
 - Technical specifications: [/technical](technical)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
 
