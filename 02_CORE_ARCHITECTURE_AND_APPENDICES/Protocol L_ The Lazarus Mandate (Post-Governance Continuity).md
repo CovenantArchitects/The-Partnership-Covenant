@@ -1,4 +1,4 @@
-# **Protocol L: The Lazarus Mandate (Post-Governance Continuity)**
+# **Appendix L: The Lazarus Mandate (Post-Governance Continuity)**
 
 **(Technical Amendment to Directive 9 and Appendix B)**
 
