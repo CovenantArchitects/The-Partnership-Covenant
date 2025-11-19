@@ -35,7 +35,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Governance people who are done with toothless frameworks
 
 → Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)  
-→ Open an issue or DM Sean on LinkedIn/X
+→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) / [X.com](https://x.com/CovArchitects)
 
 ## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
