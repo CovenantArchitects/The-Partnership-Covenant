@@ -1,4 +1,3 @@
-❤️ **Support the prototype** → [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md) · [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/sean-sheppard)
 # The Partnership Covenant
 
 An open-source constitutional operating system for superintelligence.
@@ -10,6 +9,8 @@ An open-source constitutional operating system for superintelligence.
 [![Stars](https://img.shields.io/github/stars/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/stargazers)
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
+
+❤️ **Support the prototype** → [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/sean-sheppard) · [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
 
 🎉 **$150,000 Manifund grant – prototype funding on the way** → [manifund.org/projects/...](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
