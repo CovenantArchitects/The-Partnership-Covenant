@@ -8,7 +8,7 @@ This document defines the foundational technical requirements for the developmen
 
 The choice of license dictates the terms of contribution, modification, and redistribution, directly impacting our compliance and community engagement goals.
 
-* **Chosen License:** Apache License 2.0 (ASL 2.0)  
+* **Chosen License:** CERN-OHL-S v2  
 * **Rationale:** The Apache License 2.0 is highly permissive while providing explicit protection against patent claims from contributors and offering clear liability disclaimers, which directly supports the requirements set forth in the Regulatory Compliance Policy.1
 
 **Key Licensing Mandates:**
