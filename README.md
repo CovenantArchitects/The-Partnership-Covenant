@@ -53,6 +53,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
+- Why the Next AI is Not Just a Better Google: [Article](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Why%20the%20Next%20AI%20is%20Not%20Just%20a%20Better%20Google.md)
 - Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
 
 ## Principles
