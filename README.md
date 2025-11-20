@@ -43,6 +43,8 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 
 ## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
+- Why the Next AI is Not Just a Better Google: [Article](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Why%20the%20Next%20AI%20is%20Not%20Just%20a%20Better%20Google.md)
+- Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
 - Mission Statement: [Mission_Statement_&_Principles.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/Governance/Mission_Statement_%26_Principles.md)
 - Covenant text v4.1: [The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
 - Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
@@ -53,8 +55,6 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
-- Why the Next AI is Not Just a Better Google: [Article](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Why%20the%20Next%20AI%20is%20Not%20Just%20a%20Better%20Google.md)
-- Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
 
 ## Principles
 - Physics beats software for anything existential  
