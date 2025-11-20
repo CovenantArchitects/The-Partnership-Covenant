@@ -53,7 +53,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
 - Decision log: [DECISION-LOG.md](DECISION-LOG.md)
-- Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis]()
+- Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
 
 ## Principles
 - Physics beats software for anything existential  
