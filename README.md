@@ -43,7 +43,9 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 
 ## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
-- Covenant text v0.1: [The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
+- Covenant text v4.1: [The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
+- Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
+- The Eleven Prime Directives for Aligned Super-Intelligence: [11 Prime Directives](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
 - Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf) · [Direct Download](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
 - All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
