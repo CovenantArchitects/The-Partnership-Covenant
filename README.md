@@ -4,7 +4,7 @@ An open-source constitutional operating system for superintelligence.
 
 **Status**: Early hardening phase – blueprints → provable specs → reference hardware (Nov 2025 onward)
 
-[![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://cern-ohl.web.cern.ch/)
+[![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Contributors](https://img.shields.io/github/contributors/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/stargazers)
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
