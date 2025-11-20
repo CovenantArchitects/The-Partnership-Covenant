@@ -11,6 +11,8 @@ An open-source constitutional operating system for superintelligence.
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
+🎉 **$150,000 Manifund grant – prototype funding on the way** → [manifund.org/projects/...](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
+
 ## The Problem
 Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.
 
