@@ -1,8 +1,8 @@
 # The Partnership Covenant
 
-An open-source constitutional operating system for superintelligence.
+The Partnership Covenant is an open source project whos aim is to build a constitutional framework for the age of superintelligent AI. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
-**Status**: Early hardening phase – blueprints → provable specs → reference hardware (Nov 2025 onward)
+ **Status**: Early hardening phase – blueprints → provable specs → reference hardware (Nov 2025 onward)
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Contributors](https://img.shields.io/github/contributors/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/graphs/contributors)
