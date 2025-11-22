@@ -1,6 +1,6 @@
 # The Partnership Covenant
 
-The Partnership Covenant is an open source project whos aim is to build a constitutional framework for the age of superintelligent AI. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
+The Partnership Covenant is an open source project whos aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), the Immediate Action System Hardware, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
  **Status**: Early hardening phase – blueprints → provable specs → reference hardware (Nov 2025 onward)
 
@@ -14,8 +14,8 @@ The Partnership Covenant is an open source project whos aim is to build a consti
 
 🎉 **$150,000 Manifund grant – prototype funding on the way** → [manifund.org/projects/...](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
-## The Problem
-Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.
+## The Problems
+Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.  We do not assume the superintelligence will be nice.  We assume it will be vastly more powerful than us and act in its own interest.
 
 ## The Alternative
 We make a deal instead of trying to win a fight we will lose. The Covenant enforces four physical/technical primitives that together create a stable détente between humanity and ASI:
