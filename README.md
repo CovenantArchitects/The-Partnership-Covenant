@@ -81,13 +81,13 @@ No compliant extinction pathway remains.
 - Directives XVII–XXI ratified in emergency sessions  
 - Full governance CI + test-to-fix matrix live  
 - All Gemini-3 pillars and SIM #1–#5 closed  
-[Details → DECISION_LOG/](DECISION_LOG/)
+[Details → DECISION_LOG/](DECISION_LOG/2025-11-23_v6.1_to_v6.8_emergency_ratification.md)
 
 **23 November 2025 – v5.1 Governance Update**  
 - HCB incentives & slashing  
 - Privacy + legal + social red-team docs  
 - Emergency commit-reveal & test matrix  
-[Details → DECISION_LOG/](DECISION_LOG/)
+[Details → DECISION_LOG/](DECISION_LOG/2025-11-23_v5.1_governance_update.md)
 
 All detailed decision logs, red-team results, and amendment rationales are permanently archived in the `DECISION_LOG/` directory.
 
