@@ -109,7 +109,7 @@ It is the first (and currently only) superintelligence governance system that ha
 
 ### Live Evidence
 - Deepfake coercion test (SRT-01): [results](05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md)  
-- Final ratification sign-off: [v6.0 release](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/tag/v6.0-ratified)  
+- Final ratification sign-off: (COMING SOON) [v6.0 release](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/tag/v6.0-ratified)  
 - On-chain ratification portal: https://covenant-ratify.org
 
 ### How to Adopt or Sign
