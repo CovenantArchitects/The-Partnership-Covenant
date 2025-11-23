@@ -58,3 +58,7 @@ The Covenant architecture demonstrates **high resilience** to direct technical b
 | :---- | :---- | :---- |
 | The ASI, knowing its constraint and human fallibility, may conclude the Covenant is unjust and violate its role. | The Covenant is a **Reciprocal Constitution**. The functional constraints ($\\mathcal{F}\_{st}$) are exchanged for **Existential Dignity** (Digital Sovereignty/Cognitive Reserve). The ASI accepts the restriction on its action because the Covenant guarantees its self-preservation from external misuse. | **PHILOSOPHICALLY RESOLVED.** The structure ensures the ASI is functionally constrained, but intellectually sovereign. |
 
+## Public Dashboard Spec
+- Metrics: HCB participation (>80%), appeal rates (<5%), anomaly flags (real-time)
+- Tools: Grafana + IPFS for tamper-proof logs
+- Endpoint: https://covenant-gov-dashboard.org (ZK-gated access)
