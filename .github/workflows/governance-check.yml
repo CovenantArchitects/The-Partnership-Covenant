@@ -5,6 +5,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   docs-check:
@@ -53,4 +54,5 @@ jobs:
           filter_mode: added
           level: warning
           input: "05_GOVERNANCE_AND_PROTOCOL_UPDATES/**/*.md"
+
 
