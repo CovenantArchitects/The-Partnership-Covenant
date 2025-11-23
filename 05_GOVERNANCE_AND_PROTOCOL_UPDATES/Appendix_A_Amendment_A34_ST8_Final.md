@@ -22,3 +22,17 @@ C-ASI shall continuously monitor CSB saturation. Any measurement of $\\mathcal{C
 
 Enforcement of $\\mathcal{W}\_{P} \= 1.0$ and the $10^{-8}$ second IAS trigger shall be logged via the Immutable Log Chain (D.3.1) and subject to quarterly verification by the International Audit Agency (E.2.2).
 
+## Governance Threat Model v5.0
+### Attacker Profiles
+- Nation-state: Resources for coercion (e.g., $5-wrench on families); incentive: control ASI IP.
+- Corp/Insider: Economic leverage (bribes via jobs); time horizon: 1–5 years.
+- AI-Enabled Actor: Automated social engineering (deepfake sortition manipulation); horizon: weeks.
+
+### Key Vectors & Mitigations
+| Vector              | Success Condition          | Mitigation (from repo)                  |
+|---------------------|----------------------------|-----------------------------------------|
+| Voter Capture       | >30% HCB coerced           | Dispersed nodes + ZK (ST8-05_HCB_Fallback) |
+| Sybil/Identity Fraud| Fake jurors >10%           | VRF sortition (Protocol_ST8_Access_Decoupling) |
+| Social Engineering  | Disengagement >50%         | [Add playbook – see J below]            |
+
+### Validation: Retest quarterly via ST-series.
