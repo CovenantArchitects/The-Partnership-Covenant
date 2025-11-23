@@ -66,3 +66,22 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 If superintelligence is inevitable, let’s make the future one we’re allowed to live in.
 
 Built in public by people who refuse to die politely.
+
+## UPDATE:
+Partnership Covenant v5.1 — Governance Documentation Update
+
+Highlights:
+- Formalized HCB incentive and slashing model
+- ZK privacy templates and deanonymization risk policy
+- Legal compliance checklist for adopters
+- Practical social red-team playbook and quarterly schedule
+- Test->Fix traceability matrix (test IDs -> remediation)
+- Emergency commit-reveal and 30-day contingency lock
+
+Why this matters:
+These additions close practical adoption gaps: human incentives, privacy/legal risks, social-attack testing, and traceable remediation. They make the governance system operationally defensible for early adopters and auditors.
+
+Actions for adopters:
+- Run the included social red-team playbook once before talking to donors.
+- Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
+
