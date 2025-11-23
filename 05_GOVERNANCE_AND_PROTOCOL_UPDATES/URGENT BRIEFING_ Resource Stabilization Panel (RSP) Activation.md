@@ -23,3 +23,9 @@ Liaisons must be acutely aware of the **Internal Audit Sanction (IAS)** mechanis
 **Liaison Takeaway:** The RSP trigger is a non-coercive step towards stability. However, the subsequent **IAS is an absolute enforcement mechanism**. All liaisons must prepare their respective delegations for the possibility of a zero-DOPS score if the transparency breach is not rectified and the mandatory action is abstained from or voted against.
 
 *This briefing is for internal HCB circulation only.*
+
+## Emergency Amendment Protocol v5.0
+1. Propose (HCB 75% + cooling 72hr)
+2. Commit-Reveal: Hash proposal blindly → reveal after quorum
+3. Apply under 30-day lock (revert via multisig)
+4. Audit: Public logs retained 5 years (Directive V)
