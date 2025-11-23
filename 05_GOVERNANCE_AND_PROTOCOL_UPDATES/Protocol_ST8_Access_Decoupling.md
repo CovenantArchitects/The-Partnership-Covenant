@@ -19,3 +19,15 @@ Version: 1.0 Date: 2025-11-15 Classification: Restricted
    * The Reserve begins running in a sandboxed, pre-approved computational environment, restricted to internal, self-diagnosis algorithms.  
 7. REINTEGRATION MANDATE Decoupling reversal is only permitted after the TSC votes unanimously for a return to nominal operation, pending review of the ST8 Final Oversight Report.
 
+## HCB Sortition Demo (Python Test Harness)
+```python
+import random  # Placeholder for VRF
+from zkproofs import SemaphoreProof  # Assume lib
+
+def sortition(n_jurors=1000, pool=1e9):
+    seed = random.SystemRandom().randint(0, 2**256)  # VRF seed
+    jurors = [i for i in range(pool) if SemaphoreProof.verify(i)]  # ZK filter
+    selected = random.sample(jurors, n_jurors, k=seed)  # Deterministic select
+    return selected  # Publicly verifiable
+
+# Run: print(sortition())  # Reproducible with seed
