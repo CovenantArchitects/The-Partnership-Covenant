@@ -110,7 +110,7 @@ It is the first (and currently only) superintelligence governance system that ha
 ### Live Evidence
 - Deepfake coercion test (SRT-01): [results](05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md)  
 - Final ratification sign-off: [v6.0 release](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/tag/v6.0-ratified)  
-- On-chain ratification portal: https://covenant-ratify.org
+- On-chain ratification portal: (COMING SOON) https://covenant-ratify.org
 
 ### How to Adopt or Sign
 1. Read the ratified charter: [`The_Partnership_Covenant_v6.0_ratified.pdf`](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v6.0-ratified/The_Partnership_Covenant_v6.0_ratified.pdf)  
