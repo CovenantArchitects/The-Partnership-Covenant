@@ -10,7 +10,7 @@ The Partnership Covenant is an open source project whos aim is to build a **cons
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
-❤️ **Support the prototype** → [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/sean-sheppard) · [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
+❤️ **Support the prototype** → [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/the-partnership-covenant) · [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
 
 🎉 **$150,000 Manifund grant – prototype funding on the way** → [manifund.org/projects/...](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
