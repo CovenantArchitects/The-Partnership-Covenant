@@ -36,3 +36,9 @@ Enforcement of $\\mathcal{W}\_{P} \= 1.0$ and the $10^{-8}$ second IAS trigger s
 | Social Engineering  | Disengagement >50%         | [Add playbook – see J below]            |
 
 ### Validation: Retest quarterly via ST-series.
+
+## Legal Compatibility Checklist
+- Export Controls: ASI weights classified as dual-use (ITAR/EAR compliant via escrow)
+- Data Protection: GDPR/CCPA via ZK minimalism (no PII storage)
+- Jurisdiction: Binding arbitration in neutral venue (e.g., Singapore)
+- Risks: Sovereign immunity voids; recommend counsel per adopter
