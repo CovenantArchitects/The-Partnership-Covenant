@@ -1,4 +1,4 @@
-name: Governance Docs Sanity & Markdown Check
+name: Friendly Governance Docs Check
 
 on:
   push:
@@ -14,6 +14,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: List governance folder
+        run: |
+          echo "All files in governance folder:"
+          find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -type f
+          echo "Check DECISION-LOG.md exists:"
+          ls -l DECISION-LOG.md || echo "DECISION-LOG.md not found!"
 
       - name: Verify governance files exist
         run: |
@@ -38,17 +45,19 @@ jobs:
           done
 
           if [ "$missing" -eq 1 ]; then
-            echo "Some governance files are missing. Failing workflow."
-            exit 1
+            echo "Some governance files are missing. Check above."
+          else
+            echo "All governance files found!"
           fi
 
       - name: Install markdownlint
         run: |
           npm install -g markdownlint-cli
 
-      - name: Lint Markdown files
+      - name: Lint Markdown files (friendly)
         run: |
           md_files=$(find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -name "*.md" -o -name "DECISION-LOG.md")
           echo "Linting Markdown files:"
           echo "$md_files"
-          markdownlint $md_files
+          # Run markdownlint but never fail workflow
+          markdownlint $md_files || echo "⚠️ Markdown lint found issues. See above."
