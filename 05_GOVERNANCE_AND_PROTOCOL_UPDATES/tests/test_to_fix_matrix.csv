@@ -1,3 +1,8 @@
 Test_ID,Failure_Description,Fix_File,Retest_Date,Status
 ST8-01,Epistemic Capture,RedTeam_Oracle_v5.md,2025-11-20,CLOSED
+
 SIM-3,Phase-Transition,Global_PhaseTransition_Risk_Board_v7.md,2025-11-23,CLOSED
+
+Test_ID,Failure_Description,Fix_File,Retest_Date,Status
+ST8-01,Epistemic Capture,RedTeam_Oracle_v5.md,2025-11-20,CLOSED
+ST8-04,Verifier Compromise,Verifier_Quorum_v6.md,2025-11-22,CLOSED
