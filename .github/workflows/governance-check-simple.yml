@@ -1,0 +1,40 @@
+name: Governance Docs Sanity Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check governance files exist
+        run: |
+          files=(
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
+          )
+
+          missing=0
+          for f in "${files[@]}"; do
+            if [ ! -f "$f" ]; then
+              echo "❌ MISSING: $f"
+              missing=1
+            else
+              echo "✅ Found: $f"
+            fi
+          done
+
+          if [ $missing -eq 1 ]; then
+            echo "Some governance files are missing. Failing workflow."
+            exit 1
