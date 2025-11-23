@@ -13,26 +13,32 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Check required governance files exist
-        shell: bash
-        run: |
-          files=(
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
-          )
+  shell: bash
+  run: |
+    files=(
+      "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
+      "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
+      "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
+      "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
+      "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
+      "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
+    )
 
-          missing=0
-          for f in "${files[@]}"; do
-            if [[ ! -f "$f" ]]; then
-              echo "MISSING: $f"
-              missing=1
-            else
-              echo "Found: $f"
-            fi
-          done
+    missing=0
+    for f in "${files[@]}"; do
+      if [[ ! -f "$f" ]]; then
+        echo "MISSING: $f"
+        missing=1
+      else
+        echo "Found: $f"
+      fi
+    done
+
+    if [[ $missing -eq 1 ]]; then
+      echo "Some governance files are missing. Failing."
+      exit 1
+    fi
+    done
 
           if [[ $missing -eq 1 ]]; then
             echo "Some governance files are missing. Failing."
@@ -47,3 +53,4 @@ jobs:
           filter_mode: added
           level: warning
           input: "05_GOVERNANCE_AND_PROTOCOL_UPDATES/**/*.md"
+
