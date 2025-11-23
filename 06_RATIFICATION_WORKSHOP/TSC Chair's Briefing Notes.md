@@ -52,3 +52,9 @@
 ## **4\. Closing & Mandate (12:15)**
 
 "The TSC is mandated to vote unanimously. HCB members, remember your role is to validate the *safety architecture*, not to renegotiate the terms of the stress test. Let’s confirm the schedule for technical integration and get these documents signed."
+
+## Roles Matrix
+| Role          | Privileges              | Escalation Path          |
+|---------------|-------------------------|--------------------------|
+| HCB Juror     | Vote on proposals       | Appeal to multisig       |
+| Maintainer    | Merge non-emergency PRs | Emergency: 3-of-5 quorum |
