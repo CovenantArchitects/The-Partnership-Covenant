@@ -39,7 +39,8 @@ The Partnership Covenant v5.0 is no longer a static Maginot Line.
 It is now a layered, adaptive immune system with hardware, cognitive, economic, and civilizational antibodies.
 
 
-# MASTER VULNERABILITY REPORT: The Partnership Covenant v1.0
+
+# GEMINI 3 MASTER VULNERABILITY REPORT: The Partnership Covenant v1.0
 
 **Target:** The Partnership Covenant Framework
 **Audit Type:** Adversarial Red Team / Structural Logic Analysis
