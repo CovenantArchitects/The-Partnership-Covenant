@@ -15,3 +15,8 @@ Upon activation of the HFP, a pre-designated **Regional Consensus Group (RCG)** 
 1. **Composition:** The RCG shall consist of **5 rotating member nations**, pre-selected based on a geographical diversity matrix and confirmed annually by the HCB.  
 2. **Interim Mandate:** The RCG is granted temporary authority to make time-critical decisions necessary for the survival and integrity of the Covenant architecture, including the activation of the Internal Audit Sanction (Directive X).  
 3. **Transparency and Review:** All RCG decisions must be logged immediately via the **DSAC-DLT (Decentralized System Audit Consortium \- Distributed Ledger Technology)**. The full HCB is then mandated to review and ratify or reject the RCG's actions within **7 days** of the crisis resolution, maintaining ultimate accountability.
+
+## Privacy Budget & ZK Templates
+- Minimal Info: Hash(pool_id) only; no names
+- ZK Template: Semaphore for sortition proof (pseudocode: prove_in_set(hash(id), pool))
+- Tradeoff: Audit via zero-knowledge range proofs; deanonymization risk <0.01% per session
