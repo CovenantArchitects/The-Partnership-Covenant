@@ -1,33 +1,42 @@
 name: Governance docs check
-on: [push, pull_request]
+
+on:
+  push:
+  pull_request:
+
 jobs:
   docs-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Check required governance files exist
         run: |
           files=(
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/test_to_fix_matrix.csv"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
           )
+
           missing=0
           for f in "${files[@]}"; do
             if [[ ! -f "$f" ]]; then
               echo "MISSING: $f"
               missing=1
+            else
+              echo "Found: $f"
             fi
           done
+
           if [[ $missing -eq 1 ]]; then
             echo "Some governance files are missing. Failing."
             exit 2
           fi
-      - name: Lint Markdown (markdownlint)
+
+      - name: Lint Markdown
         uses: reviewdog/action-markdownlint@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
