@@ -10,22 +10,26 @@ on:
 jobs:
   docs-check:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Check required governance files exist
+      - name: Verify required governance files exist
         run: |
           missing=0
-
-          # List of required governance files
-          for f in \
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md" \
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md" \
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md" \
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md" \
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv" \
+          files=(
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
-          do
+          )
+
+          for f in "${files[@]}"; do
             if [ ! -f "$f" ]; then
               echo "MISSING: $f"
               missing=1
@@ -39,7 +43,34 @@ jobs:
             exit 1
           fi
 
-      - name: Lint Markdown
+      - name: Check DECISION-LOG.md references all v5.1 files
+        run: |
+          missing=0
+          decision_log="DECISION-LOG.md"
+          files_to_check=(
+            "HCB_INCENTIVES_v5.md"
+            "PRIVACY_TRADEOFFS.md"
+            "LEGAL_CONSIDERATIONS.md"
+            "SOCIAL_REDTEAM_PLAYBOOK.md"
+            "test_to_fix_matrix.csv"
+            "UPGRADE_AND_EMERGENCY.md"
+          )
+
+          for f in "${files_to_check[@]}"; do
+            if ! grep -q "$f" "$decision_log"; then
+              echo "DECISION-LOG.md missing entry for: $f"
+              missing=1
+            fi
+          done
+
+          if [ $missing -eq 1 ]; then
+            echo "DECISION-LOG.md is missing entries. Failing."
+            exit 1
+          else
+            echo "DECISION-LOG.md contains all v5.1 governance files."
+          fi
+
+      - name: Lint Markdown files
         uses: reviewdog/action-markdownlint@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
