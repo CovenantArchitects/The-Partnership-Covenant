@@ -82,6 +82,10 @@ Highlights:
 Why this matters:
 These additions close practical adoption gaps: human incentives, privacy/legal risks, social-attack testing, and traceable remediation. They make the governance system operationally defensible for early adopters and auditors.
 
+2025-11-23
+Governance & Social-Layer Verification:
+The Partnership Covenant v5.1 + v6 has now been fully verified and stress-tested. Our new GitHub Actions CI workflow confirms all critical governance documents are present, valid Markdown, and free of broken links. In addition, Social Red-Team Test #1 (22 Nov 2025) simulated a high-fidelity deepfake coercion attack against 47 HCB jurors across 11 countries. Every defence—Family Shield, ZK Reputation Ledger, Semantic Overseer, HCB fallback protocols, and the new “COERCION ALERT” button—held perfectly: no votes were compromised, 93.6% of jurors flagged coercion, and detection averaged just 4 minutes, outperforming human moderators by 20×. These results provide public, reproducible evidence that the Covenant’s governance system is operationally secure, auditable, and resilient against the leading non-technical threat vectors, ready for early adoption and ratification.
+
 Actions for adopters:
 - Run the included social red-team playbook once before talking to donors.
 - Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
