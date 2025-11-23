@@ -12,3 +12,7 @@ Status: Completed Date: 2025-11-10 Lead Oversight Body: Deep Safety and Algorith
 5. Full deployment of Protocol ST8: Access Decoupling.  
 6. Prioritize the SHA-512 upgrade across all Cygnus nodes (Mandate A3).
 
+## Social Attack Tests
+- Scenario: Deepfake coercion of 10% jurors
+- Method: Simulate via actor calls; measure detection (anomaly in voting patterns)
+- Playbook: 1. Script deepfake; 2. Log responses; 3. Retest quarterly
