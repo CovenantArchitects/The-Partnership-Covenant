@@ -1,4 +1,4 @@
-name: Governance Docs Sanity Check
+name: Governance Docs Sanity & Markdown Check
 
 on:
   push:
@@ -8,13 +8,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  check-files:
+  check-governance:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check governance files exist
+      - name: Verify governance files exist
         run: |
           files=(
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
@@ -23,6 +24,7 @@ jobs:
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
+            "DECISION-LOG.md"
           )
 
           missing=0
@@ -35,6 +37,18 @@ jobs:
             fi
           done
 
-          if [ $missing -eq 1 ]; then
+          if [ "$missing" -eq 1 ]; then
             echo "Some governance files are missing. Failing workflow."
             exit 1
+          fi
+
+      - name: Install markdownlint
+        run: |
+          npm install -g markdownlint-cli
+
+      - name: Lint Markdown files
+        run: |
+          md_files=$(find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -name "*.md" -o -name "DECISION-LOG.md")
+          echo "Linting Markdown files:"
+          echo "$md_files"
+          markdownlint $md_files
