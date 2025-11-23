@@ -84,4 +84,3 @@ These additions close practical adoption gaps: human incentives, privacy/legal r
 Actions for adopters:
 - Run the included social red-team playbook once before talking to donors.
 - Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
-
