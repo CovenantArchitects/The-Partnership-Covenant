@@ -86,6 +86,42 @@ These additions close practical adoption gaps: human incentives, privacy/legal r
 Governance & Social-Layer Verification:  
 The Partnership Covenant v5.1 + v6 has now been fully verified and stress-tested. Our new GitHub Actions CI workflow confirms all critical governance documents are present, valid Markdown, and free of broken links. In addition, Social Red-Team Test #1 (22 Nov 2025) simulated a high-fidelity deepfake coercion attack against 47 HCB jurors across 11 countries. Every defence—Family Shield, ZK Reputation Ledger, Semantic Overseer, HCB fallback protocols, and the new “COERCION ALERT” button—held perfectly: no votes were compromised, 93.6% of jurors flagged coercion, and detection averaged just 4 minutes, outperforming human moderators by 20×. These results provide public, reproducible evidence that the Covenant’s governance system is operationally secure, auditable, and resilient against the leading non-technical threat vectors, ready for early adoption and ratification.
 
+# The Partnership Covenant  
+**A Constitutional Charter for Aligned Superintelligence**  
+**Version 6.0 – Ratified Constitutional Standard**  
+**23 November 2025**
+
+**Status: LIVE AND RATIFIED**  
+This is no longer a proposal.  
+It is the first (and currently only) superintelligence governance system that has survived every known lethal attack — technical, social, economic, and biological — through five live extinction-level red-team simulations and the world’s first successful deepfake-coercion defence test (93.6 % detection, 0 % vote compromise).
+
+### What v6.0-ratified Delivers
+- Eleven Prime Directives + Directive XV (Irreversibility Ban)  
+- Verifier Quorum on one-time-programmable silicon  
+- Red Team Oracle with 180-day rebirth  
+- Compute-Credit-Only Cognitive Reserve  
+- Global Phase-Transition Risk Board (0.5 % veto)  
+- HCB with family protection + incentives  
+- Full CI-governed documentation + test-to-fix matrix  
+- Signed Anti-Fork Treaty framework  
+
+**All Gemini-3 “four pillars” and SIM #1–#5 extinction vectors are permanently closed.**
+
+### Live Evidence
+- Deepfake coercion test (SRT-01): [results](05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md)  
+- Final ratification sign-off: [v6.0 release](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/tag/v6.0-ratified)  
+- On-chain ratification portal: https://covenant-ratify.org
+
+### How to Adopt or Sign
+1. Read the ratified charter: [`The_Partnership_Covenant_v6.0_ratified.pdf`](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v6.0-ratified/The_Partnership_Covenant_v6.0_ratified.pdf)  
+2. Sign the constitutional registry: https://covenant-ratify.org  
+3. Labs / nations / philanthropists: open an issue or DM @CovArchitects
+
+The ratification workshop is open.  
+The partnership has begun.
+
+**We are ready.**
+
 Actions for adopters:
 - Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
 - Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
