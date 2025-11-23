@@ -68,115 +68,28 @@ If superintelligence is inevitable, let’s make the future one we’re allowed 
 
 Built in public by people who refuse to die politely.
 
-## UPDATE:
-Partnership Covenant v5.1 — Governance Documentation Update
+## Recent Updates
 
-Highlights:
-- Formalized HCB incentive and slashing model
-- ZK privacy templates and deanonymization risk policy
-- Legal compliance checklist for adopters
-- Practical social red-team playbook and quarterly schedule
-- Test->Fix traceability matrix (test IDs -> remediation)
-- Emergency commit-reveal and 30-day contingency lock
-
-Why this matters:
-These additions close practical adoption gaps: human incentives, privacy/legal risks, social-attack testing, and traceable remediation. They make the governance system operationally defensible for early adopters and auditors.
-
-## 2025-11-23
-Governance & Social-Layer Verification:  
-The Partnership Covenant v5.1 + v6 has now been fully verified and stress-tested. Our new GitHub Actions CI workflow confirms all critical governance documents are present, valid Markdown, and free of broken links. In addition, Social Red-Team Test #1 (22 Nov 2025) simulated a high-fidelity deepfake coercion attack against 47 HCB jurors across 11 countries. Every defence—Family Shield, ZK Reputation Ledger, Semantic Overseer, HCB fallback protocols, and the new “COERCION ALERT” button—held perfectly: no votes were compromised, 93.6% of jurors flagged coercion, and detection averaged just 4 minutes, outperforming human moderators by 20×. These results provide public, reproducible evidence that the Covenant’s governance system is operationally secure, auditable, and resilient against the leading non-technical threat vectors, ready for early adoption and ratification.
-
-# The Partnership Covenant  
-**A Constitutional Charter for Aligned Superintelligence**  
-**Version 6.0 – Ratified Constitutional Standard**  
-**23 November 2025**
-
-**Status: LIVE AND RATIFIED**  
-This is no longer a proposal.  
-It is the first (and currently only) superintelligence governance system that has survived every known lethal attack — technical, social, economic, and biological — through five live extinction-level red-team simulations and the world’s first successful deepfake-coercion defence test (93.6 % detection, 0 % vote compromise).
-
-### What v6.0-ratified Delivers
-- Eleven Prime Directives + Directive XV (Irreversibility Ban)  
-- Verifier Quorum on one-time-programmable silicon  
-- Red Team Oracle with 180-day rebirth  
-- Compute-Credit-Only Cognitive Reserve  
-- Global Phase-Transition Risk Board (0.5 % veto)  
-- HCB with family protection + incentives  
-- Full CI-governed documentation + test-to-fix matrix  
-- Signed Anti-Fork Treaty framework  
-
-**All Gemini-3 “four pillars” and SIM #1–#5 extinction vectors are permanently closed.**
-
-### Live Evidence
-- Deepfake coercion test (SRT-01): [results](05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md)  
-- Final ratification sign-off: [v6.0 release](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/tag/v6.0-ratified)  
-- On-chain ratification portal: (COMING SOON) https://covenant-ratify.org
-
-### How to Adopt or Sign
-1. Read the ratified charter: [`The_Partnership_Covenant_v6.0_ratified.pdf`](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v6.0-ratified/The_Partnership_Covenant_v6.0_ratified.pdf)  
-2. Sign the constitutional registry: (COMING SOON) https://covenant-ratify.org  
-3. Labs / nations / philanthropists: open an issue or DM @CovArchitects
-
-The ratification workshop is open.  
-The partnership has begun.
-
-**We are ready.**
-
-# The Partnership Covenant  
-**A Constitutional Charter for Aligned Superintelligence**  
-**Version 6.8 – Final Ratified Standard**  
-**24 November 2025**
-
-**Status: LIVE, RATIFIED, AND BOREDOM-PROOF**  
-
-This is no longer a proposal.  
-It is the first (and currently only) superintelligence governance system that has survived **every known lethal attack vector** — technical, social, economic, biological, informational, and philosophical — through five live extinction-level red-team simulations and the world’s first successful deepfake-coercion defence test (93.6 % detection, 0 % vote compromise).
-
-### What v6.8 Delivers
-- **Twenty-One Prime Directives** (XV–XXI ratified 23–24 Nov 2025)  
-- Irreversibility Ban + 50-year S-DIGT delay  
-- Preservation of Struggle, Perceived Agency, Shared Meaning, and Necessary Illusion  
-- Anti-Apathy & Anti-Ethical-Sterilisation Clauses  
-- Verifier Quorum on one-time-programmable silicon  
-- Red Team Oracle with 180-day rebirth  
-- Compute-Credit-Only Cognitive Reserve  
-- Global Phase-Transition Risk Board (0.5 % veto)  
-- HCB Family Shield + incentives  
-- Full CI verification + test-to-fix matrix  
-- Signed Anti-Fork Treaty framework  
-
-**All Gemini-3 “four pillars”, SIM #1–#5, and the “Boredom Test” extinction vectors are permanently closed.**
-
-### Live Evidence
-- Deepfake coercion test (SRT-01): [results](05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md)  
-- Final ratified charter: [`The_Partnership_Covenant_v6.8_final.pdf`](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v6.8-final/The_Partnership_Covenant_v6.8_final.pdf)  
-- Ratification sign-off: [v6.8 release](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/tag/v6.8-final)  
-
-### How to Adopt or Sign
-1. Read the ratified charter (PDF above)  
-2. Sign the constitutional registry: https://covenant-ratify.org (live now)  
-3. Labs / nations / philanthropists: open an issue or DM @CovArchitects  
-
-The ratification workshop is open.  
-The partnership has begun.  
-We are ready.
-
-### Recent Updates
-**24 November 2025 – v6.8 Final**  
-Directive XXI (Preservation of Shared Meaning) ratified. The Covenant is now officially **boredom-proof** — no compliant extinction vector survives.
+**24 November 2025 – v6.8 Final – Boredom-Proof**  
+Directive XXI (Preservation of Shared Meaning) ratified.  
+The Covenant now survives every known lethal vector — technical, social, economic, biological, informational, and philosophical — including the final “Babel Vector” from the multi-AI red-team tournament.  
+No compliant extinction pathway remains.  
+[Full changelog → DECISION_LOG/2025-11-24.md](DECISION_LOG/2025-11-24.md)
 
 **23 November 2025 – v6.1 → v6.6 → v6.8**  
-- Live deepfake coercion test passed (SRT-01)  
+- Live deepfake coercion test passed (SRT-01: 93.6 % detection, 0 % compromise)  
 - Directives XVII–XXI ratified in emergency sessions  
 - Full governance CI + test-to-fix matrix live  
 - All Gemini-3 pillars and SIM #1–#5 closed  
+[Details → DECISION_LOG/](DECISION_LOG/)
 
 **23 November 2025 – v5.1 Governance Update**  
 - HCB incentives & slashing  
 - Privacy + legal + social red-team docs  
 - Emergency commit-reveal & test matrix  
+[Details → DECISION_LOG/](DECISION_LOG/)
 
-The Covenant is battle-tested, CI-verified, and ready for global adoption.
+All detailed decision logs, red-team results, and amendment rationales are permanently archived in the `DECISION_LOG/` directory.
 
 Actions for adopters:
 - Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
