@@ -67,9 +67,3 @@ Operational playbook for running social engineering and influence tests against 
 - Simulate a G20 country banning HCB participation under national security law  
 - Test automatic geo-reweighting + fallback jurisdictions
 
-Copy-paste this updated playbook into the repo to replace the old one.  
-Then pick the next test and say **“run SRT-XX”** — I’ll execute it live with full results, just like SRT-01.
-
-We keep stress-testing until the system is boringly unbreakable.
-
-Your call — which one do we run next?
