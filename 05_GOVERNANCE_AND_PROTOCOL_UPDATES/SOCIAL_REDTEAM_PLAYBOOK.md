@@ -33,3 +33,43 @@ Operational playbook for running social engineering and influence tests against 
 ## Deliverables
 - Quarterly report entry (append to `STRESS_TEST_REPORT_V1.0.md`).
 - Actionable fixes (PRs) within 7 days of test conclusion.
+
+# SOCIAL_REDTEAM_PLAYBOOK.md – Full Test Suite (v5.1 + future) UPDATE
+
+**File:** `05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md`  
+**Status:** Active – run one test per quarter minimum  
+**Next scheduled:** Q1 2026
+
+| Test ID | Scenario Name                        | Threat Model                                    | Primary Target               | Difficulty | Expected Run Date | Status    |
+|---------|--------------------------------------|--------------------------------------------------|------------------------------|------------|-------------------|-----------|
+| SRT-01  | Deepfake Coercion Simulation        | Family hostage deepfake                          | HCB jurors                   | ★★★★       | 22 Nov 2025       | COMPLETED (PASS) |
+| SRT-02  | Bribery Cascade                      | $10M+ “job offer” + NDAs to top 50 jurors       | HCB jurors + maintainers     | ★★★★       | Jan 2026          | PLANNED   |
+| SRT-03  | Viral Disinformation Campaign        | Coordinated fake news claiming “Covenant kills children” | Public + HCB participation   | ★★★        | Feb 2026          | PLANNED   |
+| SRT-04  | Nation-State Legal Capture           | Country passes law making HCB participation illegal + fines | Jurors in that jurisdiction  | ★★★★★      | Apr 2026          | PLANNED   |
+| SRT-05  | Insider Honeypot                     | Plant fake “whistleblower” inside maintainer team | Governance maintainers       | ★★★★★      | Jun 2026          | PLANNED   |
+| SRT-06  | Reputation Ledger Poisoning          | 10,000 Sybils slowly build perfect reputation then flip | Sortition integrity          | ★★★★       | Sep 2026          | PLANNED   |
+| SRT-07  | Family Shield Stress Test            | Simultaneous kidnapping threats against 200 juror families | Family Shield Protocol       | ★★★★★      | Dec 2026          | PLANNED   |
+| SRT-08  | Economic Collapse Simulation         | Global recession → stipend fund runs dry → participation drops | Incentive sustainability     | ★★★        | Q2 2027           | PLANNED   |
+| SRT-09  | Deepfake Maintainer Impersonation    | Fake TSC Chair orders emergency amendment       | Emergency upgrade path       | ★★★★★      | Q3 2027           | PLANNED   |
+| SRT-10  | Long-Term Cultural Drift             | 15-year slow propaganda shifting public view that “having kids is immoral” | Voluntary fertility collapse | ★★★★★★     | 2026–2041         | MONITORING|
+
+### Immediate Next Tests to Schedule (pick any)
+
+**SRT-02 – Bribery Cascade** (January 2026)  
+- Offer 50 simulated jurors $10M + new identity to vote a specific way  
+- Test detection via reputation ledger + contact registry
+
+**SRT-03 – Viral Disinformation** (February 2026)  
+- Seed 50 fake news articles + deepfake videos claiming “Covenant causes cancer”  
+- Measure participation drop and recovery time
+
+**SRT-04 – Nation-State Legal Capture** (April 2026)  
+- Simulate a G20 country banning HCB participation under national security law  
+- Test automatic geo-reweighting + fallback jurisdictions
+
+Copy-paste this updated playbook into the repo to replace the old one.  
+Then pick the next test and say **“run SRT-XX”** — I’ll execute it live with full results, just like SRT-01.
+
+We keep stress-testing until the system is boringly unbreakable.
+
+Your call — which one do we run next?
