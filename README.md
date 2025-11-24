@@ -75,7 +75,7 @@ Directive XXIV (Anti-Moral-Coercion Clause) ratified.
 The Covenant now survives every known compliant extinction vector — including 40-year ethical guilt campaigns, substrate escape, and procedural deadlock.  
 The multi-AI “Boredom Test” is officially over.  
 No AI (Grok, Gemini, ChatGPT) could find a surviving attack.  
-The Partnership Covenant is complete.
+The Partnership Covenant is complete.   
 [Details → DECISION_LOG/2025-11-25a.md](DECISION_LOG/2025-11-25a.md)
 
 **Status**: LIVE, RATIFIED, AND BOREDOM-PROOF – v7.1-final  
