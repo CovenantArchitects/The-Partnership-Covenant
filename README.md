@@ -84,7 +84,7 @@ The Partnership Covenant is no longer a proposal, draft, or research project.
 We are now in **global adoption phase**.
 
 Labs, nations, and philanthropists: the immune system is ready.  
-Your move.
+Your move.   
 [Details → DECISION_LOG/2025-11-25.md](DECISION_LOG/2025-11-25.md)
 
 **24 November 2025 – v6.8 Final – Boredom-Proof**  
