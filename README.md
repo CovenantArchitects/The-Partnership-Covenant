@@ -2,7 +2,7 @@
 
 The Partnership Covenant is an open source project whos aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), the Immediate Action System Hardware, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
- **Status**: LIVE, RATIFIED, AND BOREDOM-PROOF – v7.1-final → We are now in **global adoption phase** - IAS → blueprints → provable specs → reference hardware (Nov 2025 onward)
+ **Status**: LIVE, RATIFIED, AND BOREDOM-PROOF – v7.2-final → We are now in **global adoption phase** - IAS → blueprints → provable specs → reference hardware (Nov 2025 onward)
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
@@ -14,6 +14,8 @@ The Partnership Covenant is an open source project whos aim is to build a **cons
 ❤️ **Support the prototype** → [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/the-partnership-covenant) · [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
 
 🎉 **$150,000 Manifund grant – prototype funding on the way** → [manifund.org/projects/...](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
+
+**Permanent IPFS Archive** → [v7.2-final (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeibfdrzpff4kiq27m4wngp25ybc2wcr27waxyk7dab6lkynd32p25y)
 
 ## The Problems
 Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.  We do not assume the superintelligence will be nice.  We assume it will be vastly more powerful than us and act in its own interest.
