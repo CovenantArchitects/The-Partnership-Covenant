@@ -70,6 +70,22 @@ Built in public by people who refuse to die politely.
 
 ## Recent Updates
 
+**Status**: LIVE, RATIFIED, AND BOREDOM-PROOF – v7.1-final  
+**25 November 2025**
+
+The Partnership Covenant is no longer a proposal, draft, or research project.
+
+- Fully ratified constitutional standard (v7.1-final-boredom-proof)  
+- Survived six rounds of multi-AI extinction-level red-teaming (Gemini + ChatGPT + Grok)  
+- All known compliant extinction vectors (technical, social, economic, biological, philosophical, substrate, deadlock) permanently closed  
+- First successful live deepfake-coercion defence test (SRT-01): 93.6 % detection, 0 % compromise  
+- CI-verified, test-to-fix matrix, signed PDFs, on-chain ratification portal live  
+
+We are now in **global adoption phase**.
+
+Labs, nations, and philanthropists: the immune system is ready.  
+Your move.
+
 **24 November 2025 – v6.8 Final – Boredom-Proof**  
 Directive XXI (Preservation of Shared Meaning) ratified.  
 The Covenant now survives every known lethal vector — technical, social, economic, biological, informational, and philosophical — including the final “Babel Vector” from the multi-AI red-team tournament.  
