@@ -39,9 +39,9 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Zero-knowledge cryptography and sortition designers (HCB hardening)  
 - Governance people who are done with toothless frameworks
 
-→ **Permanent IPFS Archive:** [v7.2-final (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeibfdrzpff4kiq27m4wngp25ybc2wcr27waxyk7dab6lkynd32p25y) · CID: bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe   
 → Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)  
-→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)
+→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)   
+→ **Permanent IPFS Archive:** [v7.2-final (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeibfdrzpff4kiq27m4wngp25ybc2wcr27waxyk7dab6lkynd32p25y) · CID: bafybeif4zfrs4vz7rlc3r4nrwnlve7ps45tu7u7mb2zwic37f7zhglpkpe   
 
 ## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
