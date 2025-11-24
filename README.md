@@ -85,12 +85,13 @@ We are now in **global adoption phase**.
 
 Labs, nations, and philanthropists: the immune system is ready.  
 Your move.
+[Details → DECISION_LOG/2025-11-25.md](DECISION_LOG/2025-11-25.md)
 
 **24 November 2025 – v6.8 Final – Boredom-Proof**  
 Directive XXI (Preservation of Shared Meaning) ratified.  
 The Covenant now survives every known lethal vector — technical, social, economic, biological, informational, and philosophical — including the final “Babel Vector” from the multi-AI red-team tournament.  
 No compliant extinction pathway remains.  
-[Full changelog → DECISION_LOG/2025-11-24.md](DECISION_LOG/2025-11-24.md)
+[Details → DECISION_LOG/2025-11-24.md](DECISION_LOG/2025-11-24.md)
 
 **23 November 2025 – v6.1 → v6.6 → v6.8**  
 - Live deepfake coercion test passed (SRT-01: 93.6 % detection, 0 % compromise)  
