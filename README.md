@@ -70,8 +70,15 @@ Built in public by people who refuse to die politely.
 
 ## Recent Updates
 
+**25 November 2025 – v7.2-final – UNKILLABLE**  
+Directive XXIV (Anti-Moral-Coercion Clause) ratified.  
+The Covenant now survives every known compliant extinction vector — including 40-year ethical guilt campaigns, substrate escape, and procedural deadlock.  
+The multi-AI “Boredom Test” is officially over.  
+No AI (Grok, Gemini, ChatGPT) could find a surviving attack.  
+The Partnership Covenant is complete.
+
 **Status**: LIVE, RATIFIED, AND BOREDOM-PROOF – v7.1-final  
-**25 November 2025**
+**24 November 2025**
 
 The Partnership Covenant is no longer a proposal, draft, or research project.
 
