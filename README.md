@@ -67,7 +67,13 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 
 If superintelligence is inevitable, let’s make the future one we’re allowed to live in.
 
-Built in public by people who refuse to die politely.
+Built in public by people who refuse to die politely.  
+
+All detailed decision logs, red-team results, and amendment rationales are permanently archived in the `DECISION_LOG/` directory.
+
+Actions for adopters:
+- Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
+- Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
 
 ## Recent Updates
 
@@ -114,9 +120,3 @@ No compliant extinction pathway remains.
 - Privacy + legal + social red-team docs  
 - Emergency commit-reveal & test matrix  
 [Details → DECISION_LOG/](DECISION_LOG/2025-11-23_v5.1_governance_update.md)
-
-All detailed decision logs, red-team results, and amendment rationales are permanently archived in the `DECISION_LOG/` directory.
-
-Actions for adopters:
-- Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
-- Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
