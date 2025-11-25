@@ -1,0 +1,35 @@
+name: The-Partnership-Covenant-main
+version: v8.0-final-full-source
+date: 2025-11-25
+status: UNKILLABLE
+stats:
+  files: 334
+  folders: 28
+ipfs_cid: bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq
+
+structure:
+  .github:
+    - FUNDING.yml
+    - workflows/governance-check-simple.yml
+  00_ROADMAP_AND_VALIDATION:
+    - Covenant_Roadmap_Appendices.md
+    - Covenant_Roadmap_Outline_V1.0.md
+    - ST8_UPDATE_PACKAGE: [5 files]
+  00_SPECS:
+    - provenance_schema.json
+  01_FINAL_DELIVERABLES: 5 files
+  02_CORE_ARCHITECTURE_AND_APPENDICES: 34 files
+  03_PUBLIC_ENGAGEMENT_DRAFTS: 22 files
+  04_PUBLIC_DOCS:
+    Governance: 28 files
+    Technical: 9 files + JSON schemas
+    Templates: 2 files
+  05_GOVERNANCE_AND_PROTOCOL_UPDATES: 39 files + tests/test_to_fix_matrix.csv
+  06_RATIFICATION_WORKSHOP: 7 files
+  DECISION_LOG: 5 dated logs
+  root_files:
+    - CHANGELOG_v6.8.md
+    - CONTRIBUTING.md
+    - DECISION-LOG.md
+    - README.md
+    - Support_Us.md
