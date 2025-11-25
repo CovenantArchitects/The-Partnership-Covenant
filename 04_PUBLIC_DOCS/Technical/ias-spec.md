@@ -160,3 +160,12 @@ Discussion: Open issues welcome.
 If you can build, break, or fund the hardware that keeps a god from killing us, we need you now.
 
 Let’s ship the one switch even superintelligence cannot press for itself.
+
+Copyright © 2025 Covenant Architects
+
+Licensed under the CERN-OHL-S v2.
+You may redistribute and modify this documentation under the terms of the CERN Open Hardware Licence v2 - Strongly Reciprocal.
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+including of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the CERN-OHL-S v2 for more details.
+
