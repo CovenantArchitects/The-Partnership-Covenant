@@ -17,7 +17,7 @@
 - [`Support_Us.md`](./Support_Us.md) — Help ship the first 10 ns IAS prototype  
 
 # The-Partnership-Covenant  
-The overall file count for the **`The-Partnership-Covenant v8.0`** repository is **171 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **171 files** (excluding the `.github` directory content).
 
 ---
 
