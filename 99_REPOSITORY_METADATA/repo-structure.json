@@ -1,0 +1,29 @@
+```json
+{
+  "name": "The-Partnership-Covenant-main",
+  "version": "v8.0-final-full-source",
+  "date": "2025-11-25",
+  "status": "UNKILLABLE",
+  "totalFiles": 334,
+  "totalFolders": 28,
+  "structure": {
+    ".github": ["FUNDING.yml", "workflows/governance-check-simple.yml"],
+    "00_ROADMAP_AND_VALIDATION": ["Covenant_Roadmap_Appendices.md", "Covenant_Roadmap_Outline_V1.0.md", "ST8_UPDATE_PACKAGE/..."],
+    "00_SPECS": ["provenance_schema.json"],
+    "01_FINAL_DELIVERABLES": ["Partnership_Covenant_Consolidated_Charter_v8.0.md", "..."],
+    "02_CORE_ARCHITECTURE_AND_APPENDICES": 34,
+    "03_PUBLIC_ENGAGEMENT_DRAFTS": 22,
+    "04_PUBLIC_DOCS": {
+      "Governance": 28,
+      "Technical": 9,
+      "Templates": 2,
+      "other": 6
+    },
+    "05_GOVERNANCE_AND_PROTOCOL_UPDATES": 39,
+    "06_RATIFICATION_WORKSHOP": 7,
+    "10_METADATA_AND_LOGS": 2,
+    "99_REPOSITORY_METADATA": ["roadmap.json", "roadmap.yaml", "roadmap_mermaid.md", "Roadmap.pdf"],
+    "root": ["CHANGELOG_v6.8.md", "CONTRIBUTING.md", "DECISION_LOG", "DECISION-LOG.md", "README.md", "Support_Us.md"]
+  },
+  "ipfs": "bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq"
+}
