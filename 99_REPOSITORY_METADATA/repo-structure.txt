@@ -180,12 +180,12 @@ The-Partnership-Covenant v8.0-final-full-source (25 November 2025)
     │   ├── Covenant Change Log V4..md
     │   └── Data Provenance Standard (DPS V1.0).md
     ├── 99_REPOSITORY_METADATA
-    │   ├── roadmap.json
-    │   ├── ROADMAP.md
-    │   ├── Roadmap.pdf
-    │   ├── roadmap.yaml
-    │   ├── roadmap_mermaid.md
-    │   └── roadmap_tree.txt
+    │   ├── repo-structure.json
+    │   ├── REPO_STRUCTURE.md
+    │   ├── repo-structure.pdf
+    │   ├── repo-structure.yaml
+    │   ├── repo-structure_mermaid.md
+    │   └── repo-structure.txt
     ├── CHANGELOG_v6.8.md
     ├── CONTRIBUTING.md
     ├── DECISION_LOG
