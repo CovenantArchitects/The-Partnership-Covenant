@@ -222,12 +222,12 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **17
 
 ### 10. 99\_REPOSITORY\_METADATA/ (**6 Files**)
 
-* `roadmap.json`
-* `ROADMAP.md`
-* `Roadmap.pdf`
-* `roadmap.yaml`
-* `roadmap_mermaid.md`
-* `roadmap_tree.txt`
+* `repo-structure.json`
+* `REPO_STRUCTURE.md`
+* `repo-structure.pdf`
+* `repo-structure.yaml`
+* `repo-structure_mermaid.md`
+* `repo-structure.txt`
 
 ### 11. DECISION\_LOG/ (**5 Files**)
 
