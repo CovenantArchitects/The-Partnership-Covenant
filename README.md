@@ -18,7 +18,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 | Platform          | Why this one?                     | Link                                                                                  |
 |-------------------|------------------------------------|---------------------------------------------------------------------------------------|
 | **Ko-fi**         | 0 % platform fee, fastest payouts | [:coffee: Support on Ko-fi](https://ko-fi.com/covenantarchitects)                     |
-| **thanks.dev**    | Literally 100 % to creator (fiat + crypto) | [:heart: thanks.dev/covenant](https://thanks.dev/covenantarchitects)                            |
+| **thanks.dev**    | Literally 100 % to creator (fiat + crypto) | [:heart: thanks.dev/covenantarchitects](https://thanks.dev/covenantarchitects)                            |
 | **Buy Me a Coffee**| Prettier page + downloadable extras | [:coffee: Buy me a coffee](https://buymeacoffee.com/covenant)                         |
 
 → $150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026)  
