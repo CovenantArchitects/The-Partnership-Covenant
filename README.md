@@ -11,9 +11,22 @@ The Partnership Covenant is an open source project whos aim is to build a **cons
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
-❤️ **Support the prototype** → [GitHub Sponsors](https://github.com/sponsors/CovenantArchitects) · [OpenCollective](https://opencollective.com/the-partnership-covenant) · [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
+### Support the Prototype (100 % reaches silicon)
 
-🎉 **$150,000 Manifund grant – prototype funding on the way** → [manifund.org/projects/...](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
+Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns power-cut that even a perfect superintelligence cannot bypass.
+
+| Platform          | Why this one?                     | Link                                                                                  |
+|-------------------|------------------------------------|---------------------------------------------------------------------------------------|
+| **Ko-fi**         | 0 % platform fee, fastest payouts | [:coffee: Support on Ko-fi](https://ko-fi.com/covenantarchitects)                     |
+| **thanks.dev**    | Literally 100 % to creator (fiat + crypto) | [:heart: thanks.dev/covenant](https://thanks.dev/covenant)                            |
+| **Buy Me a Coffee**| Prettier page + downloadable extras | [:coffee: Buy me a coffee](https://buymeacoffee.com/covenant)                         |
+
+→ $150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026)  
+→ Top donors permanently credited in-repo and on the physical silk screen
+
+❤️ **Support the prototype** → [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
+
+🎉 **$150,000 Manifund grant – prototype crowdfunding** → [$150,000 Manifund Proposal](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
 ## The Problems
 Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.  We do not assume the superintelligence will be nice.  We assume it will be vastly more powerful than us and act in its own interest.
