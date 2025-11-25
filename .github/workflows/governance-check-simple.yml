@@ -1,5 +1,4 @@
 name: Friendly Governance Docs Check
-
 on:
   push:
     branches: [ main ]
@@ -10,62 +9,80 @@ on:
 jobs:
   check-governance:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: List governance folder
+      - name: List governance folders
         run: |
-          echo "All files in governance folder:"
-          find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -type f
-          echo "Check DECISION-LOG.md exists:"
-          ls -l DECISION-LOG.md || echo "DECISION-LOG.md not found!"
+          echo "Governance & Protocol Updates:"
+          find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -type f | sort
+          echo "Public Governance Docs:"
+          find 04_PUBLIC_DOCS/Governance/ -type f | sort
+          echo "Decision Log:"
+          find DECISION_LOG/ -type f | sort || echo "No DECISION_LOG folder"
 
-      - name: Verify governance files exist
+      - name: Verify critical governance files exist
         run: |
           files=(
+            # Core governance protocols
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
             "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_Family_Shield_v6.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Covenant_AntiFork_Treaty_v6.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Global_PhaseTransition_Risk_Board_v7.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Verifier_Quorum_v6.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Directive X Clarification_ The Infrastructural Mandate.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/FINAL_MASTER_PATCH_REPORT.MD"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/ST8_Final_Oversight_Report.md"
+            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
+
+            # Public governance
+            "04_PUBLIC_DOCS/Governance/hcb-hardening.md"
+            "04_PUBLIC_DOCS/Governance/Mission_Statement_&_Principles.md"
+            "04_PUBLIC_DOCS/Governance/Technical Steering Committee (TSC) Charter.md"
+
+            # Master logs
             "DECISION-LOG.md"
+            "DECISION_LOG/2025-11-25a.md"   # Final UNKILLABLE ratification
           )
 
           missing=0
           for f in "${files[@]}"; do
             if [ ! -f "$f" ]; then
-              echo "❌ MISSING: $f"
+              echo "MISSING: $f"
               missing=1
             else
-              echo "✅ Found: $f"
+              echo "Found: $f"
             fi
           done
 
           if [ "$missing" -eq 1 ]; then
-            echo "Some governance files are missing. Check above."
+            echo "Critical governance files are missing!"
+            exit 1
           else
-            echo "All governance files found!"
+            echo "All critical governance files present!"
           fi
 
       - name: Install markdownlint & link checker
         run: |
           npm install -g markdownlint-cli markdown-link-check
 
-      - name: Lint Markdown files (friendly)
+      - name: Lint all governance Markdown files
         run: |
-          md_files=$(find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -name "*.md" -o -name "DECISION-LOG.md")
-          echo "Linting Markdown files:"
-          echo "$md_files"
-          markdownlint $md_files || echo "⚠️ Markdown lint found issues. See above."
+          md_files=$(find 05_GOVERNANCE_AND_PROTOCOL_UPDATES 04_PUBLIC_DOCS/Governance DECISION_LOG -name "*.md" 2>/dev/null || echo "")
+          if [ -n "$md_files" ]; then
+            echo "Linting $(echo "$md_files" | wc -l) Markdown files..."
+            echo "$md_files" | xargs markdownlint || echo "Markdown lint issues found (non-blocking)"
+          fi
 
-      - name: Check for broken Markdown links (friendly)
+      - name: Check for broken links (friendly)
         run: |
-          md_files=$(find 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ -name "*.md" -o -name "DECISION-LOG.md")
-          echo "Checking links in Markdown files:"
+          md_files=$(find 05_GOVERNANCE_AND_PROTOCOL_UPDATES 04_PUBLIC_DOCS/Governance DECISION_LOG -name "*.md" 2>/dev/null || echo "")
           for f in $md_files; do
-            echo "🔗 Checking $f"
-            markdown-link-check "$f" || echo "⚠️ Broken links found in $f"
+            echo "Checking links: $f"
+            markdown-link-check "$f" --quiet || echo "Possible broken links in $f"
           done
