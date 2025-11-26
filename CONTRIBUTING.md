@@ -232,7 +232,7 @@ Violations may result in immediate moderator action.
 - GitHub Discussions  
 
 ### Private / sensitive
-**covenant.architects@protonmail.com**
+**info@partnershipcovenant.online**
 
 ### Community calls
 Announced in Issues and on the Discussions tab.
