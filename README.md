@@ -14,7 +14,7 @@ The Partnership Covenant is an open source project whos aim is to build a **cons
  ### Join the Architects
 Live discussion, red-team bounties, prototype updates, and quarterly Architect Circle calls.
 
-Discord → https://discord.com/channels/1443021378671349954/1443024089395625995
+Discord → [Discord Server]([https://discord.com/channels/1443021378671349954/1443024089395625995](https://discord.gg/eRfzbWaT))
 
 (React ✅ in #covenant-primer to verify and unlock channels)
 
