@@ -128,15 +128,17 @@ If you want maximal impact, focus here:
 
 ---
 
-# Getting Started
+## Getting Started
 
 Before opening a PR, please:
 
-1. Read the architectural overview in `/technical/00_OVERVIEW.md`
-2. Review the mandatory governance documents in: 05_GOVERNANCE_AND_PROTOCOL_UPDATES/
-3. Check open Issues for related discussion.
-4. Ensure your proposal is compatible with the **four technical pillars**.
+1. **Read the project overview** in [README.md](README.md) — covers the core mission, pillars, and "Get Involved" paths.
+2. **Review the technical specs** in [04_PUBLIC_DOCS/Technical/ias-spec.md](04_PUBLIC_DOCS/Technical/ias-spec.md) — details the Immediate Action System (IAS) architecture, tamper detection, and hardware constraints.
+3. **Check the decision logs** in [DECISION_LOG/](DECISION_LOG/) — see recent ratifications and open threads (e.g., Directive XXIV on anti-coercion).
+4. **Fork the repo**, create a feature branch (`git checkout -b feature/your-change`), and submit a PR against `main`.
+5. **Test your changes** — run the governance CI (`/.github/workflows/governance-check-simple.yml`) locally if possible, or just push and let Actions validate.
 
+PRs without these steps may be closed for clarity. We're building the unbreakable constraint—thanks for being an Architect!
 ---
 
 # How Contributions Are Reviewed
@@ -201,7 +203,7 @@ If you find:
 
 Email:
 
-**covenant.architects@protonmail.com**  
+**info@partnershipcovenant.online**  
 Subject line: *Responsible Disclosure*
 
 Response window: **72 hours**
