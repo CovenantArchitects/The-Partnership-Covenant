@@ -11,6 +11,13 @@ The Partnership Covenant is an open source project whos aim is to build a **cons
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
+ ### Join the Architects
+Live discussion, red-team bounties, prototype updates, and quarterly Architect Circle calls.
+
+Discord → https://discord.gg/covenantarchitects
+
+(React ✅ in #covenant-primer to verify and unlock channels)
+
 ### Support the Prototype (100 % reaches silicon)
 
 Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns power-cut that even a perfect superintelligence cannot bypass.
