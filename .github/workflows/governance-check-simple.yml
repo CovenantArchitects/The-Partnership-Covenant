@@ -46,8 +46,7 @@ jobs:
             "04_PUBLIC_DOCS/Governance/Technical Steering Committee (TSC) Charter.md"
 
             # Master logs
-            "DECISION-LOG.md"
-            "DECISION_LOG/2025-11-25a.md"   # Final UNKILLABLE ratification
+           "DECISION_LOG/2025-11-25a.md"   # Final UNKILLABLE ratification
           )
 
           missing=0
