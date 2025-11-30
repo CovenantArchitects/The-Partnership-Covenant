@@ -4,12 +4,12 @@ This is the actual open-hardware 10 ns power-cut guard die that enforces the Cov
 
 Everything you need is in this repo (CERN-OHL-S v2 license):
 
-- KiCad project → /00_HARDWARE/IAS_KiCad/
- Latest schematic PDF → IAS-v1.2-schematic.pdf
- Gerber files (ready for JLCPCB) → /00_HARDWARE/Gerbers/
- Bill of materials (BOM) → IAS-v1.2-BOM.csv
- 3D render → ias-board-render.png
- Preprint (11-page technical paper) → 04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf
+- KiCad project → /00_HARDWARE/IAS_KiCad/ 
+ Latest schematic PDF → IAS-v1.2-schematic.pdf (coming soon)
+ Gerber files (ready for JLCPCB) → /00_HARDWARE/Gerbers/ 
+ Bill of materials (BOM) → IAS-v1.2-BOM.csv 
+ 3D render → ias-board-render.png (coming soon)
+ Preprint (11-page technical paper) → 04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf 
 
 Current status:
 - Schematic complete
