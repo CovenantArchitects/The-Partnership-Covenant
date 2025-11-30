@@ -1,0 +1,12 @@
+Title: Adopt the Four-Pillar Technical Architecture
+Proposal: Adopt IAS (Immediate Action System), Risk Floor, Cognitive Reserve, and HCB Hardening as the non-negotiable core architecture.
+Rationale: Software-only containment is insufficient; these mechanisms enforce physics-based, cryptographic, and probabilistic constraints that cannot be overridden by an advanced model.
+Proposed by: Sean Sheppard
+Vote: 100% approval (initial maintainer team)
+Alternatives considered:
+
+Software-only containment → rejected as insufficient
+Governance-only approach → rejected as non-technical
+Outcome: Approved – becomes the technical north star for all future specs.
+Implications: All additional work must be aligned with these four foundations.
+Commit: filled on merge
