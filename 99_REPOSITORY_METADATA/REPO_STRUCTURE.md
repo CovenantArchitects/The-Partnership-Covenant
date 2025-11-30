@@ -25,7 +25,7 @@
 
 # The-Partnership-Covenant  
 
-The overall file count for the **`The-Partnership-Covenant`** repository is **199 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **193 files** (excluding the `.github` directory content).
 
 ---
 
