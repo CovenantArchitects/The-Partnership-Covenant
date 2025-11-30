@@ -1,0 +1,14 @@
+2025-11-21 – Decision 005
+Title: Approve HCB Incentive & Slashing Model (v5)
+Proposal: Introduce transparent reward and slashing rules for Human Consensus Body (HCB) participation.
+Rationale: Incentive alignment is required to prevent corruption, absenteeism, and bribery.
+Proposed by: Governance Team + Oversight Council
+Vote: 78% approval
+Alternatives considered:
+
+Volunteer-only HCB (rejected: unreliable participation)
+External funding source (rejected: introduces influence)
+Outcome: Approved.
+Implications: HCB economic model is now part of minimum viable governance.
+References: 05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md
+Commit: filled on merge
