@@ -1,0 +1,22 @@
+Immediate Action System (IAS) v1.2 – Guard Die Schematic
+10 ns Power-Cut Veto – Open Hardware (CERN-OHL-S)
+
+Power In (+48 V) ───┬─────────────────────► Compute Cluster Power
+                   │
+               [Tamper Mesh]
+                   │
+               [Anomaly Detector]
+                   │
+               [10 ns One-Shot]
+                   │
+               [SCR Crowbar] ────► GND (crowbar triggers → instant short)
+                   │
+Verifier Shard (Rust + CBMC) ──► VETO_LINE (active-low)
+
+If VETO_LINE goes low → 10 ns one-shot fires → SCR latches → power dies forever.
+No software override possible.
+
+Designed for 4-layer 5×5 cm board, GaN FET + SCR crowbar.
+Simulated trip time: 8.7 ns.
+
+Physics > promises.
