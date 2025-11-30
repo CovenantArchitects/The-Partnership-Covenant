@@ -76,7 +76,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Additional Appendices and Protocols: [Appendices and Protocol Updates](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES)
 - All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
-- Decision log: [DECISION-LOG.md](DECISION-LOG.md)
+- Decision logs: [/DECISION-LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
 
 ## Principles
 - Physics beats software for anything existential  
