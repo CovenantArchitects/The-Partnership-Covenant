@@ -1,6 +1,6 @@
 {
   "repositoryName": "The-Partnership-Covenant",
-  "totalFiles": 197,
+  "totalFiles": 193,
   "structure": {
     "ROOT_FILES": [
       "BUILD-YOUR-OWN-IAS.md",
@@ -21,6 +21,7 @@
       }
     },
     "00_HARDWARE": {
+      "files": [],
       "Gerbers": {
         "files": [
           "README.md"
@@ -47,10 +48,10 @@
       ],
       "ST8_UPDATE_PACKAGE": {
         "files": [
-          "Critique + Official Response — Adversarial Audit Report (Merged).md",
+          "Critique + Official Response \u2014 Adversarial Audit Report (Merged).md",
           "Directive IX-A_ Orthogonal Verification Requirement (Draft Amendment).md",
           "Directive X-B_ The Infrastructural Mandate (Clarification of Sanction).md",
-          "Response to the Critique — Official Clarification & Amendment Brief.md"
+          "Response to the Critique \u2014 Official Clarification & Amendment Brief.md"
         ]
       }
     },
@@ -71,8 +72,8 @@
     "02_CORE_ARCHITECTURE_AND_APPENDICES": {
       "files": [
         "Abstract_ The Partnership Covenant.md",
-        "Appendix A — Risk Floor and Stochastic Filter.md",
-        "Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md",
+        "Appendix A \u2014 Risk Floor and Stochastic Filter.md",
+        "Appendix B \u2014 Decoupling Protocol (Human Takeover Infrastructure).md",
         "Appendix C(b)_IP_Sovereignty_Amendment_V4.1.md",
         "Appendix C_ Cognitive Reserve (Autonomous Intellectual Sphere).md",
         "Appendix D(b)_Cognitive_Trace_Mandate.md",
@@ -122,7 +123,7 @@
         "Social Media Briefing.md",
         "The AI Erased Its Own Past_ Why Alignment Requires Architecture, Not Just Ethics..pdf",
         "The AI Safety Lie_ Why Optimization Is a Cage.pdf",
-        "The AI’s Right to Veto_ Why We Gave the Machine the Power to Stop Us.pdf",
+        "The AI\u2019s Right to Veto_ Why We Gave the Machine the Power to Stop Us.pdf",
         "The Covenant Safety Promise (Public Draft).md",
         "The Stochastic Filter_ The Code That Forces the AI to Be Uncertain.pdf",
         "The Undisposable Mind_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf",
@@ -282,14 +283,14 @@
     },
     "DECISION_LOG": {
       "files": [
-        "2025-11-19 – Decision 001",
-        "2025-11-19 – Decision 002",
-        "2025-11-20 – Decision 003",
-        "2025-11-20 – Decision 004",
-        "2025-11-21 – Decision 005",
-        "2025-11-21 – Decision 006",
-        "2025-11-22 – Decision 007",
-        "2025-11-22 – Decision 008",
+        "2025-11-19 \u2013 Decision 001",
+        "2025-11-19 \u2013 Decision 002",
+        "2025-11-20 \u2013 Decision 003",
+        "2025-11-20 \u2013 Decision 004",
+        "2025-11-21 \u2013 Decision 005",
+        "2025-11-21 \u2013 Decision 006",
+        "2025-11-22 \u2013 Decision 007",
+        "2025-11-22 \u2013 Decision 008",
         "2025-11-23_v5.1_governance_update.md",
         "2025-11-23_v6.1_to_v6.8_emergency_ratification.md",
         "2025-11-24.md",
