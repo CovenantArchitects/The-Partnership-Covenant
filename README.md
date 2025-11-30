@@ -1,4 +1,17 @@
-# The Partnership Covenant
+# The Partnership Covenant — v8.0-final (30 Nov 2025)
+
+**24+ adversarial red-team rounds · No surviving compliant extinction vectors**  
+Open constitutional veto + open-hardware 10 ns hardware kill-switch (CERN-OHL-S)
+
+Quick links (10-second scan):
+- [One-page summary (PDF)](./Covenant-Summary-1Pager.pdf)
+- [All 24+ red-team attacks & fixes](./RED-TEAM-TESTS.md)
+- [Run your own attack](./QUICK-START.md)
+- [Hardware — build your own IAS](./00_HARDWARE/BUILD-YOUR-OWN-IAS.md)
+- [Social red-team playbook](./05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md)
+- [Permanent IPFS mirror](https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq)
+
+Physics > promises.
 
 The Partnership Covenant is an open source project whos aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), the Immediate Action System Hardware, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
