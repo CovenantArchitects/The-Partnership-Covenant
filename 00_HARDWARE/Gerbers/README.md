@@ -1,19 +1,21 @@
-# Gerber Files for IAS v1.2
+# Gerber Files – Coming Soon
 
-These are the final Gerber + drill files ready for JLCPCB (5-layer, 2, 1.6 mm FR4).
+The IAS board is still in schematic → layout stage.
 
-Order instructions:
-- Upload the .zip from this folder
-- 5 pcs = ~$18 + shipping
-- Select ENIG-RoHS finish
-- Impedance control: none needed
+As soon as the first rev is routed and DRC-clean, the **Gerber zip** will land here (ready for JLCPCB, 5-layer, ENIG, ~$18 for 5 pcs).
 
-Files included:
-- IAS-v1.2-F.Cu.gtl
-- IAS-v1.2-B.Cu.gbl
-- IAS-v1.2-F.Mask.gts
-- IAS-v1.2-B.Mask.gbs
-- IAS-v1.2-Edge.Cuts.gm1
-- IAS-v1.2.drl
+Current status:
+- Schematic: complete (IAS-v1.2-schematic.pdf)
+- Layout: in progress
+- Target: Gerbers before end of May 2026
 
-(When we generate the zip, it will be here.)
+When they drop, you’ll see the real files:
+IAS-v1.2-F.Cu.gtl  
+IAS-v1.2-B.Cu.gbl  
+IAS-v1.2-F.Mask.gts  
+IAS-v1.2-B.Mask.gbs  
+IAS-v1.2-Edge.Cuts.gm1  
+IAS-v1.2.drl  
+(and the .zip)
+
+Physics > promises.
