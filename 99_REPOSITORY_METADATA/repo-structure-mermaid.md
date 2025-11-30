@@ -1,63 +1,46 @@
-# Repository Structure — Mermaid Diagram
-**v8.0-final-full-source — 25 November 2025 — UNKILLABLE**
+# Repository Structure - Mermaid Diagram (Graph TD)
 
 ```mermaid
-flowchart TB
-    %% Style definitions
-    classDef core fill:#ff4500, color:#fff, stroke:#fff
-    classDef public fill:#00ff00, color:#000, stroke:#000
-    classDef gov fill:#ffd700, color:#000, stroke:#000
-    classDef meta fill:#333, color:#fff, stroke:#999
+graph TD
+    A[The-Partnership-Covenant (197 Files)] --> B1[ROOT FILES (6)];
 
-    %% Root
-    Root[The-Partnership-Covenant-main]:::core
+    A --> C0[.github/ (2)];
+    C0 --> C0A(FUNDING.yml);
+    C0 --> C0B[workflows/ (1)];
 
-    %% Core Architecture
-    subgraph core_arch ["Core Architecture"]
-        direction TB
-        Root --> A[.github]
-        Root --> B[00_ROADMAP_AND_VALIDATION]
-        Root --> C[00_SPECS]
-        Root --> D[01_FINAL_DELIVERABLES]
-        Root --> E[02_CORE_ARCHITECTURE_AND_APPENDICES]
-    end
+    A --> C1[00_HARDWARE/ (3)];
+    C1 --> C1A[Gerbers/ (1)];
+    C1 --> C1B[IAS_KiCad/ (2)];
 
-    %% Public & Technical
-    subgraph public_tech ["Public & Technical"]
-        direction TB
-        Root --> F[03_PUBLIC_ENGAGEMENT_DRAFTS]
-        Root --> G[04_PUBLIC_DOCS]:::public
-        G --> G1[Governance<br>28 files]
-        G --> G2[Technical<br>9 specs + schemas]
-        G --> G3[Templates]
-    end
+    A --> C2[00_OVERVIEW/ (2)];
+    A --> C3[00_ROADMAP_AND_VALIDATION/ (7)];
+    C3 --> C3A[ST8_UPDATE_PACKAGE/ (4)];
 
-    %% Governance & Ratification
-    subgraph gov_rat ["Governance & Ratification"]
-        direction TB
-        Root --> H[05_GOVERNANCE_AND_PROTOCOL_UPDATES<br>39 updates + red-team]:::gov
-        Root --> I[06_RATIFICATION_WORKSHOP<br>7 documents]
-        Root --> J[DECISION_LOG<br>5 dated logs]
-        Root --> K[DECISION-LOG.md]
-    end
+    A --> C4[00_SPECS/ (1)];
+    A --> C5[01_FINAL_DELIVERABLES/ (5)];
+    A --> C6[02_CORE_ARCHITECTURE_AND_APPENDICES/ (31)];
+    A --> C7[03_PUBLIC_ENGAGEMENT_DRAFTS/ (22)];
 
-    %% Metadata
-    subgraph metadata ["Metadata"]
-        direction TB
-        Root --> L[10_METADATA_AND_LOGS]:::meta
-        Root --> M[99_REPOSITORY_METADATA]:::meta
-        Root --> N[CHANGELOG_v6.8.md]
-        Root --> O[CONTRIBUTING.md]
-        Root --> P[README.md]
-        Root --> Q[Support_Us.md]
-    end
+    A --> C8[04_PUBLIC_DOCS/ (43)];
+    C8 --> C8A[Governance/ (28)];
+    C8 --> C8B[Technical/ (9)];
+    C8 --> C8C[Templates/ (2)];
+    C8A --> C8A1[Cygnus_Covenant_Governance/ (10)];
+    C8A1 --> C8A1A[01_Access_Pillar (Phoenix)/ (4)];
+    C8A1 --> C8A1B[02_Infrastructure_Pillar (Cygnus)/ (3)];
+    C8A1 --> C8A1C[03_Model_Pillar (Orion)/ (3)];
 
-    %% Clickable links
-    click D "./01_FINAL_DELIVERABLES"
-    click E "./02_CORE_ARCHITECTURE_AND_APPENDICES"
-    click G "./04_PUBLIC_DOCS"
-    click H "./05_GOVERNANCE_AND_PROTOCOL_UPDATES"
-    click J "./DECISION_LOG"
+    A --> C9[05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (36)];
+    C9 --> C9A[tests/ (1)];
+    C9 --> C9B[v5.1-docs/ (1)];
 
-    %% Apply core styling to critical folders
-    class D,E,G,H,J core
+    A --> C10[06_RATIFICATION_WORKSHOP/ (7)];
+    A --> C11[10_METADATA_AND_LOGS/ (2)];
+    A --> C12[99_REPOSITORY_METADATA/ (7)];
+    A --> C13[DECISION_LOG/ (15)];
+    A --> C14[RED_TEAM/ (4)];
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style C8A1 fill:#c7f3e6,stroke:#3C3,stroke-width:1px
+    style C13 fill:#ffeaa7,stroke:#333,stroke-width:1px
+    style C14 fill:#ff7675,stroke:#333,stroke-width:1px
