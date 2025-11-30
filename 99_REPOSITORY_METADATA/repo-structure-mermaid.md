@@ -1,5 +1,6 @@
+```mermaid
 graph TD
-    A[The-Partnership-Covenant ({structure_data_corrected['totalFiles']} Files)] --> B1[Root Files: 6];
+    A[The-Partnership-Covenant (193 Files)] --> B1[Root Files: 6];
 
     A --> C0[.github/ (2)];
     C0 --> C0A(FUNDING.yml);
