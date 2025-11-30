@@ -1,5 +1,5 @@
 repositoryName: The-Partnership-Covenant
-totalFiles: 197
+totalFiles: 193
 structure:
   ROOT_FILES:
     - BUILD-YOUR-OWN-IAS.md
@@ -15,6 +15,7 @@ structure:
       files:
         - governance-check-simple.yml
   00_HARDWARE:
+    files:
     Gerbers:
       files:
         - README.md
