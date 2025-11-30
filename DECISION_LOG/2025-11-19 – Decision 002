@@ -1,0 +1,10 @@
+2025-11-19 – Decision 002
+Title: Release IAS Spec + Establish Red-Team Bounties
+Proposal: Publish the IAS specification as the first citable document and open $5k–$25k red-team bounties.
+Rationale: IAS is the most leveraged piece of safety infrastructure; early scrutiny is essential.
+Proposed by: Sean Sheppard + initial hardware reviewers
+Vote: Unanimous
+Alternatives considered: Hold until v2 revision → rejected (loss of community review time)
+Outcome: Approved and published
+Implications: IAS becomes the anchor spec for subsequent governance docs.
+Commit: filled on merge
