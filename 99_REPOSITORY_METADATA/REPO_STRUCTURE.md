@@ -10,9 +10,16 @@
 > Gateway: https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq
 
 **Quick navigation**  
+
+- [README.md](./README.md) – Project overview + funding
+- [QUICK-START.md](./QUICK-START.md) – 60-second “fork → attack → help”
+- [Covenant-Summary-1Pager.pdf](./Covenant-Summary-1Pager.pdf) – Mobile one-pager
+- [RED-TEAM-TESTS.md](./RED-TEAM-TESTS.md) – All 24+ rounds summary
+- [00_HARDWARE/](./00_HARDWARE) – KiCad, schematic, BOM, render
 - [`01_FINAL_DELIVERABLES/`](./01_FINAL_DELIVERABLES) — Ratified master charters  
 - [`02_CORE_ARCHITECTURE_AND_APPENDICES/`](./02_CORE_ARCHITECTURE_AND_APPENDICES) — All technical appendices & directives  
-- [`04_PUBLIC_DOCS/Technical/`](./04_PUBLIC_DOCS/Technical) — IAS spec, Risk Floor, Cognitive Reserve  
+- [`04_PUBLIC_DOCS/Technical/`](./04_PUBLIC_DOCS/Technical) — IAS spec, Risk Floor, Cognitive Reserve
+- [05_GOVERNANCE_AND_PROTOCOL_UPDATES/](./05_GOVERNANCE_AND_PROTOCOL_UPDATES) – 
 - [`DECISION_LOG/`](./DECISION_LOG) — Full ratification history  
 - [`Support_Us.md`](./Support_Us.md) — Help ship the first 10 ns IAS prototype  
 
