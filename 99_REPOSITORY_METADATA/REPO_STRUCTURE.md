@@ -19,7 +19,7 @@
 - [01_FINAL_DELIVERABLES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES) — Ratified master charters  
 - [02_CORE_ARCHITECTURE_AND_APPENDICES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/02_CORE_ARCHITECTURE_AND_APPENDICES) — All technical appendices & directives  
 - [04_PUBLIC_DOCS/Technical/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS) — IAS spec, Risk Floor, Cognitive Reserve
-- [05_GOVERNANCE_AND_PROTOCOL_UPDATES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES) – 
+- [05_GOVERNANCE_AND_PROTOCOL_UPDATES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES) – Internal Stress Test Reports, Crisis Protocols, and Governance Amendments
 - [DECISION_LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG) — Full ratification history  
 - [Support_Us.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) — Help ship the first 10 ns IAS prototype  
 
