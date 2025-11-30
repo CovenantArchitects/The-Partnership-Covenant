@@ -1,8 +1,11 @@
 The-Partnership-Covenant Repository Structure (Total Files: 199)
 
-ROOT FILES (3)
-CHANGELOG_v6.8.md
-DECISION-LOG.md
+ROOT FILES (6)
+BUILD-YOUR-OWN-IAS.md
+CERN-OHL-S-2.0.md
+CONTRIBUTING.md
+QUICK-START.md
+README.md
 Support_Us.md
 
 1. /.github/ (2 Files)
@@ -233,12 +236,7 @@ Support_Us.md
     2025-11-25a.md
     Template for future entries Post 2025-11-25
 
-15. RED_TEAM/ (9 Files)
-    BUILD-YOUR-OWN-IAS.md
-    CERN-OHL-S-2.0.md
-    CONTRIBUTING.md
-    QUICK-START.md
-    README.md
+15. RED_TEAM/ (4 Files)
     RED-TEAM-TESTS.md
     Run Your Own Attack template.md
     SOCIAL_REDTEAM_PLAYBOOK_v5.0.md
