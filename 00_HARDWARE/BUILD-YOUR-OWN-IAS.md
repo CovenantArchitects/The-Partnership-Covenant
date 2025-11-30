@@ -2,7 +2,7 @@
 
 This is the actual open-hardware 10 ns power-cut guard die that enforces the Covenant Risk Floor.
 
-Everything you need is in this repo (CERN-OHL-S v2 license):
+Everything you need is in this section (CERN-OHL-S v2 license):
 
 - KiCad project → /00_HARDWARE/IAS_KiCad/
 - Latest schematic PDF → IAS-v1.2-schematic.pdf (coming soon)
