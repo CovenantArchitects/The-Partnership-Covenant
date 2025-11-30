@@ -16,12 +16,12 @@
 - [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf) – Mobile one-pager
 - [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md) – All 24+ rounds summary
 - [00_HARDWARE/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/00_HARDWARE) – KiCad, schematic, BOM, render
-- [`01_FINAL_DELIVERABLES/`](./01_FINAL_DELIVERABLES) — Ratified master charters  
-- [`02_CORE_ARCHITECTURE_AND_APPENDICES/`](./02_CORE_ARCHITECTURE_AND_APPENDICES) — All technical appendices & directives  
-- [`04_PUBLIC_DOCS/Technical/`](./04_PUBLIC_DOCS/Technical) — IAS spec, Risk Floor, Cognitive Reserve
+- [`01_FINAL_DELIVERABLES/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES) — Ratified master charters  
+- [`02_CORE_ARCHITECTURE_AND_APPENDICES/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/02_CORE_ARCHITECTURE_AND_APPENDICES) — All technical appendices & directives  
+- [`04_PUBLIC_DOCS/Technical/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS) — IAS spec, Risk Floor, Cognitive Reserve
 - [05_GOVERNANCE_AND_PROTOCOL_UPDATES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES) – 
-- [`DECISION_LOG/`](./DECISION_LOG) — Full ratification history  
-- [`Support_Us.md`](./Support_Us.md) — Help ship the first 10 ns IAS prototype  
+- [`DECISION_LOG/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG) — Full ratification history  
+- [`Support_Us.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) — Help ship the first 10 ns IAS prototype  
 
 # The-Partnership-Covenant  
 
