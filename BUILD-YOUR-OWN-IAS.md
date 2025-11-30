@@ -8,7 +8,7 @@ Everything you need is in this section (CERN-OHL-S v2 license):
 - Latest schematic PDF → IAS-v1.2-schematic.pdf
 - Gerber files (ready for JLCPCB) → /00_HARDWARE/Gerbers/
 - Bill of materials (BOM) → IAS-v1.2-BOM.csv
-- 3D render → ias-board-render.png (coming soon)
+- 3D render → ias-board-render.png
 - Preprint (4-page technical paper) → 04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf 
 
 Current status:
