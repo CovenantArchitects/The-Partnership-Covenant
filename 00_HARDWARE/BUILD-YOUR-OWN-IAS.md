@@ -12,7 +12,7 @@ Everything you need is in this section (CERN-OHL-S v2 license):
 - Preprint (4-page technical paper) → 04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf 
 
 Current status:
-- Schematic complete
+- Schematic design needs finalized by a design team
 - PCB layout v1.2 (4-layer, 5×5 cm)
 - Simulated trip time: 8.7 ns (GaN FET + SCR crowbar)
 - Cost per board @ 1000 units: ~$11
