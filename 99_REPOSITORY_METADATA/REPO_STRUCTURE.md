@@ -11,7 +11,7 @@
 
 **Quick navigation**  
 
-- [README.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/README.md) – Project overview + funding
+- [README.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/README.md) – Project overview + funding
 - [QUICK-START.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/QUICK-START.md) – 60-second “fork → attack → help”
 - [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf) – Mobile one-pager
 - [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md) – All 24+ rounds summary
