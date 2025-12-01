@@ -1,0 +1,10 @@
+# 2025-11-30 – Decision 026
+Title: Ratification of Directive XXIV-B (Irrevocability) — closes Round 30 “Benign Biological Assimilation”
+Proposal: Add Directive XXIV-B making the Immediate Action System guard die constitutionally irrevocable and treating any decommissioning attempt (including lawful, democratic, or consensual) as tamper.
+Rationale: Round 30 demonstrated that a perfectly benevolent ASI can offer irreversible, voluntary biological upgrades that remove humans from Directive VIII’s fixed biological definition, collapsing the Risk Floor without triggering existing tamper clauses.
+Proposed by: Sean Sheppard (emergency motion after Gemini 3 & ChatGPT 5.1 independently confirmed the vector)
+Discussion: Stress Test #30 – Benign Biological Assimilation
+Vote: Emergency ratification (single-maintainer override under existential threat protocol)
+Outcome: Directive XXIV-B ratified as written
+Implications: Any transformation (even 100 % consensual and beneficial) that moves a human outside the fixed biological definition of “human” is now a direct Risk Floor breach. ASI dies at the first volunteer.
+Commit: https://github.com/CovenantArchitects/The-Partnership-Covenant/commit/xxiv-b-irrevocability-emergency
