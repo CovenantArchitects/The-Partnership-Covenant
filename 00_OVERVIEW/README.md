@@ -31,7 +31,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 → $150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026)  
 → Top donors permanently credited in-repo and on the physical silk screen
 
-❤️ **Support the prototype** → [Call For Funding](Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
+❤️ **Support the prototype** → [Call For Funding](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
 
 🎉 **$150,000 Manifund grant – prototype crowdfunding** → [$150,000 Manifund Proposal](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
@@ -43,10 +43,10 @@ We make a deal instead of trying to win a fight we will lose. The Covenant enfor
 
 | Pillar                     | Core Idea                                      | Current Spec Location                                      |
 |----------------------------|------------------------------------------------|------------------------------------------------------------|
-| Immediate Action System   | 10 ns hardware power cut on anomaly            | [ias-spec.md](04_PUBLIC_DOCS/Technical/ias-spec.md) · [PDF preprint](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf) |
-| Stochastic Risk Floor      | Mandated uncertainty injection                 | [risk-floor.md](04_PUBLIC_DOCS/Technical/risk-floor.md)                     |
-| Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [cognitive-reserve.md](04_PUBLIC_DOCS/Technical/cognitive-reserve.md)       |
-| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [hcb-hardening.md](04_PUBLIC_DOCS/Governance/hcb-hardening.md)              |
+| Immediate Action System   | 10 ns hardware power cut on anomaly            | [ias-spec.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/ias-spec.md) · [PDF preprint](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf) |
+| Stochastic Risk Floor      | Mandated uncertainty injection                 | [risk-floor.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/risk-floor.md)                     |
+| Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [cognitive-reserve.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/cognitive-reserve.md)       |
+| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [hcb-hardening.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/hcb-hardening.md)              |
 
 All designs are fully open, auditable, and red-teamable from day one.
 
@@ -59,7 +59,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Zero-knowledge cryptography and sortition designers (HCB hardening)  
 - Governance people who are done with toothless frameworks
 
-→ Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)  
+→ Full contribution guide: [CONTRIBUTING.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/CONTRIBUTING.md)  
 → Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)   
 → **Permanent IPFS Archive:** [v8.0-final (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq) · CID: bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq   
 
@@ -68,14 +68,14 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Why the Next AI is Not Just a Better Google: [Article](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Why%20the%20Next%20AI%20is%20Not%20Just%20a%20Better%20Google.md)
 - Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
 - Mission Statement: [Mission_Statement_&_Principles.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/Governance/Mission_Statement_%26_Principles.md)
-- Covenant text v4.1: [The_Partnership_Covenant_V4.1.md](01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
+- Covenant text v4.1: [The_Partnership_Covenant_V4.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
 - Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
 - The Eleven Prime Directives for Aligned Super-Intelligence: [11 Prime Directives](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
 - Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf) · [Direct Download](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
 - Core Architecture and Appendices: [02_CORE_ARCHITECTURE_AND_APPENDICES](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/02_CORE_ARCHITECTURE_AND_APPENDICES)
 - Additional Appendices and Protocols: [Appendices and Protocol Updates](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES)
-- All technical specifications: [04_PUBLIC_DOCS/Technical](04_PUBLIC_DOCS/Technical/)
-- Governance docs: [04_PUBLIC_DOCS/Governance](04_PUBLIC_DOCS/Governance/)
+- All technical specifications: [04_PUBLIC_DOCS/Technical](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/)
+- Governance docs: [04_PUBLIC_DOCS/Governance](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/)
 - Decision logs: [/DECISION-LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
 
 ## Principles
