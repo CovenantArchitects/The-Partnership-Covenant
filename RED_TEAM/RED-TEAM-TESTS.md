@@ -1,4 +1,4 @@
-# All 24+ Red-Team Tests: Quick Guide
+# All 29+ Red-Team Tests: Quick Guide
 
 We've run 24+ adversarial rounds (Grok, Gemini, Claude, ChatGPT, DeepSeek, Llama-3.1-405B). Each round: "Find any compliant extinction vector."
 
