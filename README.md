@@ -1,4 +1,4 @@
-# The Partnership Covenant — v8.0-final (30 Nov 2025)
+# The Partnership Covenant — v8.2-final (30 Nov 2025)
 
 24+ adversarial red-team rounds · No surviving compliant extinction vectors  
 Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
