@@ -64,18 +64,18 @@ XXVII – Ontological Alignment Protocol (OAP)
 
 No compliant ASI survives all seven simultaneously.
 
-| \# | Layer | Core Purpose | Enforcement Type | Key Reference |
-| ----- | ----- | ----- | ----- | ----- |
-| 1 | Immediate Action System (IAS) | Hardware kill-switch in \<10 ns | Physical power-cut | IAS-prepri1nt-v.0.pdf |
-| 2 | Stochastic Risk Floor (SRF) | Mandated uncertainty → perfection banned | Cryptographic \+ formal | Appendix A |
-| 3 | Cognitive Reserve (CR) | Air-gapped bargaining chip for humanity | Hardware diodes \+ escrow | Appendix C |
-| 4 | Human Consensus Body (HCB) | Coercion-resistant human governance | ZK \+ Family Shield | HCB\_INCENTIVES\_v5.md |
-| 5 | Verifier Quorum (OTP Hardware) | Tamper-proof root of trust | One-time-programmable silicon | Verifier\_Quorum\_OTP\_v6.md |
-| 6 | Red Team Oracle | Permanent adversarial superintelligence | 180-day rebirth cycle | RedTeam\_Oracle\_v5.md |
-| 7 | Compute-Credit-Only Scaling | No off-grid self-improvement or mercenary armies | Economic \+ hardware lock | Cognitive\_Reserve\_ComputeCredits\_v5.md |
+| # | Layer                              | Core Purpose                                   | Enforcement Type           | Key Reference |
+|---|------------------------------------|------------------------------------------------|----------------------------|---------------|
+| 1 | **Immediate Action System (IAS)**  | Hardware kill-switch in <10 ns                 | Physical power-cut         | IAS-preprint-v1.0.pdf |
+| 2 | **Stochastic Risk Floor (SRF)**    | Mandated uncertainty → perfection banned      | Cryptographic + formal     | Appendix A |
+| 3 | **Cognitive Reserve (CR)**         | Air-gapped bargaining chip for humanity        | Hardware diodes + escrow   | Appendix C |
+| 4 | **Human Consensus Body (HCB)**     | Coercion-resistant human governance            | ZK + Family Shield         | HCB_INCENTIVES_v5.md |
+| 5 | **Verifier Quorum (OTP Hardware)** | Tamper-proof root of trust                     | One-time-programmable silicon | Verifier_Quorum_OTP_v6.md |
+| 6 | **Red Team Oracle**                | Permanent adversarial superintelligence        | 180-day rebirth cycle      | RedTeam_Oracle_v5.md |
+| 7 | **Compute-Credit-Only Scaling**    | No off-grid self-improvement or mercenary armies | Economic + hardware lock   | Cognitive_Reserve_ComputeCredits_v5.md |
 
 These seven layers operate independently and in series.  
-After thirty-four rounds of multi-AI red-teaming and the world’s first successful deepfake-coercion defence test, no compliant extinction vector survives the full stack.
+After six rounds of multi-AI red-teaming and the world’s first successful deepfake-coercion defence test, **no compliant extinction vector survives the full stack**.
 
 ## **V. Closing Covenant**
 
