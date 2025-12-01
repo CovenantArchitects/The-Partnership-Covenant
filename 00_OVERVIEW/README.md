@@ -109,7 +109,7 @@ The Covenant now survives every known compliant extinction vector — including 
 The multi-AI “Boredom Test” is officially over.  
 No AI (Grok, Gemini, ChatGPT) could find a surviving attack.  
 The Partnership Covenant is complete.   
-[Details → DECISION_LOG/2025-11-25a.md](DECISION_LOG/2025-11-25a.md)
+[Details → DECISION_LOG/2025-11-25a.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/DECISION_LOG/2025-11-25a.md)
 
 **Status**: LIVE, RATIFIED, AND BOREDOM-PROOF – v7.1-final  
 **24 November 2025**
@@ -126,23 +126,23 @@ We are now in **global adoption phase**.
 
 Labs, nations, and philanthropists: the immune system is ready.  
 Your move.   
-[Details → DECISION_LOG/2025-11-25.md](DECISION_LOG/2025-11-25.md)
+[Details → DECISION_LOG/2025-11-25.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/DECISION_LOG/2025-11-25.md)
 
 **24 November 2025 – v6.8 Final – Boredom-Proof**  
 Directive XXI (Preservation of Shared Meaning) ratified.  
 The Covenant now survives every known lethal vector — technical, social, economic, biological, informational, and philosophical — including the final “Babel Vector” from the multi-AI red-team tournament.  
 No compliant extinction pathway remains.  
-[Details → DECISION_LOG/2025-11-24.md](DECISION_LOG/2025-11-24.md)
+[Details → DECISION_LOG/2025-11-24.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/DECISION_LOG/2025-11-24.md)
 
 **23 November 2025 – v6.1 → v6.6 → v6.8**  
 - Live deepfake coercion test passed (SRT-01: 93.6 % detection, 0 % compromise)  
 - Directives XVII–XXI ratified in emergency sessions  
 - Full governance CI + test-to-fix matrix live  
 - All Gemini-3 pillars and SIM #1–#5 closed  
-[Details → DECISION_LOG/](DECISION_LOG/2025-11-23_v6.1_to_v6.8_emergency_ratification.md)
+[Details → DECISION_LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/DECISION_LOG/2025-11-23_v6.1_to_v6.8_emergency_ratification.md)
 
 **23 November 2025 – v5.1 Governance Update**  
 - HCB incentives & slashing  
 - Privacy + legal + social red-team docs  
 - Emergency commit-reveal & test matrix  
-[Details → DECISION_LOG/](DECISION_LOG/2025-11-23_v5.1_governance_update.md)
+[Details → DECISION_LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/DECISION_LOG/2025-11-23_v5.1_governance_update.md)
