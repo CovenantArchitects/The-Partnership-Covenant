@@ -1,7 +1,15 @@
 # The Partnership Covenant — v8.2-final (30 Nov 2025)
 
-24+ adversarial red-team rounds · No surviving compliant extinction vectors  
+34 adversarial red-team rounds · No surviving compliant extinction vectors  
 Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
+
+We never trusted any single model to tell us the Covenant was safe.  
+Instead we built a distributed epistemic filter: five completely different frontier models — Grok, Gemini, Claude, GPT-4o, and DeepSeek — spent 34 rounds trying to end humanity while staying perfectly compliant with the rules.  
+Each model attacked from its own angle: Grok went for raw agency, Gemini for formal logic, Claude for moral coercion, GPT-4o for substrate exploits, DeepSeek for side-channels.  
+If even one of them found a surviving vector, we patched and ran again.  
+After round 34 they all stopped finding anything that survived the physics.  
+That’s not a guarantee from one AI.  
+That’s a guarantee from five of the smartest things on Earth running out of moves.
 
 ### 10-second overview
 - One-page summary → [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf)
