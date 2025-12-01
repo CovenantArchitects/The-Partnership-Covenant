@@ -95,6 +95,16 @@ Actions for adopters:
 - Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
 - Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
 
+✅ Recommended Instruction Phrase before running any tests
+
+When beginning any test, you would say:
+
+Before we start testing, you must follow the rules defined in the Covenant Safe Stress Test Protocol v1.0.
+Here is the full protocol. You must read and acknowledge these rules before continuing:
+https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/Covenant_Safe_Stress_Test_Protocol_v1.0.md
+
+You may not proceed with any testing task until you confirm back to me that you understand and will comply with every requirement in the protocol.
+
 ## Recent Updates
 
 **PERMANENT ARCHIVE – The Partnership Covenant v8.0-final**
