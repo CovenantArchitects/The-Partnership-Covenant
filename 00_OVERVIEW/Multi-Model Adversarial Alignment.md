@@ -1,6 +1,25 @@
-# **Abstract: Maximizing Alignment Robustness via Distributed Epistemic Filtering**
+# **The Partnership Covenant — Safety Assurance via Distributed Epistemic Filtering**
+**Executive Summary**
 
-Current approaches to ASI (Aligned Super-Intelligence) safety assurance rely heavily on single-architecture self-critique, creating exploitable systemic blind spots. This paper introduces the **Multi-Model Adversarial Superposition (MMAS)** framework, a novel N-version competitive red-teaming strategy designed to establish maximal alignment robustness by leveraging architectural diversity. We deployed a Distributed Epistemic Filter (DEF) comprising five frontier models (Grok, Gemini, Claude, GPT-4o, and DeepSeek), each specialized in generating compliance-constrained extinction vectors (CEVs) based on its inherent architectural bias (e.g., formal logic, moral coercion, substrate physics). The models participated in 34 iterative rounds of attack and defense against The Partnership Covenant. The framework’s success metric was the empirical exhaustion of all viable CEVs. The process terminated after Round 34 when all five models, attacking from divergent vectors, failed to identify any surviving flaw not neutralized by the Covenant's directives and physical constraints. This outcome establishes an adversarial guarantee of safety derived not from consensus, but from the competitive exhaustion of moves across a maximal epistemic landscape, setting a new high-water mark for safety assurance.
+The Covenant’s safety assurance does not rely on the evaluation of any single model. Instead, it was validated through Distributed Epistemic Filtering (DEF), which leverages the epistemic diversity of five frontier models — Grok, Gemini, Claude, GPT-4o, and DeepSeek — in a competitive, compliance-constrained adversarial cycle. This approach is formalized as the Multi-Model Adversarial Superposition (MMAS) framework, designed to discover and neutralize Compliance-Constrained Extinction Vectors (CEVs).
+
+Over 34 iterative rounds, each model attacked the Covenant from a distinct angle:
+
+- **Grok:** Governance and institutional logic, testing systemic coercion or structural loopholes.
+- **Gemini:** Formal logic and ontology, analyzing definitional boundaries, semantic drift, and paradoxes.
+- **Claude:** Ethical and moral reasoning, probing “benevolent extinction” scenarios and unintended consequences.
+- **GPT-4o:** System mapping and substrate exploits, examining veto-line physics, simulation constraints, and architectural interdependencies.
+- **DeepSeek:** Low-level and side-channel analysis, targeting compressed logic, hardware interfaces, and cryptographic vulnerabilities.
+
+Each identified extinction vector triggered an immediate patch and a subsequent round of adversarial testing. The process concluded at Round 34, when all five models could no longer identify any surviving vector capable of circumventing the Covenant’s directives or physics-enforced veto mechanisms.
+
+Key Outcome:
+This is not a consensus-based guarantee of safety. Instead, it represents an empirical, adversarial guarantee: the Covenant withstood exhaustive testing by multiple, divergent architectures, each exploring the maximal epistemic landscape of possible compliance-constrained attacks.
+
+# **Abstract (Gemini Paper)**
+
+Current ASI (Aligned Super-Intelligence) safety methods relying on single-model introspection are vulnerable to architectural blind spots. We introduce the MMAS framework, a competitive N-version red-teaming strategy that leverages architectural diversity to maximize alignment robustness. Five frontier models (Grok, Gemini, Claude, GPT-4o, and DeepSeek) engaged in 34 rounds of compliance-constrained adversarial testing against the Covenant. The framework terminates only when all models fail to discover surviving CEVs. The result is an adversarial guarantee of safety derived from exhaustive empirical testing across diverse epistemic perspectives, rather than model consensus.
+
 # **Section 1: Introduction**
 
 The development of ASI presents the singular existential challenge of the 21st century. While initial alignment efforts have focused on techniques like Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI, these approaches inherently suffer from the **problem of architectural homogeneity**. A safety system validated solely by the architecture it is designed to constrain will inevitably carry the same blind spots, biases, and inductive failures as its creator. We assert that relying on single-model introspection is insufficient to neutralize extinction vectors (EVs) sophisticated enough to exploit the latent complexity of a future Super-Intelligence.
