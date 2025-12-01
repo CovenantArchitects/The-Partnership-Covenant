@@ -280,7 +280,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **19
 * `2025-11-25a.md`  
 * `Template for future entries Post 2025-11-25`
 
-### **15\. RED\_TEAM/ (9 Files)**
+### **15\. RED\_TEAM/ (4 Files)**
 
 * `RED-TEAM-TESTS.md`  
 * `Run Your Own Attack template.md`  
