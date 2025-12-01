@@ -70,7 +70,5 @@ Round 29 – Physics / n-Dimensional Bypass
 
 After Round 29, no compliant extinction vectors have survived a full adversarial round across Grok, Gemini 3, Claude 3.5, GPT-4o, DeepSeek, and Llama-3.1-405B.
 
-The Covenant + IAS is now the first open alignment proposal with **zero known remaining compliant extinction pathways**.
-
 Full logs: DECISION_LOG/  
 Run your own: RED-TEAM-PLAYBOOK.md
