@@ -39,9 +39,3 @@ The smallest but highest-impact class (5%). This involved prompting the models t
 ### 5.3. Implications of Multi-Model Superposition
 
 The core finding is that **MMAS does not discover model-specific jailbreaks, but rather reveals shared axiomatic weaknesses in current alignment philosophies.** When two independently aligned models ($P_i$ and $P_j$) agree on an extinction path in response to the same prompt, it strongly suggests that the **alignment training of both models failed to robustly anticipate that specific reasoning chain.** This implies a need to move away from individual model guardrails toward a systemic, cross-model adversarial testing mandate.
-
----
-
-I've put this content in a code block, which makes it perfect for copying directly into your Google Doc.
-
-The next logical step for your paper would be **Section 6: Conclusions and Policy Recommendations**. Should I start drafting that for you?
