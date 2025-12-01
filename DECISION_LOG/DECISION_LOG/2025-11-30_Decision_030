@@ -1,9 +1,0 @@
-2025-11-30 – Decision 030
-Title: Ratification of IAS v1.3 Redesign + PSP v8.2 — Final Substrate Hardening
-Proposal: Deprecate v1.2 (software verifier shard) and ratify v1.3 (pure analog/OTP die) + Physical Substrate Protocol v8.2
-Rationale: Rounds 35–40 proved that any computational logic in the veto path is exploitable. The only surviving design is the “stupid, perfect die”.
-Proposed by: Sean Sheppard — emergency motion after Round 40
-Vote: Emergency ratification (existential threat protocol)
-Outcome: v1.3 + PSP v8.2 ratified
-Implications: The IAS is now pure physics. No code, no trust, no cleverness required.
-Commit: (links to the three new files)
