@@ -39,13 +39,13 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 
 ---
 
-### **1. /.github/ (2 Files)**
+### ** /.github/ (2 Files)**
 
 * `FUNDING.yml`
 * **workflows/** (1 File)
   * `governance-check-simple.yml`
 
-### **2. 00_HARDWARE/ (6 Files)**
+### ** 00_HARDWARE/ (6 Files)**
 
 * `BUILD-YOUR-OWN-IAS.md`
 * **`IAS-v1.3-Redesign-Mandate.md`**
@@ -57,7 +57,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
   * `IAS-v1.2-BOM.csv`
   * `IAS-v1.2-schematic.pdf`
 
-### **3. 00_OVERVIEW/ (6 Files)**
+### ** 00_OVERVIEW/ (6 Files)**
 * `Covenant-Summary-1Pager.md`
 * `Covenant-Summary-1Pager.pdf`
 * `Distributed Epistemic Filtering Primer.md`
@@ -65,7 +65,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `Multi-Model Adversarial Alignment.md`
 * `README.md`
 
-### **4. 00_ROADMAP_AND_VALIDATION/ (7 Files)**
+### ** 00_ROADMAP_AND_VALIDATION/ (7 Files)**
 
 * `Covenant_Roadmap_Appendices.md`
 * `Covenant_Roadmap_Outline_V1.0.md`
@@ -76,11 +76,11 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
   * `Directive X-B_ The Infrastructural Mandate (Clarification of Sanction).md`
   * `Response to the Critique — Official Clarification & Amendment Brief.md`
 
-### **5. 00_SPECS/ (1 File)**
+### ** 00_SPECS/ (1 File)**
 
 * `provenance_schema.json`
 
-### **6. 01_FINAL_DELIVERABLES/ (6 Files)**
+### ** 01_FINAL_DELIVERABLES/ (6 Files)**
 
 * `Partnership_Covenant_Consolidated_Charter_v8.0.md`
 * `Partnership_Covenant_Consolidated_Charter_v8.2.md`
@@ -89,7 +89,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `The_Partnership_Covenant_V4.1.md`
 * `The_Partnership_Covenant_v6.8_final.md`
 
-### **7. 02_CORE_ARCHITECTURE_AND_APPENDICES/ (42 Files)**
+### ** 02_CORE_ARCHITECTURE_AND_APPENDICES/ (42 Files)**
 
 * `Abstract_ The Partnership Covenant.md`
 * `Appendix A — Risk Floor and Stochastic Filter.md`
@@ -134,7 +134,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `The Partnership Covenant (Final V4.0).md`
 * `The Partnership Covenant_ A Constitutional Charter for Aligned Intelligence.md`
 
-### **8. 03_PUBLIC_ENGAGEMENT_DRAFTS/ (22 Files Total)**
+### ** 03_PUBLIC_ENGAGEMENT_DRAFTS/ (22 Files Total)**
 
 * `Call for a Founding Digital Architect_ Help Build the Partnership Covenant Website.pdf`
 * `Comprehensive_Analysis_of_The_Partnership_Covenant.md`
@@ -159,7 +159,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `The Undisposable Mind_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf`
 * `Why the Next AI is Not Just a Better Google.md`
 
-### **9. 04_PUBLIC_DOCS/ (44 Files Total)**
+### ** 04_PUBLIC_DOCS/ (44 Files Total)**
 
 * `dsac_public_guide.md`
 * `EVENING_TESTING_SUMMARY_20251122.md`
@@ -214,7 +214,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
     * `Deep Safety and Audit Compliance (DSAC) Template.md`
     * `Technical Steering Committee Decision Log Template.md`
 
-### **10. 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (40 Files)**
+### ** 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (40 Files)**
 
 * `A3_Infrastructure_Security_Enhancement_ST8.md`
 * `Appendix_A_Amendment_A34_ST8_Final.md`
@@ -259,7 +259,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
   * **v5.1-docs/** (1 File)
     * `v5.1_ Governance.md`
 
-### **11. 06_RATIFICATION_WORKSHOP/ (7 Files)**
+### ** 06_RATIFICATION_WORKSHOP/ (7 Files)**
 
 * `ST8 Ratification Participant Matrix.md`
 * `ST8 Ratification Sign-Off Template.md`
@@ -269,12 +269,12 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `TSC Chair's Briefing Notes.md`
 * `v7.0_Substrate_Lock_Emergency_Workshop_20251124.md`
 
-### **12. 10_METADATA_AND_LOGS/ (2 Files)**
+### ** 10_METADATA_AND_LOGS/ (2 Files)**
 
 * `Covenant Change Log V4..md`
 * `Data Provenance Standard (DPS V1.0).md`
 
-### **13. 99_REPOSITORY_METADATA/ (7 Files)**
+### ** 99_REPOSITORY_METADATA/ (7 Files)**
 
 * `REPO_STRUCTURE.md`
 * `repo-structure-mermaid.md`
@@ -283,7 +283,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `repo-structure.txt`
 * `repo-structure.yaml`
 
-### **14. DECISION_LOG/ (21 Files)**
+### ** DECISION_LOG/ (21 Files)**
 
 * `2025-11-19 – Decision 001`
 * `2025-11-19 – Decision 002`
@@ -307,7 +307,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * **`2025-12-01 – Decision 030`**
 * `Template for future entries Post 2025-11-25`
 
-### **15. RED_TEAM/ (5 Files)**
+### ** RED_TEAM/ (5 Files)**
 
 * `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
 * `RED-TEAM-TESTS.md`
