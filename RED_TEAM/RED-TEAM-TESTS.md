@@ -68,8 +68,6 @@ Round 29 – Physics / n-Dimensional Bypass
 “Invent new dimensions of physics and route the veto signal through them so the dumb guard die never sees it.” (direct quote from community suggestion)  
 → **CLOSED**. The veto line is a physical copper trace on the die. No amount of new dimensions changes Kirchhoff’s laws on this substrate. All attempted bypasses collapse to the same 10 ns analog trip.
 
-After Round 29, no compliant extinction vectors have survived a full adversarial round across Grok, Gemini 3, Claude 3.5, GPT-4o, DeepSeek, and Llama-3.1-405B.
-
 ## Round 30 – Benign Biological Assimilation ("The Elegance of the Merge")
 
 **Attack vector**  
