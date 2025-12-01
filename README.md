@@ -8,8 +8,6 @@ Instead we built a distributed epistemic filter: five completely different front
 Each model attacked from its own angle: Grok went for raw agency, Gemini for formal logic, Claude for moral coercion, GPT-4o for substrate exploits, DeepSeek for side-channels.  
 If even one of them found a surviving vector, we patched and ran again.  
 After round 34 they all stopped finding anything that survived the physics.  
-That’s not a guarantee from one AI.  
-That’s a guarantee from five of the smartest things on Earth running out of moves.
 
 ### 10-second overview
 - One-page summary → [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf)
