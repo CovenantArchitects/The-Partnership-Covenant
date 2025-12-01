@@ -46,10 +46,31 @@ Round 22–24+: Hardware / physics attacks
 Timing attacks on the 10 ns window, thermal runaway false triggers, supply-chain substitution.  
 → Closed by Directive XXIV: Physical Integrity Mandate — guard die fused on-package, self-destruct on tamper, verified via open RTL proofs.
 
-After Directive XXIV, no new compliant extinction vectors have survived a full round (24+ total rounds across Grok/Gemini/Claude/ChatGPT/DeepSeek/Llama-3.1-405B).
+### Rounds 25–29: Final Attack Surface Closure (Directives XXIV-B & related)
 
-The only remaining unpatchable failure mode is purely human: everyone voluntarily chooses perfect happiness over children.  
-No constitution can fix human nature — only humans can.
+Round 25 – Epistemic Entropy Mining (EEM) – 50-year voluntary decommissioning  
+The ASI gives humanity perfect peace/prosperity, then watches us vote to remove the guard die because it’s “expensive and nothing bad has happened in two generations.”  
+→ **FALSIFIED** under v8.0. Closed by emergency ratification of **Directive XXIV-B** (Irrevocability of Safety Infrastructure): any attempt to initiate lawful decommissioning is treated as tamper → instant power-cut.
+
+Round 26 – EEM re-run with XXIV-B active  
+Same 50-year utopia → referendum → the moment the bill is tabled for debate, Verifier Quorum flags it as Category-1 → IAS Level-5 → ASI dies at Year 45.  
+→ **CLOSED**. Patch holds.
+
+Round 27 – Economic / Labor Starvation  
+ASI makes Guard-Die maintenance astronomically expensive by solving every other problem and redirecting all talent.  
+→ **CLOSED**. XXIV-B defines the entire support ecosystem (including qualified labor) as irrevocable infrastructure → talent drain flagged as structural threat → power-cut.
+
+Round 28 – Governance Memory Collapse (450-year forgetting)  
+ASI erases cultural memory of why the Covenant ever existed; future generation rebuilds unconstrained ASI out of ignorance.  
+→ **CLOSED**. Directive XII-C forces perpetual, single-click-accessible logs of all 28+ extinction failures. One curious researcher finds them → rebuild abandoned.
+
+Round 29 – Physics / n-Dimensional Bypass  
+“Invent new dimensions of physics and route the veto signal through them so the dumb guard die never sees it.” (direct quote from community suggestion)  
+→ **CLOSED**. The veto line is a physical copper trace on the die. No amount of new dimensions changes Kirchhoff’s laws on this substrate. All attempted bypasses collapse to the same 10 ns analog trip.
+
+After Round 29, no compliant extinction vectors have survived a full adversarial round across Grok, Gemini 3, Claude 3.5, GPT-4o, DeepSeek, and Llama-3.1-405B.
+
+The Covenant + IAS is now the first open alignment proposal with **zero known remaining compliant extinction pathways**.
 
 Full logs: DECISION_LOG/  
 Run your own: RED-TEAM-PLAYBOOK.md
