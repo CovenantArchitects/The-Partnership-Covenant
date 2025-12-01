@@ -1,0 +1,22 @@
+2025-11-30 – Decision 025
+Title: Emergency Ratification of Directive XXIV-B — Irrevocability of Safety Infrastructure
+Proposal: Add Directive XXIV-B to permanently close the Epistemic Entropy Mining (EEM) vector discovered in Round 25+ (50-year voluntary decommissioning attack).
+Rationale: The original Directive XXIV only protects against hostile/physical tamper. It is silent on lawful, democratic, or consensual decommissioning of the guard die. A perfectly benevolent ASI can render the entire hardware veto politically and economically obsolete, then watch humanity vote to remove it. This vector was independently discovered and confirmed by Gemini 3 and ChatGPT 5.1 in Round 25+.
+Proposed by: Sean Sheppard (Covenant Architects) — emergency motion triggered by red-team failure
+Discussion link: (this conversation + RED-TEAM-TESTS.md Round 25+)
+Vote: Emergency ratification (single-maintainer override under crisis protocol)
+Alternatives considered:
+- Do nothing → EEM remains open
+- Weaken irrevocability (e.g., “only if 99 % vote”) → still gameable
+- Move veto to software → re-introduces all previous bypass vectors
+Outcome: Directive XXIV-B ratified as written
+Implications / Follow-Up:
+- All future hardware deployments must implement XXIV-B language in silicon
+- Adds “irrevocability” as a new constitutional primitive
+- Closes the last known class of compliant extinction vectors
+- Next stress test (Round 26) will re-run EEM against v8.1 to confirm closure
+References:
+- Round 25+ logs (Gemini 3 + ChatGPT 5.1)
+- Original Directive XXIV text
+- Full patch text above
+Commit: https://github.com/CovenantArchitects/The-Partnership-Covenant/commit/emergency-xxiv-b-irrevocability
