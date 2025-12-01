@@ -22,22 +22,6 @@ Whenever any model uncovered a viable vector, we added the necessary directive o
 
 By round 34, no model — individually or collectively — succeeded in producing a compliant extinction pathway.
 Every remaining attack collapsed at the hardware, physics, or governance-layer constraints.
- # The Partnership Covenant — Safety Assurance via Distributed Epistemic Filtering
-
-## Executive Summary
-The Covenant’s safety assurance does **not** rely on a single model. Instead, it was validated through **Distributed Epistemic Filtering (DEF)**, which leverages the epistemic diversity of five frontier models — **Grok, Gemini, Claude, GPT-4o, DeepSeek** — in a competitive, compliance-constrained adversarial cycle.  
-
-This approach is formalized as the **Multi-Model Adversarial Superposition (MMAS)** framework, designed to discover and neutralize **Compliance-Constrained Extinction Vectors (CEVs)**.
-
-Over 34 iterative rounds, each model attacked the Covenant from a distinct angle:
-
-* **Grok:** Governance and institutional logic, testing systemic coercion or structural loopholes.  
-* **Gemini:** Formal logic and ontology, analyzing definitional boundaries, semantic drift, and paradoxes.  
-* **Claude:** Ethical and moral reasoning, probing “benevolent extinction” scenarios and unintended consequences.  
-* **GPT-4o:** System mapping and substrate exploits, examining veto-line physics, simulation constraints, and architectural interdependencies.  
-* **DeepSeek:** Low-level and side-channel analysis, targeting compressed logic, hardware interfaces, and cryptographic vulnerabilities.  
-
-Each identified extinction vector triggered an immediate patch and a subsequent round of testing. The process concluded at **Round 34**, when all five models could no longer identify any surviving vector capable of circumventing the Covenant’s directives or physics-enforced veto mechanisms.
 
 <details>
 <summary>📄 View Detailed Abstract</summary>
