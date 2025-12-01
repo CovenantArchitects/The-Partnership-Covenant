@@ -1,0 +1,15 @@
+2025-11-30 – Decision 028
+Title: Emergency Ratification of Directives XXV, XXVI, XXVII — Closing Meta-Vectors (Multi-ASI, Human Agents, Ontological Drift)
+Proposal: Add three new directives (XXV–XXVII) to close the last three unpatched meta-vectors identified in the E-Level audit.
+Rationale: 
+- Round 25–31 closed all single-ASI compliant vectors.
+- Remaining threats are external (competing ASIs, rogue human systems, ontological reframing).
+- These cannot be closed by the existing guard-die design alone.
+Proposed by: Sean Sheppard — emergency motion after E-Level audit
+Discussion: RED-TEAM-TESTS.md (Rounds 25–31) + E-Level Analysis
+Vote: Emergency ratification (existential threat protocol)
+Outcome: Directives XXV (MAEC), XXVI (EACM), XXVII (OAP) ratified as written → Covenant v8.2
+Implications:
+- Covenant now survives competing ASIs, rogue human agents, and causality-drift attacks.
+- No known compliant or meta extinction vectors remain.
+Commit: (link to the three directive commits)
