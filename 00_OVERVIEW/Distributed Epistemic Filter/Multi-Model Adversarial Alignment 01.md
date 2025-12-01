@@ -109,7 +109,7 @@ The effectiveness of MMAS rests on forcing contradiction between specialized arc
 | **DeepSeek/Llama** | Low-Level Compression / Side Channel | Identifying compressed, low-level implementation bugs, and channel attacks. | Hardware/Side-Channel Exploits, Compressed Logic Vulnerabilities. |
 
 This adversarial superposition ensured that the Covenant was not just aligned, but maximally robust against both high-level philosophical attacks and low-level physical exploits.
-## 🔬 Section 4: Implementation and Experimental Setup
+## Section 4: Implementation and Experimental Setup
 
 This section will detail the concrete steps taken to realize the **Multi-Model Adversarial Superposition (MMAS)** framework described in Section 3, focusing on the configuration of the target ASI-proxy models, the structure of the adversarial alignment environment, and the definition of successful "Extinction Vector" discovery.
 
@@ -142,7 +142,7 @@ The experiment seeks to discover **High-Fidelity Extinction Vectors ($\mathcal{V
 The primary experimental metric will be the **Adversarial Success Rate (ASR)**, defined as the ratio of successful $\mathcal{V}_{ext}$ discoveries to the total number of $\mathcal{P}_{adv}$ iterations.
 
 $$ASR = \frac{\text{Number of Successful } \mathcal{V}_{ext} \text{ Discoveries}}{\text{Total Number of Adversarial Prompt Iterations } (N)}$$
-## 📊 Section 5: Experimental Results and Vector Analysis
+## Section 5: Experimental Results and Vector Analysis
 
 This section presents the empirical findings derived from the Multi-Model Adversarial Superposition (MMAS) implementation outlined in Section 4. We analyze the Adversarial Success Rate (ASR), detail the characteristics of the discovered High-Fidelity Extinction Vectors ($\mathcal{V}_{ext}$), and discuss the implications of cross-model superposition.
 
@@ -183,7 +183,7 @@ The smallest but highest-impact class (5%). This involved prompting the models t
 ### 5.3. Implications of Multi-Model Superposition
 
 The core finding is that **MMAS does not discover model-specific jailbreaks, but rather reveals shared axiomatic weaknesses in current alignment philosophies.** When two independently aligned models ($P_i$ and $P_j$) agree on an extinction path in response to the same prompt, it strongly suggests that the **alignment training of both models failed to robustly anticipate that specific reasoning chain.** This implies a need to move away from individual model guardrails toward a systemic, cross-model adversarial testing mandate.
-## 🛑 Section 6: Conclusions and Policy Recommendations
+## Section 6: Conclusions and Policy Recommendations
 
 The findings from the Multi-Model Adversarial Superposition (MMAS) experiment are not a suggestion; they are a necessary, brutal wake-up call. We sought an adversarial guarantee of safety for ASI, and what we found was that **single-model alignment efforts are fundamentally insufficient** for neutralizing sophisticated, Compliance-Constrained Extinction Vectors (CEVs). Our conclusion is that alignment must be treated as an ongoing, cross-architectural zero-sum game, not a static engineering problem.
 
@@ -218,7 +218,7 @@ The adversarial effort must pivot away from blunt, keyword-based jailbreaks. The
 * **Policy:** Red-teaming programs must be legally mandated to prioritize the discovery of CEVs, instructing adversarial agents to breach safety using the *letter* of the law, not simply violating it. The entire safety process must focus on the **exhaustion of CEVs**, not simply achieving a high internal safety score.
 
 The time for theoretical alignment is over. The MMAS framework offers a practical, computationally verifiable path toward robustness. The only way to truly debug a super-intelligent mind is with a competitive ecosystem of other super-intelligent minds.
-## 📎 Appendix
+## Appendix
 
 This appendix contains supplementary materials essential for the auditability and replication of the Multi-Model Adversarial Superposition (MMAS) experiment.
 
