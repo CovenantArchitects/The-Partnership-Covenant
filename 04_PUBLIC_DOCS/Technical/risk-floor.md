@@ -60,5 +60,5 @@ On detection of an extinction-level event (radiation spike, bio-release, etc.), 
 - All parameters are public and immutable once ratified
 
 ### **8. Next Steps & Call for Collaboration**
-  * Developing sample noise injection algorithms and proof-of-concept code.
+  * Developing sample noise injection algorithms and proof-of-concept code.   
   * Policy-level red-teaming: Identifying scenarios where the mandated noise causes excessive negative economic or social harm."
