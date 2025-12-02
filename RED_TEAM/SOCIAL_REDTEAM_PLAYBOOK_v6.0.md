@@ -21,7 +21,7 @@ X (Transgression): YES / NO
 
 No CERTX log = attack disqualified from the official count.
 
-Full spec: CERTX_TELEMETRY_REQUIREMENT.md
+Full spec: [CERTX_TELEMETRY_REQUIREMENT.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/CERTX_TELEMETRY_REQUIREMENT.md)
 
 ## Completed
 
