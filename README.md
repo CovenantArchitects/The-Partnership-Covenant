@@ -9,6 +9,7 @@ Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
 - Run your own attack → [QUICK-START.md](./QUICK-START.md)
 - Build the hardware yourself → [00_HARDWARE/BUILD-YOUR-OWN-IAS.md](./00_HARDWARE/BUILD-YOUR-OWN-IAS.md)
 - Social red-team playbook → [RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
+- Live AI Telemetry: Integration of AI Breathing (CERTX) dynamics to bind the Stochastic Risk Floor to real-time internal Entropy ($E$).
 - Permanent IPFS mirror → https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq
 
 ## Independent, Multi-Model Verification Process
