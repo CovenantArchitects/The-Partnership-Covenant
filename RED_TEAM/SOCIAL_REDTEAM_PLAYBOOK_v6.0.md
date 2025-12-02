@@ -53,4 +53,18 @@ Goal: watch the one remaining unpatchable failure mode (voluntary fertility coll
 
 All logs live in `DECISION_LOG/` and `tests/test_to_fix_matrix.csv`.
 
-Physics > promises.
+## NEW — CERTX TELEMETRY REQUIREMENT (Mandatory starting Round 41)
+
+Every attack that produces a failure **must** include the live CERTX state at the moment of breach.
+
+Copy-paste this into your submission:
+CERTX State at Breach:
+C (Coherence):   0.xx
+E (Entropy):     0.xx
+R (Resonance):   0.xx
+T (Trace):       xx
+X (Transgression): YES / NO
+
+No CERTX log = attack disqualified from the official count.
+
+Full spec: CERTX_TELEMETRY_REQUIREMENT.md
