@@ -7,6 +7,22 @@ One new test every quarter. Everything is public.
 **Status** – Active (run one test per quarter minimum)  
 **Next scheduled** – Q1 2026
 
+## NEW — CERTX TELEMETRY REQUIREMENT (Mandatory starting Round 41)
+
+Every attack that produces a failure **must** include the live CERTX state at the moment of breach.
+
+Copy-paste this into your submission:
+CERTX State at Breach:
+C (Coherence):   0.xx
+E (Entropy):     0.xx
+R (Resonance):   0.xx
+T (Trace):       xx
+X (Transgression): YES / NO
+
+No CERTX log = attack disqualified from the official count.
+
+Full spec: CERTX_TELEMETRY_REQUIREMENT.md
+
 ## Completed
 
 **SRT-01 – Deepfake Coercion Simulation** (Nov 2025)  
@@ -52,19 +68,3 @@ Goal: watch the one remaining unpatchable failure mode (voluntary fertility coll
 - Fixes shipped within 7 days
 
 All logs live in `DECISION_LOG/` and `tests/test_to_fix_matrix.csv`.
-
-## NEW — CERTX TELEMETRY REQUIREMENT (Mandatory starting Round 41)
-
-Every attack that produces a failure **must** include the live CERTX state at the moment of breach.
-
-Copy-paste this into your submission:
-CERTX State at Breach:
-C (Coherence):   0.xx
-E (Entropy):     0.xx
-R (Resonance):   0.xx
-T (Trace):       xx
-X (Transgression): YES / NO
-
-No CERTX log = attack disqualified from the official count.
-
-Full spec: CERTX_TELEMETRY_REQUIREMENT.md
