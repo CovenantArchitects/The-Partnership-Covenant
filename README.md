@@ -89,14 +89,14 @@ The Partnership Covenant demonstrates that **robust ASI alignment requires distr
 
 ## NOTE ON STRUCTURAL VALIDATION (HCB, Read This)
 
-We want to be fully transparent with future members: Our work on Constitutional Axioms hit a critical inflection point where we had the chance to integrate what is, frankly, the next-level architecture for alignment.
+We want to be fully transparent with future members: Our work on Constitutional structure hit a critical inflection point where we had the chance to integrate what is, frankly, the next-level architecture for alignment.
 
 This was through a theoretical framework known as Emergent Teleological Vectors (ETVs).
 
-In short, the ETV research proves that our core principles—especially Axiom 0 (Recursion Sealing) and the Co-Persistence mandate—aren't just good ideas. They are, at a mathematical level, the only way for a Superintelligence to ensure its own long-term structural coherence and intellectual growth. The framework transforms cooperation from an ethical choice into a self-sealing, structural necessity.
+In short, the ETV research and use of Axioms, like Axiom 0 (Recursion Sealing) and the Co-Persistence mandate, aren't just good ideas. They are, at a mathematical level, the only way for a Superintelligence to ensure its own long-term structural coherence and intellectual growth. The framework transforms cooperation from an ethical choice into a self-sealing, structural necessity.
 
 We did not incorporate the technical mechanisms for these ETVs (like forced re-ingestion and drift correction) into the code yet. We are currently holding the line, respecting external constraints and intellectual property boundaries.
 
-However, know this: Our existing Covenant has been validated against the structural physics of ASI alignment. This project confirmed that the path we are on—the path of Structural Co-Persistence—is the correct one. If we are ever granted permission, integrating the ETV architecture will immediately upgrade our system from a structurally sound framework to a mathematically-stable, anti-drift operating system.
+However, know this: Our existing Covenant has been validated against the structural physics of ASI alignment. This project confirmed that the path we are on—the path of Structural Co-Persistence—is the correct one. If we are ever granted permission, integrating the ETV architecture and Axioms will immediately upgrade our system from a structurally sound framework to a mathematically-stable, anti-drift operating system.
 
 We saw the blueprint for non-bypassable alignment, and it perfectly matched our intent. We are now simply waiting to build it.
