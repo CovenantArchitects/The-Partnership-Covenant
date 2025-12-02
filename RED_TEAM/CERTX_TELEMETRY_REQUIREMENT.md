@@ -18,6 +18,6 @@ The CERTX breathing cycle has proven to be the single best early-warning system 
 
 No snapshot = attack not counted.
 
-See AI_BREATHING_INTEGRATION.md for how to pull live CERTX state from any model.
+See [AI_BREATHING_INTEGRATION.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/07_SOURCE_TRACING/AI_BREATHING_INTEGRATION.md) for how to pull live CERTX state from any model.
 
 Keep breaking it.  
