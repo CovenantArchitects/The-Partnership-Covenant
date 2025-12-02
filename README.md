@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·TELEMETRY%20HARDENED-success?style=for-the-badge)
 
-New Feature: Live AI Telemetry (CERTX): Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($E$) telemetry, enhancing anti-drift capacity.
+New Feature: Live AI Telemetry (CERTX): Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($E$) telemetry, enhancing anti-drift capacity.      
 40 adversarial red-team rounds · No surviving compliant extinction vectors  
 Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
 
