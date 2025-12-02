@@ -1,5 +1,8 @@
-# The Partnership Covenant — v8.2-final (1 Dec 2025)
+# v8.2.1-telemetry-hardened — 02 December 2025 — UNKILLABLE
 
+![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·TELEMETRY%20HARDENED-success?style=for-the-badge)
+
+New Feature Bullet: Live AI Telemetry (CERTX): Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($E$) telemetry, enhancing anti-drift capacity.
 40 adversarial red-team rounds · No surviving compliant extinction vectors  
 Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
 
