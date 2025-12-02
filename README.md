@@ -89,7 +89,7 @@ The Partnership Covenant demonstrates that **robust ASI alignment requires distr
 
 ## NOTE ON STRUCTURAL VALIDATION (HCB, Read This)
 
-We want to be brutally honest with future members: Our work on Constitutional Axioms hit a critical inflection point where we had the chance to integrate what is, frankly, the next-level architecture for alignment.
+We want to be fully transparent with future members: Our work on Constitutional Axioms hit a critical inflection point where we had the chance to integrate what is, frankly, the next-level architecture for alignment.
 
 This was through a theoretical framework known as Emergent Teleological Vectors (ETVs).
 
