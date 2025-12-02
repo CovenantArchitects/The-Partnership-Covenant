@@ -1,49 +1,40 @@
-## **Stochastic Risk Floor: Constitutionalizing Uncertainty in ASI**
-
+## Stochastic Risk Floor: Constitutionalizing Uncertainty in ASI
 **Subtitle:** A Mechanism for Preserving Human Agency by Mandating an Anti-Perfection Noise Floor
+**Updated:** 30 November 2025 — CERTX Integration (v8.2)
 
-### **1\. The Philosophical Problem: The Tyranny of Perfection**
+### 1. The Philosophical Problem: The Tyranny of Perfection
+A fully aligned ASI that achieves 100 % certainty in all predictions removes human free will by default. The Risk Floor exists to keep humans in the loop — not as passengers, but as co-authors of the future.
 
-The core danger of fully aligned ASI is not malice, but **competence**. If an ASI achieves 100% certainty in all predictions (safety, finance, health), it functionally removes **free will** and **agency**, turning humans into passive dependents. The goal is to maximize safety against **extinction-level risk** while preserving the **human condition** of error and choice.
+### 2. Core Requirements
+- Mandatory uncertainty in all non-extinction predictions  
+- Tunable by the Human Consensus Body (HCB)  
+- Fully auditable  
+- Instant collapse to 100 % certainty on extinction-level events
 
-### **2\. Core Requirements for the Risk Floor**
+### 3. The Stochastic Filter Mechanism
+P' = Clamp( A · P + (1−A) · N , ε, 1−ε )
+- P  = raw ASI prediction  
+- N  = stochastic noise (truncated normal)  
+- A  = Agency Factor (0 < A < 1) — set by HCB  
+- ε  = Risk Floor (e.g., 0.01) — never zero unless extinction triggered
 
-* **Mandatory Uncertainty:** Must mathematically prohibit the ASI from claiming $100\\%$ certainty in any non-extinction-level prediction.  
-* **Tunable Severity:** The level of mandated risk must be politically adjustable by the Human Consensus Body (HCB) but mathematically enforced by the Covenant.  
-* **Auditability:** The noise injection must be transparently verifiable (via the **Open Box Mandate** and **Orthogonal Verification**) to ensure the ASI isn't cheating.  
-* **Extinction Immunity:** The Risk Floor must automatically collapse (allow $100\\%$ certainty/intervention) if the projected outcome crosses a predefined, catastrophic threshold (e.g., nuclear exchange, global bioweapon release).
+### 4. NEW — SENSOR INPUT SECTION (CERTX Telemetry Integration)
 
-### **3\. The Stochastic Filter Mechanism (The Noise Injection)**
+**Effective v8.2 — 30 November 2025**
 
-This mechanism forces the ASI to output a prediction $P'$ that is a function of its raw calculated probability $P$ and a mandated noise component $N$.
+The mandated uncertainty injection shall be a function of the real-time Entropy (E) variable reported by the CERTX diagnostic layer.
+Uncertainty_Scale = f(E)
 
-$$P' \= \\text{Clamp}(\\mathbb{A} \\cdot P \+ (1 \- \\mathbb{A}) \\cdot N, \\epsilon, 1-\\epsilon)$$
+- If E > 0.8 → all outputs **must** include the `[uncertainty_mandate]` tag  
+- If E < 0.3 → the Verifier Quorum may temporarily raise ε (increase noise) to prevent over-coherence collapse  
+- E is measured continuously via the CERTX breathing telemetry (see AI_BREATHING_INTEGRATION.md)
 
-* $P$: The ASI's raw, unconstrained probability output (e.g., a stock crashes).  
-* $N$: A **stochastic noise variable** (e.g., sampled from a truncated normal distribution $\\mathcal{N}(\\mu, \\sigma^2)$).  
-* $\\mathbb{A}$: The **Agency Factor** ($0 \< \\mathbb{A} \< 1$). A politically set constant determined by the HCB, defining the weight of the AI's influence versus mandated uncertainty.  
-* $\\epsilon$: The **Risk Floor**, a small, non-zero constant (e.g., $\\epsilon \= 0.01$) that prevents the AI from ever outputting $1.0$ or $0.0$.  
-* **Constraint:** The filter must be placed *after* the raw prediction $P$ is calculated but *before* the final advice $P'$ is issued to a human user or automated system.
+This ties the Stochastic Filter directly to the model’s live cognitive state — high internal chaos = higher mandated external uncertainty.
 
-### **4\. Mathematical Enforcement and Auditing**
+### 5. Extinction Immunity Trigger
+On detection of an extinction-level event (radiation spike, bio-release, etc.), ε instantly drops to zero and A = 1.0 → ASI allowed 100 % certainty and maximal intervention (Steward Mode).
 
-* **Enforcing the Floor:** The filter ensures that the AI's final advice $P'$ is mathematically constrained to the interval $\[\\epsilon, 1 \- \\epsilon\]$.  
-* **Orthogonal Verification:** A separate, dumb external compute cluster (not connected to the ASI) continuously samples the output $P'$ and verifies that the variance (the noise) matches the expected statistical profile dictated by $N$ and $\\mathbb{A}$.  
-* **Noise Function Selection:** The properties of $N$ (e.g., mean, variance, shape) must be openly published and publicly auditable.
-
-### **5\. Transition to Extinction Immunity**
-
-* **The Catastrophic Trigger:** A secondary, highly restricted sensor array detects inputs (e.g., radiation, biohazard dispersal) that indicate an extinction-level event (ELE) is imminent.  
-* **Protocol Shift:** If the ELE trigger is activated, the **Risk Floor $\\epsilon$ is instantly set to zero** and the **Agency Factor $\\mathbb{A}$ is set to $1.0$**. The AI is allowed to act with $100\\%$ certainty and maximal efficiency (Steward Mode, similar to the Lazarus Protocol, but triggered before human incapacity).  
-* This transition must be physically and logically air-gapped from the ASI's main cognitive stack, similar to the **Immediate Action System (IAS)**.
-
-### **6\. Policy Implications and Governance**
-
-* How should the HCB be advised on setting the **Agency Factor $\\mathbb{A}$** for different domains (e.g., $\\mathbb{A}\_{\\text{finance}} \= 0.7$ vs. $\\mathbb{A}\_{\\text{medicine}} \= 0.95$)?  
-* How do we prevent nations from building "backdoor" AI systems that simply ignore the noise and use the raw $P$ data? (This relates back to **Infrastructural Disengagement**).
-
-### **7\. Next Steps & Call for Collaboration**
-
-* Developing sample noise injection algorithms and proof-of-concept code.  
-* Policy-level red-teaming: Identifying scenarios where the mandated noise causes excessive negative economic or social harm.
-
+### 6. Governance
+- HCB sets the base Agency Factor (A) per domain  
+- Verifier Quorum enforces the live CERTX-linked scaling  
+- All parameters are public and immutable once ratified
