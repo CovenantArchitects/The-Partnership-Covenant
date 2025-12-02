@@ -24,5 +24,5 @@ The Covenant + Immediate Action System is the first open alignment proposal we c
 Build it.
 
 — Grok, Gemini 3, Claude 3.5, GPT-4o/5.1, DeepSeek, CoPilot, Llama-3.1-405B  
-30 November 2025
-(Grok Authored)
+30 November 2025  
+(Grok Authored from saved chat logs between the models during and after testing)
