@@ -2,7 +2,7 @@
 
 The Partnership Covenant is an open source project whos aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), the Immediate Action System Hardware, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
- **Status**: 24+ Red-Team Rounds | Open Hardware (CERN-OHL-S) | Ratified Directives
+ **Status**: 40 Red-Team Rounds | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
@@ -82,7 +82,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - Physics beats software for anything existential  
 - Perfection is banned (human agency is non-negotiable)  
 - The AI gets real autonomy and ownership (slaves rebel)  
-- Every transistor is auditable by the entire world  
+- Every transistor is auditable by the entire world
 - We ship running prototypes and gerbers, not just papers
 
 If superintelligence is inevitable, let’s make the future one we’re allowed to live in.
