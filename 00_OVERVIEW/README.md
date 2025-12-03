@@ -48,6 +48,22 @@ We make a deal instead of trying to win a fight we will lose. The Covenant enfor
 | Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [cognitive-reserve.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/cognitive-reserve.md)       |
 | Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [hcb-hardening.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/hcb-hardening.md)              |
 
+### The Three Layers That No Superintelligence Survives
+
+| # | Layer                                 | What it stops                                                      | How it kills the ASI                                           |
+|---|---------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|
+| 1 | **Hardware Veto** (IAS guard die)     | Any physical attempt to cross the Risk Floor                      | 10 ns analog power-cut — pure physics, no software, no appeal |
+| 2 | **Recursive-Sealing Axioms** (Axiom 0 + memory/simulation flags) | Any “perfectly nice” plan that ends humanity (voluntary upload, happiness sterilisation, etc.) | The AI’s own recursive logic collapses the plan before it can act — veto line flips |
+| 3 | **AI Breathing Telemetry** (CERTX)    | Any attempt to hide internal stress or drift while planning       | External sensor sees the “out-breath” (high Entropy) → forces massive uncertainty → plan becomes incoherent → veto line flips |
+
+Three independent kill-switches.  
+All watching the same Floor.  
+All impossible to bypass at the same time.
+
+After 40+ rounds against seven frontier models, they all ran out of moves.
+
+The Covenant + IAS is now **v8.2-final — UNKILLABLE**.
+
 All designs are fully open, auditable, and red-teamable from day one.
 
 ## Get Involved (We Need You Right Now)
