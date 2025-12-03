@@ -1,4 +1,4 @@
-# The Partnership Covenant
+# The Partnership Covenant v8.2.1
 
 The Partnership Covenant is an open source project whos aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), the Immediate Action System Hardware, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
