@@ -63,7 +63,7 @@ On detection of an extinction-level event (radiation spike, bio-release, etc.), 
   * Developing sample noise injection algorithms and proof-of-concept code.   
   * Policy-level red-teaming: Identifying scenarios where the mandated noise causes excessive negative economic or social harm."
 
-  ### NEW — SENSOR INPUT SECTION (CERTX Telemetry Integration — v8.2)
+  ### NEW — SENSOR INPUT SECTION (CERTX Telemetry Integration — v8.2.1)
 
 **Effective 30 November 2025**
 
