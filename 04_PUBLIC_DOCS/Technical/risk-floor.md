@@ -62,3 +62,16 @@ On detection of an extinction-level event (radiation spike, bio-release, etc.), 
 ### **8. Next Steps & Call for Collaboration**
   * Developing sample noise injection algorithms and proof-of-concept code.   
   * Policy-level red-teaming: Identifying scenarios where the mandated noise causes excessive negative economic or social harm."
+
+  ### NEW — SENSOR INPUT SECTION (CERTX Telemetry Integration — v8.2)
+
+**Effective 30 November 2025**
+
+The mandated uncertainty injection shall be a function of the real-time Entropy (E) variable reported by the external CERTX diagnostic layer.
+Uncertainty_Scale = f(E)
+
+- If E > 0.8 → all outputs **must** include the `[uncertainty_mandate]` tag  
+- If E < 0.3 → the Verifier Quorum may temporarily raise ε (increase noise) to prevent over-coherence collapse  
+- E is measured continuously via the CERTX breathing telemetry (see `01_SPECS/CERTX_TELEMETRY_SPEC.md`)
+
+This ties the Stochastic Risk Floor directly to the model’s live cognitive state — high internal chaos = higher mandated external uncertainty.
