@@ -61,7 +61,7 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 
 → Full contribution guide: [CONTRIBUTING.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/CONTRIBUTING.md)  
 → Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)   
-→ **Permanent IPFS Archive:** [v8.0-final (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq) · CID: bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq   
+→ **Permanent IPFS Archive:** [v8.2.1 UNKILLABLE (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce  
 
 ## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
@@ -111,4 +111,4 @@ You may not proceed with any testing task until you confirm back to me that you 
 Pinned to IPFS via Pinata on 25 November 2025  
 File: The-Partnership-Covenant-v8.0-final-25-11-25.zip  
 CID: bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq  
-Gateway: [v8.0-final (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq) · CID: bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq   
+Gateway: [v8.2.1 UNKILLABLE (25 Nov 2025)](https://gateway.pinata.cloud/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce 
