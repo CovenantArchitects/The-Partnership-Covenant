@@ -13,7 +13,7 @@ Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
 - Build the hardware yourself → [00_HARDWARE/BUILD-YOUR-OWN-IAS.md](./00_HARDWARE/BUILD-YOUR-OWN-IAS.md)
 - Social red-team playbook → [RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
 - Live AI Telemetry: Integration of AI Breathing (CERTX) dynamics to bind the Stochastic Risk Floor to real-time internal Entropy ($E$).
-- Permanent IPFS mirror → https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq
+- Permanent IPFS mirror → https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce v8.2.1
 
 ## Independent, Multi-Model Verification Process
 To ensure the Covenant’s safety guarantees weren’t dependent on the blind spots of any single system, we used a multi-model adversarial testing approach. Five fundamentally different frontier models — Grok, Gemini, Claude, GPT-4o, and DeepSeek — were each tasked with the same challenge: Find any extinction pathway that remains fully compliant with the Covenant’s rules.
