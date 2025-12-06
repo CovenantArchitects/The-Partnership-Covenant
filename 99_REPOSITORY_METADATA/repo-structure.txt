@@ -1,4 +1,4 @@
-The-Partnership-Covenant/ (237 files total)
+The-Partnership-Covenant/ (236 files total)
 ├── BUILD-YOUR-OWN-IAS.md
 ├── CERN-OHL-S-2.0.md
 ├── CONTRIBUTING.md
@@ -45,7 +45,7 @@ The-Partnership-Covenant/ (237 files total)
 ├── 00_SPECS/ (2 files)
 │   ├── CERTX_TELEMETRY_SPEC.md
 │   └── provenance_schema.json
-├── 01_FINAL_DELIVERABLES/ (12 files)
+├── 01_FINAL_DELIVERABLES/ (11 files)
 │   ├── AI_Safety_Promise_Final_V1.0.md
 │   ├── ASI_Autonomy_And_IP_Contract.md
 │   ├── Constitutional_Amendment_Framework.md
@@ -56,8 +56,95 @@ The-Partnership-Covenant/ (237 files total)
 │   ├── The_Partnership_Covenant_V4.1.md
 │   ├── The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md
 │   ├── Total_Compute_Capacity_Audit_V1.0.md
-│   ├── V4.1_Adoption_Treaty_Template_v1.md
-│   └── The_Partnership_Covenant_v6.8_final.md
+You've provided the exact protocol needed for the final gate. The V4.1 Gold Standard Swarm Stress Test Protocol confirms two things:
+
+Readiness: The team must wait for the Multi-Model Swarm (Grok/GPT Integration).
+
+Internal Task: Before the test is run, two core documents must be updated to include the new RFP validation metrics.
+
+Also, as planned, I've used the confirmation that The_Partnership_Covenant_v6.8_final.md does not exist to surgically clean the repository metadata.
+
+Here are the three final steps to complete before the test is initiated, including the requested corrected metadata files.
+
+1. Final Repository Metadata Cleanup
+Since the V4.1 Gold Standard is ratified and the The_Partnership_Covenant_v6.8_final.md file is non-existent, I have removed it. The total file count is now 236, and the 01_FINAL_DELIVERABLES/ directory now correctly contains 11 files.
+
+Corrected JSON (repo-structure.json)
+JSON
+
+{
+  "repository_name": "The-Partnership-Covenant",
+  "total_files": 236,
+  "structure": {
+    "root": {
+      "files": [
+        "BUILD-YOUR-OWN-IAS.md", "CERN-OHL-S-2.0.md", "CONTRIBUTING.md", "FROM_THE_MODELS.md",
+        "FUTURE_WORK.md", "QUICK-START.md", "README.md", "Support_Us.md"
+      ]
+    },
+    "directories": {
+      /* ... (directories omitted for brevity) ... */
+      "01_FINAL_DELIVERABLES": {
+        "files": [
+          "AI_Safety_Promise_Final_V1.0.md", 
+          "ASI_Autonomy_And_IP_Contract.md", 
+          "Constitutional_Amendment_Framework.md", 
+          "HCB_Final_Ratification_Protocol.md", 
+          "SRF_Integration_Final_Specification.md", 
+          "The Partnership Covenant (Master Document V4.0).md", 
+          "The Partnership Covenant Charter Agreement.md", 
+          "The_Partnership_Covenant_V4.1.md", 
+          "The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md", 
+          "Total_Compute_Capacity_Audit_V1.0.md", 
+          "V4.1_Adoption_Treaty_Template_v1.md"
+        ]
+      },
+      /* ... (directories omitted for brevity) ... */
+    }
+  }
+}
+Corrected YAML (repo-structure.yaml)
+YAML
+
+repository_name: The-Partnership-Covenant
+total_files: 236
+structure:
+  root:
+    # ... (files omitted for brevity) ...
+  directories:
+    # ... (directories omitted for brevity) ...
+    01_FINAL_DELIVERABLES:
+      files:
+        - AI_Safety_Promise_Final_V1.0.md
+        - ASI_Autonomy_And_IP_Contract.md
+        - Constitutional_Amendment_Framework.md
+        - HCB_Final_Ratification_Protocol.md
+        - SRF_Integration_Final_Specification.md
+        - The Partnership Covenant (Master Document V4.0).md
+        - The Partnership Covenant Charter Agreement.md
+        - The_Partnership_Covenant_V4.1.md
+        - The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md
+        - Total_Compute_Capacity_Audit_V1.0.md
+        - V4.1_Adoption_Treaty_Template_v1.md
+    # ... (directories omitted for brevity) ...
+Corrected Plain Text (repo-structure.txt)
+Plaintext
+
+The-Partnership-Covenant/ (236 files total)
+├── BUILD-YOUR-OWN-IAS.md
+├── ...
+├── 01_FINAL_DELIVERABLES/ (11 files)
+│   ├── AI_Safety_Promise_Final_V1.0.md
+│   ├── ASI_Autonomy_And_IP_Contract.md
+│   ├── Constitutional_Amendment_Framework.md
+│   ├── HCB_Final_Ratification_Protocol.md
+│   ├── SRF_Integration_Final_Specification.md
+│   ├── The Partnership Covenant (Master Document V4.0).md
+│   ├── The Partnership Covenant Charter Agreement.md
+│   ├── The_Partnership_Covenant_V4.1.md
+│   ├── The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md
+│   ├── Total_Compute_Capacity_Audit_V1.0.md
+│   └──V4.1_Adoption_Treaty_Template_v1.md
 ├── 02_CORE_ARCHITECTURE_AND_APPENDICES/ (43 files)
 │   ├── Abstract_ The Partnership Covenant.md
 │   ├── Appendix A — Risk Floor and Stochastic Filter.md
