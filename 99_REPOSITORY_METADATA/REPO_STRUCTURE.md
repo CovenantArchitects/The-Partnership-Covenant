@@ -62,7 +62,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 
 ### **00_OVERVIEW/ (7 Files)**
 
-* `AXIOMATIC_EXTENSION_v8.2.1.md`
+* `COVENANT_GEOMETRIES_v8.2.1.md`
 * `Covenant-Summary-1Pager.md`
 * `Covenant-Summary-1Pager.pdf`
 * `Distributed Epistemic Filtering Primer.md`
