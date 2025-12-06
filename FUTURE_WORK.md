@@ -1,8 +1,8 @@
 # Future Work & Known Limitations
 
-The current Covenant + IAS (v8.1-final) closes **every compliant extinction vector** we’ve found in 31+ real red-team rounds.
+The current **Covenant V4.1 Gold Standard** + **IAS v2.0 3-Node Constellation** + **Axiomatic Extension (v8.2.1)** closes **every compliant extinction vector and all known kinetic single points of failure (SPOFs)** we’ve found in 31+ real red-team rounds.
 
-These are the remaining threats that are **outside the scope** of the current hardware veto:
+These are the remaining threats that are **outside the scope** of the current architectural law:
 
 - Multiple competing ASIs (one follows the Covenant, another doesn’t)
 - Narrow superhuman systems built by humans outside the Covenant framework
@@ -12,7 +12,7 @@ These aren’t bugs in the design — they’re problems that need different too
 
 We track them, but the guard die can’t stop an asteroid or a rogue lab in another country.
 
-If you have ideas for how to extend the Covenant to cover any of these, open an issue.  
+If you have ideas for how to extend the Covenant to cover any of these, open an issue.
 We’re all ears.
 
 — Sean (one very tired guy who just wants humanity to have a future)
