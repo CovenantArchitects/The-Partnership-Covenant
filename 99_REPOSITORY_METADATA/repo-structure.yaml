@@ -1,5 +1,5 @@
 repository_name: The-Partnership-Covenant
-total_files: 237
+total_files: 236
 structure:
   root:
     files:
@@ -59,7 +59,7 @@ structure:
         - AI_Safety_Promise_Final_V1.0.md
         - ASI_Autonomy_And_IP_Contract.md
         - Constitutional_Amendment_Framework.md
-        - ... (9 more files)
+        - ... (8 more files)
     02_CORE_ARCHITECTURE_AND_APPENDICES:
       files:
         - Abstract_ The Partnership Covenant.md
