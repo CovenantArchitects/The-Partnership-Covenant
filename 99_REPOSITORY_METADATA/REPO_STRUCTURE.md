@@ -62,9 +62,9 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 
 ### **00_OVERVIEW/ (7 Files)**
 
+* `AI_BREATHING_INTEGRATION.md`
 * `COVENANT_GEOMETRIES_v8.2.1.md`
 * `Covenant-Summary-1Pager.md`
-* `Covenant-Summary-1Pager.pdf`
 * `Distributed Epistemic Filtering Primer.md`
 * `Executive_Summary.md`
 * `IAS-preprint-v1.0.pdf`
