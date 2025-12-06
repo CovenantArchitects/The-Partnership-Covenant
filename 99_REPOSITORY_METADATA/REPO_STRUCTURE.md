@@ -1,4 +1,4 @@
-# 🧭 Master Repository Structure — The Partnership Covenant
+#Master Repository Structure — The Partnership Covenant
 **v4.1-gold-standard — 06 December 2025 — KINETICALLY-ARMORED**
 
 ![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
@@ -25,7 +25,7 @@
 
 # The-Partnership-Covenant
 
-The overall file count for the **`The-Partnership-Covenant`** repository is **234 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **236 files** (excluding the `.github` directory content).
 
 ---
 
@@ -60,9 +60,8 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
   * `IAS-v1.2-BOM.csv`
   * `IAS-v1.2-schematic.pdf`
 
-### **00_OVERVIEW/ (8 Files)**
+### **00_OVERVIEW/ (7 Files)**
 
-* `AI_BREATHING_INTEGRATION.md`
 * `AXIOMATIC_EXTENSION_v8.2.1.md`
 * `Covenant-Summary-1Pager.md`
 * `Covenant-Summary-1Pager.pdf`
