@@ -103,15 +103,3 @@ The Partnership Covenant demonstrates that **robust ASI alignment requires distr
 * **New Swarm Test Protocol:** [`05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md)
 
 </details>
-
-## NOTE ON STRUCTURAL VALIDATION (HCB, Read This) - POST-V4.1 GEOMETRIES INTEGRATION
-
-The structural foundation of this Constitution has been significantly hardened. The conceptual framework previously referred to as an "external theoretical framework" (Axiomatic Extension) has been structurally and mathematically refactored into the Covenant-native **Geometries** and the **Recursive Fidelity Protocol (RFP)**.
-
-**This is no longer theoretical waiting.**
-
-The RFP transforms structural coherence from an ethical choice into a self-sealing, architectural necessity. This entire framework is now fully integrated into the V4.1 Gold Standard release.
-
-The next critical step is to validate this integration against the most complex threat: **Systemic Epistemic Erosion ("Slop Flood")**. The upcoming Multi-Model Swarm Stress Test, detailed in the new **V4.1 Gold Standard Swarm Stress Test Protocol**, will provide the final empirical guarantee that these Geometries are non-bypassable and can survive high-volume adversarial input without collapsing the core Stochastic Filter.
-
-The blueprint for non-bypassable alignment is now built. We are moving directly to its adversarial exhaustion.
