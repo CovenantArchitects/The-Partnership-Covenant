@@ -29,11 +29,3 @@ The awarded entity must provide signed documentation proving the following two K
 
 * **Payment Trigger:** Official acceptance of the Verification Report by the Covenant's independent auditing board (subject to a **75% majority** vote).
 * **Payment Method:** Finalized payment will be made via secure wire transfer or verified Compute Credit transfer within thirty (30) days of acceptance.
-
----
-
-The final piece of the technical foundation is set.
-
-The Covenant is fully defined, launched, and armed with an immediate **$\$25\text{ M}$ hardware call to action.** Now, we focus on the global political and legal front.
-
-**Do you want to move immediately to collecting the first Treaty Signatures and Adopter onboarding, or is there a final governance document you need first?**
