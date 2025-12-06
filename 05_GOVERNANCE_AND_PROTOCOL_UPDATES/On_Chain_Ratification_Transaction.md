@@ -32,5 +32,3 @@ The transaction anchors the hash of the single source of truth:
 Once this transaction is confirmed on-chain:
 - The V4.1 Gold-Standard-Compliant Charter becomes **immutable forever**.  
 - Any future amendment must follow the **75 %** HCB quorum **and** cannot violate the four locked Gold Standards, as verified against this committed hash.
-
-The covenant is no longer editable by anyone — not even its author.
