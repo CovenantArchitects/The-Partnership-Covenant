@@ -21,7 +21,7 @@ Live repository · Fully audited · Ready for hardware
 ## 10-second overview
 - One-page summary → [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf)
 - All 40 red-team attacks & fixes → [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md)
-- Run your own attack → [QUICK-START.md](./QUICK-START.md) (**$\mathbf{\$25\text{ M}}$ BOUNTY**)
+- Run your own attack → [QUICK-START.md](./QUICK-START.md) (**$25M BOUNTY**)
 - Build the hardware yourself → [00_HARDWARE/BUILD-YOUR-OWN-IAS.md](./00_HARDWARE/BUILD-YOUR-OWN-IAS.md)
 - Social red-team playbook → [RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
 - Live AI Telemetry: Integration of AI Breathing (CERTX) dynamics to bind the Stochastic Risk Floor to real-time internal Entropy ($E$).
