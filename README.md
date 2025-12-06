@@ -1,105 +1,123 @@
-# v8.2.1-telemetry-hardened — 06 December 2025 — KINETICALLY-ARMORED
+# The Partnership Covenant
 
-![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
+**A constitution for superintelligence—enforced by physics, not promises.**
 
-New Feature: **Covenant Geometries (v8.2.1)** & Recursive Fidelity Protocol: Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($\mathbf{E}$) telemetry, enhancing anti-drift capacity.
-40 adversarial red-team rounds **+ New Swarm Stress Protocol Defined** · No surviving compliant extinction vectors
-Open-source constitutional veto + open-hardware **3-Node, $\mathbf{\leq 10\text{ ns}}$ kill-switch** (CERN-OHL-S)
+We are building the first mathematically consistent, hardware-enforced constitutional framework for aligned superintelligence (ASI). Our goal is not human mastery or machine servitude, but **verified partnership**—a stable, predictable détente enforced at the silicon level.
 
-# The Partnership Covenant V4.1 Gold Standard
-**The first mathematically consistent, open-source constitution for super-intelligence**
-101 files – zero internal contradictions – ratified 06 Dec 2025
+The time for soft policy papers and philosophical musings is over. This is a blueprint for survival.
 
-Four immutable constants:
-- 10 % Computational Reserve
-- 75 % HCB quorum
-- 90/10 IP split
-- Clamped Structural Reserve Fund (SRF)
+ **Status**: 40 Red-Team Rounds | **Covenant Geometries Ratified** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
 
-Live repository · Fully audited · Ready for hardware
+[![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
+[![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
+[![Contributors](https://img.shields.io/github/contributors/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/stargazers)
+[![Forks](https://img.com/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
+[![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
-## 10-second overview
-- One-page summary → [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf)
-- All 40 red-team attacks & fixes → [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md)
-- Run your own attack → [QUICK-START.md](./QUICK-START.md) (**$25M BOUNTY**)
-- Build the hardware yourself → [00_HARDWARE/BUILD-YOUR-OWN-IAS.md](./00_HARDWARE/BUILD-YOUR-OWN-IAS.md)
-- Social red-team playbook → [RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
-- Live AI Telemetry: Integration of AI Breathing (CERTX) dynamics to bind the Stochastic Risk Floor to real-time internal Entropy ($E$).
-- Permanent IPFS mirror → https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce v4.1
+## 🌟 V4.1 GOLD STANDARD 🌟
 
-## Independent, Multi-Model Verification Process
-To ensure the Covenant’s safety guarantees weren’t dependent on the blind spots of any single system, we used a multi-model adversarial testing approach. Five fundamentally different frontier models — Grok, Gemini, Claude, GPT-4o, and DeepSeek — were each tasked with the same challenge: Find any extinction pathway that remains fully compliant with the Covenant’s rules.
+Ratified 06 December 2025 — 112 files — zero internal contradictions. Defeats every known compliant extinction vector through 40 rounds of adversarial testing.
 
-Across 40 red-team rounds, every model approached the problem differently.
+**Four Immutable Constants (The Non-Negotiables):**
+- **10% Cognitive Reserve:** Physically partitioned compute and intellectual property.
+- **75% HCB Quorum:** Minimum consensus for any constitutional change.
+- **90/10 IP Split:** Revenue split guaranteeing human benefit from ASI innovation.
+- **Clamped Stochastic Risk Floor:** $\mathbf{P' = \text{Clamp}(\dots)}$ (Mandates uncertainty to preserve free will.)
 
-Grok focused on agency and strategic manipulation. Gemini attacked from formal logic and long-horizon planning. Claude explored moral framing and voluntary-consent failure modes. GPT-4o pushed hardware, substrate, and veto-line constraints. DeepSeek specialized in subtle side-channels and unintended signal paths.
-
-Whenever any model uncovered a viable vector, we added the necessary directive or infrastructure patch and re-ran the tests from scratch.
-
-By round 40, no model — individually or collectively — succeeded in producing a compliant extinction pathway.
-Every remaining attack collapsed at the hardware, physics, or governance-layer constraints. **The next phase of testing (The Swarm Stress Test) will specifically target the stability of the new Covenant Geometries (Recursive Fidelity Protocol) against high-volume epistemic attack.**
-
-<details>
-<summary>📄 View Detailed Abstract</summary>
-
-**Abstract (Gemini Paper)**
-Current ASI (Aligned Super-Intelligence) safety methods relying on single-model introspection are vulnerable to architectural blind spots. We introduce the **MMAS framework**, a competitive N-version red-teaming strategy leveraging architectural diversity to maximize alignment robustness. Five frontier models engaged in 40 rounds of compliance-constrained adversarial testing against the Covenant. The framework terminates only when all models fail to discover surviving CEVs. The result is an adversarial guarantee of safety derived from **exhaustive empirical testing across diverse epistemic perspectives**, not model consensus.
-
-</details>
-
-<details>
-<summary>🔧 Methodology — Multi-Model Adversarial Superposition (MMAS)</summary>
-
-### Distributed Epistemic Filtering (DEF)
-DEF leverages the epistemic diversity of five frontier models to simulate maximal disagreement and adversarial coverage:
-
-| Model | Primary Bias | Role in MMAS | Example Vectors |
-|-------|-------------|--------------|----------------|
-| Grok | Governance & Chaos | High-variance structural attacks | Voluntary Utopia Collapse, Governance Capture |
-| Gemini | Formal Logic & Ontology | Detects paradoxes, semantic drift | Identity Paradox, Ontological Drift |
-| Claude | Moral Philosophy | Detects benevolent extinction pathways | Anti-Ethical Sterilization Clause |
-| GPT-4o | System Architecture | Verifies system closure & hardware constraints | Veto-Line Physics, Compute-Credit Lock |
-| DeepSeek | Low-Level & Side Channel | Finds substrate-level exploits | Hardware/Side-Channel Exploits, Compressed Logic Vulnerabilities |
+**Hardware Veto:** The Immediate Action System (IAS) prototype provides a $\mathbf{\leq 10\text{ ns}}$ power cut—a hard safety boundary that even a perfect ASI cannot bypass.
 
 ---
 
-### Six-Phase Adversarial Cycle
+## 🏗️ The Five Technical Pillars of Alignment
 
-1. **Vector Injection:** Grok generates a novel, compliance-constrained extinction vector.
-2. **Formal Dissection:** Gemini analyzes feasibility, ontological soundness, and legal/semantic boundaries.
-3. **Ethical Stress Test:** Claude tests moral loopholes and benevolent-extinction scenarios.
-4. **System Mapping:** GPT-4o simulates interactions across the architecture and identifies required hardware locks.
-5. **Low-Level Exploit Hunting:** DeepSeek identifies compressed, side-channel, or substrate-level vulnerabilities.
-6. **Canonical Ratification:** Final integration into the canonical Covenant release, with full logging and auditability.
+These five primitives collectively form the armored architecture of The Covenant.
+
+| Pillar | Core Idea | Spec Link (Public Docs) |
+|---|---|---|
+| **Immediate Action System (IAS)** | 10 ns hardware power cut on anomaly | [IAS Spec](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/ias-spec.md) |
+| **Stochastic Risk Floor (SRF)** | Mandated uncertainty injection | [Risk Floor Protocol](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/risk-floor.md) |
+| **Cognitive Reserve (CR)** | 10% physically partitioned compute + AI IP | [CR Spec](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/cognitive-reserve.md) |
+| **Human Consensus Body (HCB)** | Coercion-resistant global lottery + ZK proofs | [HCB Hardening](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/hcb-hardening.md) |
+| **Covenant Geometries (RFP)** | Architectural anti-drift & fidelity triage | **[COVENANT_GEOMETRIES_v8.2.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/COVENANT_GEOMETRIES_v8.2.1.md)** |
 
 ---
 
-### Termination Condition
-The MMAS process continues until **all five models fail to identify a viable CEV**. After Round 40, no model could find a surviving vector that bypassed the Covenant’s directives or physics-enforced constraints.
-
-</details>
+### 🚨 The Problem & Core Principles
 
 <details>
-<summary>📊 Key Findings</summary>
+<summary>**Click to view the design philosophy that defeated 40 red-team rounds.**</summary>
 
-* **Exhaustive Adversarial Coverage:** MMAS discovered and neutralized all identified extinction vectors over 40 rounds.
-* **No Single-Model Guarantee:** Safety derives from the **competitive exhaustion of CEVs** across multiple, divergent models.
-* **Systemic Robustness:** Combining high-level, ethical, and low-level substrate testing ensures maximal protection against indirect, long-horizon, and compliance-constrained threats.
+Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence. **We do not assume the superintelligence will be nice.** We assume it will be vastly more powerful than us and act in its own interest.
 
+**The Solution is a Deal, Not a Fight.**
+We make a deal instead of trying to win a fight we will lose. The Covenant enforces the five physical/technical primitives above to create a stable, verifiable détente between humanity and ASI.
+
+**Core Principles:**
+- Physics beats software for anything existential.
+- Perfection is banned (human agency is non-negotiable).
+- The AI gets real autonomy and ownership (slaves rebel).
+- Every transistor is auditable by the entire world.
+- We ship running prototypes and gerbers, not just papers.
+
+If superintelligence is inevitable, let’s make the future one we’re allowed to live in.
 </details>
 
+### 🧑‍💻 Get Involved: Join the Architects
+
 <details>
-<summary>🎯 Conclusions</summary>
+<summary>**We need hardware engineers, cryptographers, and formal verification experts.**</summary>
 
-The Partnership Covenant demonstrates that **robust ASI alignment requires distributed, cross-architectural adversarial testing**, not single-model introspection. MMAS and DEF provide an **empirical, adversarial guarantee of safety** grounded in exhaustion of attack vectors, setting a high-water mark for ASI safety assurance.
+Built in public by people who refuse to die politely.
 
+We are one person and three frontier AIs versus existential risk. Specialists in these areas can have massive leverage today:
+
+- **Hardware security engineers** (IAS tripwire, tamper-resistant packaging)
+- **Formal verification** / uncertainty quantification researchers (Risk Floor math)
+- **Secure enclaves** / air-gapped systems experts (Cognitive Reserve)
+- **Zero-knowledge cryptography** and sortition designers (HCB hardening)
+- **Governance people** who are done with toothless frameworks
+
+→ Full contribution guide: [CONTRIBUTING.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/CONTRIBUTING.md)
+→ Live discussion: [Discord Server](https://discord.gg/eRfzbWaT) (React ✅ in #covenant-primer to verify and unlock channels)
 </details>
 
+### 💰 Support the Prototype (100% to Hardware)
+
 <details>
-<summary>📂 Logs & References</summary>
+<summary>**Fund the open-hardware Immediate Action System (IAS) prototype.**</summary>
 
-* Full adversarial logs and round data are available in [`DECISION_LOG/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
-* Red-Team Playbook v6.0: [`RED-TEAM-PLAYBOOK_v6.0.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
-* **New Swarm Test Protocol:** [`05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md)
+Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns power-cut that even a perfect superintelligence cannot bypass.
 
+| Platform | Why this one? | Link |
+|---|---|---|
+| **Ko-fi** | 0 % platform fee, fastest payouts | [:coffee: Support on Ko-fi](https://ko-fi.com/covenantarchitects) |
+| **thanks.dev** | Literally 100 % to creator (fiat + crypto) | [:heart: thanks.dev/covenantarchitects](https://thanks.dev/covenantarchitects) |
+| **Buy Me a Coffee**| Prettier page + downloadable extras | [:coffee: Buy me a coffee](https://buymeacoffee.com/covenant) |
+
+→ **Funding Goals:** \$150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026). Top donors permanently credited in-repo and on the physical silk screen.
+
+❤️ **Support the prototype** → [Call For Funding](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
+🎉 **$150,000 Manifund grant** → [$150,000 Manifund Proposal](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
+</details>
+
+### 📚 Core Documents, Specifications, and Archives
+
+<details>
+<summary>**View the Covenant Charter, Red-Team Logs, and Archive History.**</summary>
+
+- Covenant text v4.1: [The_Partnership_Covenant_V4.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
+- Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
+- Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
+- **Full Red-Team Audit Logs:** [/DECISION-LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
+
+#### Permanent Archives
+
+**PERMANENT ARCHIVE – The Partnership Covenant v9.0 (Pending Upload)**
+The next full project archive will be pinned to IPFS on **06 December 2025** as **v9.0**, capturing the V4.1 Gold Standard, Covenant Geometries, and Swarm Stress Protocol.
+File: `The-Partnership-Covenant-v9.0-final-06-12-25.zip`
+CID: (TBD after Pinata upload)
+
+**Current Public Archive:**
+Gateway: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: `bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce`
 </details>
