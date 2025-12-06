@@ -9,7 +9,7 @@ Alternatives considered:
 * *Status Quo (IAS v1.3):* Rejected due to high kinetic SPOF risk.
 * *Adding Software Redundancy:* Rejected as it would violate the less than or equal to 10 ns constraint and compromise the hardware veto's immutability.
 Outcome: The IAS v2.0 3-Node Mandate is approved and all corresponding documentation (Bounty, Treaty terms) has been updated to reflect the new architecture. The Covenant's structure is now considered complete across the Hardware, Software, and Legal stacks.
-Implications / Follow-Up: Focus shifts entirely to **On-Chain Ratification** (locking the core V4.1 hash) and initiating the **Treaty Signature phase** with the first adopters. The $\mathbf{\$25\text{ M}}$ Bounty is now live for the IAS v2.0 target.
+Implications / Follow-Up: Focus shifts entirely to **On-Chain Ratification** (locking the core V4.1 hash) and initiating the **Treaty Signature phase** with the first adopters. The $25M Bounty is now live for the IAS v2.0 target.
 References:
 * The Partnership Covenant V4.1 Gold Standard
 * Axiomatic Extension — Recursive Sealing & Memory Governance (v8.2.1)
