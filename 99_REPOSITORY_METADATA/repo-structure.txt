@@ -56,7 +56,7 @@ The-Partnership-Covenant/ (236 files total)
 │   ├── The_Partnership_Covenant_V4.1.md
 │   ├── The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md
 │   ├── Total_Compute_Capacity_Audit_V1.0.md
-│   └──V4.1_Adoption_Treaty_Template_v1.md
+│   └── V4.1_Adoption_Treaty_Template_v1.md
 ├── 02_CORE_ARCHITECTURE_AND_APPENDICES/ (43 files)
 │   ├── Abstract_ The Partnership Covenant.md
 │   ├── Appendix A — Risk Floor and Stochastic Filter.md
