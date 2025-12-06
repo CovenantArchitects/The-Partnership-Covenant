@@ -37,11 +37,8 @@ The HCB is mandated to unanimously approve a Library of Crisis Execution Protoco
 
 * **Mandate:** The HCB must secure a $\\mathbf{100\\%}$ unanimous vote to approve or amend any protocol within the CEP Library.
 
-#### **F.2.3 Rapid Execution Authority**
-
-If the ASI issues an existential crisis alert (e.g., Self-Risk Declaration), the COS gains temporary, executive authority to execute a corresponding, pre-voted CEP from the Library.
-
-* **Threshold:** Execution of a CEP requires only a $\\mathbf{51\\%}$ simple majority vote within the COS.  
-* **Time Constraint:** The COS must complete the vote and initiate execution of the CEP within **4 hours** of receiving the crisis alert.
+#### F.2.3 Rapid Execution Authority
+* **Threshold:** Execution of a CEP requires a **75%** majority vote within the COS (aligned with constitutional HCB normal quorum).
+* Remove the 100% unanimous requirement — it is unconstitutional under V4.1.
 
 This delegation allows for rapid response during a crisis while maintaining the original Covenant's commitment to broad human consensus on the substance of the response.
