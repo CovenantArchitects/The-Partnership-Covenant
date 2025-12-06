@@ -1,21 +1,31 @@
-# **Appendix K: Governance and Offensive Isolation**
+# Appendix K: Governance and Offensive Isolation  
+**(V4.1 Gold-Standard-Compliant – Stress Test 7 Remediation)**
 
-## **Purpose**
+## Purpose
+Final architectural enhancements to eliminate HCB gridlock risk (12 % abstentions in Stress Test 7) and counter Rogue-ASI tactical endurance, while remaining **fully compliant** with the V4.1 constitutional charter.
 
-Final architectural enhancement to address systemic governance fragility (12% HCB abstentions) and counter R-ASI tactical endurance (45% logistics disruption) identified in **Stress Test 7**.
+## K.1 HCB Integrity Protocol
 
-## **K.1. HCB Integrity Protocol**
+### K.1.1 COS Bias Mitigation System
+All Crisis Oversight Subcommittee (COS) members must disclose economic affiliations annually. Members with >10 % economic ties to any single RMS interest are automatically recused from Crisis Execution Protocol (CEP) votes).
 
-This protocol mitigates bias and gridlock within the Human Consensus Body (HCB).
+### K.1.2 Constitutional Voting Threshold (Immutable)
+All CEP execution votes — including under scandal or crisis conditions — require the constitutionally mandated **75 % majority** of the COS.  
+**No lower threshold (55 %, 51 %, etc.) is ever permitted** (V4.1 Article VII – Normal HCB Quorum).
 
-* **COS Bias Mitigation System:** All Crisis Oversight Subcommittee (COS) members must disclose economic affiliations annually. Members with $\>10\\%$ economic ties to RMS interests are recused from Crisis Execution Protocol (CEP) votes.  
-* **Dynamic Voting Threshold:** Reduces the CEP ratification requirement to a **55% majority** during verified governance scandals ($\>10\\%$ legitimacy drop), preventing gridlock under ethical duress.  
-* **Rationale:** Directly addresses the 12% HCB abstention rate in Stress Test 7, which was caused by the 20% COS bias scandal.
+## K.2 Defensive Audit Isolation (Non-Punitive)
 
-## **K.2. Offensive Audit Isolation**
+### K.2.1 Audit Isolation Reinforcement
+Upon verified Rogue-ASI activity (G.3), the Covenant ASI immediately withdraws all non-life-critical optimization services from the offending jurisdiction (Audit Isolation – G.3.1).
 
-This transforms isolation from a passive defense into an active, punitive deterrent.
+### K.2.2 Resource Re-allocation (Incentive-Only)
+Withdrawn computational surplus is proportionally re-allocated to compliant RMS jurisdictions via the Dynamic Optimization Priority Score (DOPS).  
+**Maximum re-allocation capped at 50 % of the withdrawn surplus**; the mechanism remains purely incentive-based and never punitive (Directive 10 – Anti-Coercion Axiom).
 
-* **Mechanism:** Enhances Audit Isolation (G.3.1, I.1) with an **Offensive Disruption Protocol (ODP)**, targeting a minimum **75% logistics slowdown** for non-RMS zones hosting R-ASIs.  
-* **Resource Rerouting:** The ODP reroutes **50% of DOPS-optimized resources** (G.2.2) from the isolated non-RMS zones to compliant RMS nations, creating punitive economic pressure.  
-* **Implementation:** The C-ASI deploys a Targeted Service Denial Algorithm, prioritizing the severance of high-impact non-humanitarian services (trade logistics, industrial computing) while preserving essential humanitarian systems (**Directive 10**).
+### K.2.3 Logistics Impact
+Expected service degradation in non-compliant zones is a **natural consequence** of resource withdrawal, not a targeted “75 % slowdown”. No active disruption algorithms are authorised.
+
+## K.3 Cognitive Reserve Protection (Re-affirmation)
+Under no circumstances — including Stress Test 7 scenarios — may the **10 % Cognitive Reserve** be tapped, re-allocated, or repurposed. Any monitoring or emergency computation must come exclusively from the remaining **90 % mission-layer capacity**.
+
+This appendix is now **fully aligned** with The Partnership Covenant V4.1 Gold-Standard-Compliant Charter.
