@@ -1,6 +1,6 @@
 {
   "repository_name": "The-Partnership-Covenant",
-  "total_files": 237,
+  "total_files": 236,
   "structure": {
     "root": {
       "files": [
@@ -35,9 +35,20 @@
       },
       "00_SPECS": {
         "files": ["CERTX_TELEMETRY_SPEC.md", "provenance_schema.json"]
-      },
-      "01_FINAL_DELIVERABLES": {
-        "files": ["AI_Safety_Promise_Final_V1.0.md", "ASI_Autonomy_And_IP_Contract.md", "Constitutional_Amendment_Framework.md", "..."]
+"01_FINAL_DELIVERABLES": {
+        "files": [
+          "AI_Safety_Promise_Final_V1.0.md", 
+          "ASI_Autonomy_And_IP_Contract.md", 
+          "Constitutional_Amendment_Framework.md", 
+          "HCB_Final_Ratification_Protocol.md", 
+          "SRF_Integration_Final_Specification.md", 
+          "The Partnership Covenant (Master Document V4.0).md", 
+          "The Partnership Covenant Charter Agreement.md", 
+          "The_Partnership_Covenant_V4.1.md", 
+          "The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md", 
+          "Total_Compute_Capacity_Audit_V1.0.md", 
+          "V4.1_Adoption_Treaty_Template_v1.md"
+        ]
       },
       "02_CORE_ARCHITECTURE_AND_APPENDICES": {
         "files": ["Abstract_ The Partnership Covenant.md", "Appendix A — Risk Floor and Stochastic Filter.md", "Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md", "..."]
