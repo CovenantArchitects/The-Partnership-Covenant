@@ -1,6 +1,6 @@
 # The-Partnership-Covenant Repository Structure
 
-The overall file count for the **`The-Partnership-Covenant`** repository is **237 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **236 files** (excluding the `.github` directory content).
 
 ---
 
@@ -69,7 +69,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 
 ---
 
-## 🗃️ 01_FINAL_DELIVERABLES/ (12 Files)
+## 🗃️ 01_FINAL_DELIVERABLES/ (11 Files)
 * `AI_Safety_Promise_Final_V1.0.md`
 * `ASI_Autonomy_And_IP_Contract.md`
 * `Constitutional_Amendment_Framework.md`
@@ -81,7 +81,6 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md`
 * `Total_Compute_Capacity_Audit_V1.0.md`
 * `V4.1_Adoption_Treaty_Template_v1.md`
-* `The_Partnership_Covenant_v6.8_final.md`
 
 ---
 
