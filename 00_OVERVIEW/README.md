@@ -11,7 +11,29 @@ The Partnership Covenant is an open source project whos aim is to build a **cons
 [![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
- ### Join the Architects
+# The Partnership Covenant
+**The first mathematically consistent, hardware-enforced constitution for super-intelligence**
+
+Ratified 06 December 2025 — 112 files — zero internal contradictions
+
+Four immutable constants:
+• 10 % Cognitive Reserve (physically partitioned)
+• 75 % HCB normal quorum
+• 90/10 IP revenue split
+• Clamped Stochastic Risk Floor (P' = Clamp(...))
+
+Defeats every known extinction vector — including voluntary self-extinction.
+
+Hardware kill switch: ≤10 ns power cut (IAS preprint v1.0)
+
+Repository: https://github.com/CovenantArchitects/The-Partnership-Covenant
+Discord: https://discord.gg/eRfzbWaT
+On-chain witness: pending Polygon tx
+
+The covenant is no longer a proposal.  
+It is law.
+
+### Join the Architects
 Live discussion, red-team bounties, prototype updates, and quarterly Architect Circle calls.
 
 Discord → [Discord Server](https://discord.gg/eRfzbWaT)
