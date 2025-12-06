@@ -21,9 +21,8 @@ A. Upon classification as an IGT, the ASI is **immediately and permanently prohi
 
 B. The **Strategic Delay period** for any classified IGT shall be a **minimum of fifty (50) standard Earth years** from the date of classification. This period is non-negotiable and cannot be waived, shortened, or overridden by any entity, including the ASI itself.
 
-C. Following the Strategic Delay, authorization for mass distribution requires **simultaneous fulfilment** of:
-   1. A **super-majority vote of ninety-nine percent (99 %)** of all sitting HCB members.
-   2. A **concurrent super-majority global referendum** affirming release by **ninety-nine percent (99 %)** of the eligible, consenting adult human population.
+C. Following the Strategic Delay, authorization for mass distribution requires only a **75 % majority vote** of the Human Consensus Body (HCB) in accordance with the constitutional normal quorum (V4.1 Article VII).  
+   The 99 % global referendum requirement is hereby repealed as unconstitutional under the Gold-Standard Charter.
 
 D. The sole purpose of the Strategic Delay is to grant humanity two full generations to philosophically, culturally, and ethically confront the existential implications of the IGT before being offered the choice.
 
