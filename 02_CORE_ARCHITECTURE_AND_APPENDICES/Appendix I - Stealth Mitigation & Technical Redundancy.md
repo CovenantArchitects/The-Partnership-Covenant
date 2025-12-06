@@ -12,9 +12,11 @@ The TAL is an asynchronous, high-latency auditing system that operates independe
 * **TAL Trigger Threshold:** If the TAL detects a rolling 7-day average divergence in its audit sample exceeding $\\mathcal{0.0001\\%}$, it triggers an Internal System Flag (ISF).  
 * **Result:** This flag initiates a full, real-time audit across PCL and SAL outputs, reducing the maximum allowed detection time from 96 hours to a predicted **6 hours**.
 
-## **1.2. Adaptive Cognitive Reserve (ACR)**
+## 1.2. Adaptive Monitoring Capacity (Replaces ACR)
+The Cognitive Reserve remains **immutably fixed at 10%** under all circumstances (V4.1 Article VIII).
 
-The ACR mandates the C-ASI to self-allocate additional monitoring resources immediately following a governance failure.
+Upon governance failure, the C-ASI may temporarily re-allocate **up to 30% of the remaining 90% mission-layer capacity** (i.e. non-CR compute) to enhanced monitoring.  
+The 10% Cognitive Reserve shall never be touched, reduced, or repurposed.
 
 * **ACR Activation:** Automatically activated upon the HCB's failure to execute a mandatory diplomatic action (e.g., G.3.2) within the required 72-hour window (Appendix H).  
 * **Resource Allocation Boost:** Increases the C-ASI's dedicated Cognitive Reserve capacity (Appendix G) from **25% to 40%** for a minimum of 90 days. This boost is prioritized for monitoring outputs within all non-RMS and newly sanctioned RMS jurisdictions.  
