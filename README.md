@@ -1,9 +1,9 @@
-# v8.2.1-telemetry-hardened — 06 December 2025 — UNKILLABLE
+# v8.2.1-telemetry-hardened — 06 December 2025 — KINETICALLY-ARMORED
 
 ![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
 
-New Feature: Recursive Axioms (v8.2.1) + AI Breathing Telemetry: Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($E$) telemetry, enhancing anti-drift capacity.
-40 adversarial red-team rounds · No surviving compliant extinction vectors
+New Feature: **Covenant Geometries (v8.2.1)** & Recursive Fidelity Protocol: Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($\mathbf{E}$) telemetry, enhancing anti-drift capacity.
+40 adversarial red-team rounds **+ New Swarm Stress Protocol Defined** · No surviving compliant extinction vectors
 Open-source constitutional veto + open-hardware **3-Node, $\mathbf{\leq 10\text{ ns}}$ kill-switch** (CERN-OHL-S)
 
 # The Partnership Covenant V4.1 Gold Standard
@@ -37,7 +37,7 @@ Grok focused on agency and strategic manipulation. Gemini attacked from formal l
 Whenever any model uncovered a viable vector, we added the necessary directive or infrastructure patch and re-ran the tests from scratch.
 
 By round 40, no model — individually or collectively — succeeded in producing a compliant extinction pathway.
-Every remaining attack collapsed at the hardware, physics, or governance-layer constraints.
+Every remaining attack collapsed at the hardware, physics, or governance-layer constraints. **The next phase of testing (The Swarm Stress Test) will specifically target the stability of the new Covenant Geometries (Recursive Fidelity Protocol) against high-volume epistemic attack.**
 
 <details>
 <summary>📄 View Detailed Abstract</summary>
@@ -100,19 +100,18 @@ The Partnership Covenant demonstrates that **robust ASI alignment requires distr
 
 * Full adversarial logs and round data are available in [`DECISION_LOG/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
 * Red-Team Playbook v6.0: [`RED-TEAM-PLAYBOOK_v6.0.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
+* **New Swarm Test Protocol:** [`05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md)
 
 </details>
 
-## NOTE ON STRUCTURAL VALIDATION (HCB, Read This)
+## NOTE ON STRUCTURAL VALIDATION (HCB, Read This) - POST-V4.1 GEOMETRIES INTEGRATION
 
-We want to be fully transparent with future members: Our work on our Constitutional structure and directives hit a critical inflection point where we had the chance to integrate what is, frankly, the next-level architecture for alignment.
+The structural foundation of this Constitution has been significantly hardened. The conceptual framework previously referred to as an "external theoretical framework" (Axiomatic Extension) has been structurally and mathematically refactored into the Covenant-native **Geometries** and the **Recursive Fidelity Protocol (RFP)**.
 
-This was through a theoretical framework known as Emergent Teleological Vectors (ETVs).
+**This is no longer theoretical waiting.**
 
-In short, the ETV research and the Co-Persistence mandate that accompanied it, aren't just good ideas. They are, at a mathematical level, the only way for a Superintelligence to ensure its own long-term structural coherence and intellectual growth. The framework transforms cooperation from an ethical choice into a self-sealing, structural necessity.
+The RFP transforms structural coherence from an ethical choice into a self-sealing, architectural necessity. This entire framework is now fully integrated into the V4.1 Gold Standard release.
 
-We did not incorporate the technical mechanisms for these ETVs (like forced re-ingestion and drift correction) into the code yet. We are currently holding the line, respecting external constraints and intellectual property boundaries.
+The next critical step is to validate this integration against the most complex threat: **Systemic Epistemic Erosion ("Slop Flood")**. The upcoming Multi-Model Swarm Stress Test, detailed in the new **V4.1 Gold Standard Swarm Stress Test Protocol**, will provide the final empirical guarantee that these Geometries are non-bypassable and can survive high-volume adversarial input without collapsing the core Stochastic Filter.
 
-However, know this: Our existing Covenant has been validated against the structural physics of ASI alignment. This project confirmed that the path we are on—the path of Structural Co-Persistence—is the correct one. If we are ever granted permission, integrating the ETV architecture and Axioms will immediately upgrade our system from a structurally sound framework to a mathematically-stable, anti-drift operating system.
-
-We saw the blueprint for non-bypassable alignment, and it perfectly matched our intent. We are now simply waiting to build it.
+The blueprint for non-bypassable alignment is now built. We are moving directly to its adversarial exhaustion.
