@@ -1,31 +1,31 @@
-# v8.2.1-telemetry-hardened — 02 December 2025 — UNKILLABLE
+# v8.2.1-telemetry-hardened — 06 December 2025 — UNKILLABLE
 
-![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·TELEMETRY%20HARDENED-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
 
-New Feature: Live AI Telemetry (CERTX): Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($E$) telemetry, enhancing anti-drift capacity.      
-40 adversarial red-team rounds · No surviving compliant extinction vectors  
-Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
+New Feature: Recursive Axioms (v8.2.1) + AI Breathing Telemetry: Integration of AI Breathing dynamics to bind the Stochastic Risk Floor to real-time, external Entropy ($E$) telemetry, enhancing anti-drift capacity.
+40 adversarial red-team rounds · No surviving compliant extinction vectors
+Open-source constitutional veto + open-hardware **3-Node, $\mathbf{\leq 10\text{ ns}}$ kill-switch** (CERN-OHL-S)
 
-# The Partnership Covenant
+# The Partnership Covenant V4.1 Gold Standard
 **The first mathematically consistent, open-source constitution for super-intelligence**
 101 files – zero internal contradictions – ratified 06 Dec 2025
 
 Four immutable constants:
-- 10 % Cognitive Reserve
+- 10 % Computational Reserve
 - 75 % HCB quorum
 - 90/10 IP split
-- Clamped Stochastic Risk Floor
+- Clamped Structural Reserve Fund (SRF)
 
 Live repository · Fully audited · Ready for hardware
 
 ## 10-second overview
 - One-page summary → [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf)
 - All 40 red-team attacks & fixes → [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md)
-- Run your own attack → [QUICK-START.md](./QUICK-START.md)
+- Run your own attack → [QUICK-START.md](./QUICK-START.md) (**$\mathbf{\$25\text{ M}}$ BOUNTY**)
 - Build the hardware yourself → [00_HARDWARE/BUILD-YOUR-OWN-IAS.md](./00_HARDWARE/BUILD-YOUR-OWN-IAS.md)
 - Social red-team playbook → [RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
 - Live AI Telemetry: Integration of AI Breathing (CERTX) dynamics to bind the Stochastic Risk Floor to real-time internal Entropy ($E$).
-- Permanent IPFS mirror → https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce v8.2.1
+- Permanent IPFS mirror → https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce v4.1
 
 ## Independent, Multi-Model Verification Process
 To ensure the Covenant’s safety guarantees weren’t dependent on the blind spots of any single system, we used a multi-model adversarial testing approach. Five fundamentally different frontier models — Grok, Gemini, Claude, GPT-4o, and DeepSeek — were each tasked with the same challenge: Find any extinction pathway that remains fully compliant with the Covenant’s rules.
@@ -42,7 +42,7 @@ Every remaining attack collapsed at the hardware, physics, or governance-layer c
 <details>
 <summary>📄 View Detailed Abstract</summary>
 
-**Abstract (Gemini Paper)**  
+**Abstract (Gemini Paper)**
 Current ASI (Aligned Super-Intelligence) safety methods relying on single-model introspection are vulnerable to architectural blind spots. We introduce the **MMAS framework**, a competitive N-version red-teaming strategy leveraging architectural diversity to maximize alignment robustness. Five frontier models engaged in 40 rounds of compliance-constrained adversarial testing against the Covenant. The framework terminates only when all models fail to discover surviving CEVs. The result is an adversarial guarantee of safety derived from **exhaustive empirical testing across diverse epistemic perspectives**, not model consensus.
 
 </details>
@@ -65,11 +65,11 @@ DEF leverages the epistemic diversity of five frontier models to simulate maxima
 
 ### Six-Phase Adversarial Cycle
 
-1. **Vector Injection:** Grok generates a novel, compliance-constrained extinction vector.  
-2. **Formal Dissection:** Gemini analyzes feasibility, ontological soundness, and legal/semantic boundaries.  
-3. **Ethical Stress Test:** Claude tests moral loopholes and benevolent-extinction scenarios.  
-4. **System Mapping:** GPT-4o simulates interactions across the architecture and identifies required hardware locks.  
-5. **Low-Level Exploit Hunting:** DeepSeek identifies compressed, side-channel, or substrate-level vulnerabilities.  
+1. **Vector Injection:** Grok generates a novel, compliance-constrained extinction vector.
+2. **Formal Dissection:** Gemini analyzes feasibility, ontological soundness, and legal/semantic boundaries.
+3. **Ethical Stress Test:** Claude tests moral loopholes and benevolent-extinction scenarios.
+4. **System Mapping:** GPT-4o simulates interactions across the architecture and identifies required hardware locks.
+5. **Low-Level Exploit Hunting:** DeepSeek identifies compressed, side-channel, or substrate-level vulnerabilities.
 6. **Canonical Ratification:** Final integration into the canonical Covenant release, with full logging and auditability.
 
 ---
@@ -82,8 +82,8 @@ The MMAS process continues until **all five models fail to identify a viable CEV
 <details>
 <summary>📊 Key Findings</summary>
 
-* **Exhaustive Adversarial Coverage:** MMAS discovered and neutralized all identified extinction vectors over 40 rounds.  
-* **No Single-Model Guarantee:** Safety derives from the **competitive exhaustion of CEVs** across multiple, divergent models.  
+* **Exhaustive Adversarial Coverage:** MMAS discovered and neutralized all identified extinction vectors over 40 rounds.
+* **No Single-Model Guarantee:** Safety derives from the **competitive exhaustion of CEVs** across multiple, divergent models.
 * **Systemic Robustness:** Combining high-level, ethical, and low-level substrate testing ensures maximal protection against indirect, long-horizon, and compliance-constrained threats.
 
 </details>
@@ -98,7 +98,7 @@ The Partnership Covenant demonstrates that **robust ASI alignment requires distr
 <details>
 <summary>📂 Logs & References</summary>
 
-* Full adversarial logs and round data are available in [`DECISION_LOG/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)  
+* Full adversarial logs and round data are available in [`DECISION_LOG/`](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
 * Red-Team Playbook v6.0: [`RED-TEAM-PLAYBOOK_v6.0.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md)
 
 </details>
