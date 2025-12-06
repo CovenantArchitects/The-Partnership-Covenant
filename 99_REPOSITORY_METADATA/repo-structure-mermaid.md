@@ -28,9 +28,9 @@ graph TD
     K --> K2(Technical/)
     K --> K3(Templates/)
     K1 --> K1_1(Cygnus_Covenant_Governance/)
-    K1_1 --> K1_1_1(01_Access_Pillar (Phoenix)/)
-    K1_1 --> K1_1_2(02_Infrastructure_Pillar (Cygnus)/)
-    K1_1 --> K1_1_3(03_Model_Pillar (Orion)/)
+    K1_1 --> K1_1_1("01_Access_Pillar (Phoenix)/")
+    K1_1 --> K1_1_2("02_Infrastructure_Pillar (Cygnus)/")
+    K1_1 --> K1_1_3("03_Model_Pillar (Orion)/")
 
     L --> L1(tests/)
     L --> L2(v5.1-docs/)
