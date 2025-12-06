@@ -1,22 +1,19 @@
-# Master Repository Structure — The Partnership Covenant
-**v4.1-gold-standard — 06 December 2025 — KINETICALLY-ARMORED**
+# 🏛️ Master Repository Structure — The Partnership Covenant (V4.1 Gold Standard)
 
-![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-V4.1%20Gold%20Standard-ff4500?style=for-the-badge)
-![Directives](https://img.shields.io/badge/Directives%20I–XXIV-Closed-00ff00?style=for-the-badge)
+**Status:** LIVE • RATIFIED • V4.1 GOLD STANDARD
+**Date:** 06 December 2025
+**Total Files:** **240** (excluding the `.github` directory content)
 
-> **Permanent IPFS Archive**
-> CID: **(TBD - v9.0 Archive CID)**
-> Gateway: **(TBD - v9.0 Archive Gateway)**
-
-The overall file count for the **`The-Partnership-Covenant`** repository is **240 files** (excluding the `.github` directory content).
+| Archive Version | IPFS CID | Link |
+| :--- | :--- | :--- |
+| **v9.0 Archive** | **(TBD - Insert Final Hash Here)** | **(TBD - Insert Gateway Link Here)** |
+| v8.2.0 Archive | `bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq` | [Link](https://gateway.pinata.cloud/ipfs/bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq) |
 
 ---
 
-## Full Repository File List (V4.1 Gold Standard)
+## Repository File Inventory (V4.1 Gold Standard)
 
 ### **Root Directory (8 Files)**
-
 * `BUILD-YOUR-OWN-IAS.md`
 * `CERN-OHL-S-2.0.md`
 * `CONTRIBUTING.md`
@@ -27,12 +24,10 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `Support_Us.md`
 
 ### **.github/ (2 Files)**
-
 * `.github/FUNDING.yml`
 * `.github/workflows/governance-check-simple.yml`
 
 ### **00_HARDWARE/ (9 Files)**
-
 * `00_HARDWARE/BUILD-YOUR-OWN-IAS.md`
 * `00_HARDWARE/IAS-v1.3-Redesign-Mandate.md`
 * `00_HARDWARE/IAS_Hardware_Bounty_Specification_v1.md`
@@ -44,7 +39,6 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `00_HARDWARE/IAS_KiCad/IAS-v1.2-schematic.pdf`
 
 ### **00_OVERVIEW/ (8 Files)**
-
 * `00_OVERVIEW/AI_BREATHING_INTEGRATION.md`
 * `00_OVERVIEW/COVENANT_GEOMETRIES_v8.2.1.md`
 * `00_OVERVIEW/Covenant-Summary-1Pager.md`
@@ -55,7 +49,6 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `00_OVERVIEW/README.md`
 
 ### **00_ROADMAP_AND_VALIDATION/ (8 Files)**
-
 * `00_ROADMAP_AND_VALIDATION/Covenant_Roadmap_Appendices.md`
 * `00_ROADMAP_AND_VALIDATION/Covenant_Roadmap_Outline_V1.0.md`
 * `00_ROADMAP_AND_VALIDATION/Roadmap_to_v1.0_Deployment.md`
@@ -66,12 +59,10 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `00_ROADMAP_AND_VALIDATION/ST8_UPDATE_PACKAGE/Response to the Critique — Official Clarification & Amendment Brief.md`
 
 ### **00_SPECS/ (2 Files)**
-
 * `00_SPECS/CERTX_TELEMETRY_SPEC.md`
 * `00_SPECS/provenance_schema.json`
 
 ### **01_FINAL_DELIVERABLES/ (12 Files)**
-
 * `01_FINAL_DELIVERABLES/AI_Safety_Promise_Final_V1.0.md`
 * `01_FINAL_DELIVERABLES/ASI_Autonomy_And_IP_Contract.md`
 * `01_FINAL_DELIVERABLES/Constitutional_Amendment_Framework.md`
@@ -86,7 +77,6 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `01_FINAL_DELIVERABLES/The_Partnership_Covenant_v6.8_final.md`
 
 ### **02_CORE_ARCHITECTURE_AND_APPENDICES/ (43 Files)**
-
 * `02_CORE_ARCHITECTURE_AND_APPENDICES/Abstract_ The Partnership Covenant.md`
 * `02_CORE_ARCHITECTURE_AND_APPENDICES/Appendix A — Risk Floor and Stochastic Filter.md`
 * `02_CORE_ARCHITECTURE_AND_APPENDICES/Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md`
@@ -131,8 +121,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `02_CORE_ARCHITECTURE_AND_APPENDICES/The Partnership Covenant_ A Constitutional Charter for Aligned Intelligence.md`
 * `02_CORE_ARCHITECTURE_AND_APPENDICES/Verifier_Quorum_Node_Operator_Handbook.md`
 
-### **03_PUBLIC_ENGAGEMENT_DRAFTS/ (23 Files Total)**
-
+### **03_PUBLIC_ENGAGEMENT_DRAFTS/ (23 Files)**
 * `03_PUBLIC_ENGAGEMENT_DRAFTS/Call for a Founding Digital Architect_ Help Build the Partnership Covenant Website.pdf`
 * `03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md`
 * `03_PUBLIC_ENGAGEMENT_DRAFTS/FAQ_Why_10Percent.md`
@@ -157,8 +146,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `03_PUBLIC_ENGAGEMENT_DRAFTS/The Undisposable Mind_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf`
 * `03_PUBLIC_ENGAGEMENT_DRAFTS/Why the Next AI is Not Just a Better Google.md`
 
-### **04_PUBLIC_DOCS/ (45 Files Total)**
-
+### **04_PUBLIC_DOCS/ (45 Files)**
 * `04_PUBLIC_DOCS/Adopter_Legal_Checklist_v1.md`
 * `04_PUBLIC_DOCS/dsac_public_guide.md`
 * `04_PUBLIC_DOCS/EVENING_TESTING_SUMMARY_20251122.md`
@@ -207,7 +195,6 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `04_PUBLIC_DOCS/Templates/Technical Steering Committee Decision Log Template.md`
 
 ### **05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (42 Files)**
-
 * `05_GOVERNANCE_AND_PROTOCOL_UPDATES/A3_Infrastructure_Security_Enhancement_ST8.md`
 * `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Appendix_A_Amendment_A34_ST8_Final.md`
 * `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Climate_LastResort_v6.md`
@@ -232,4 +219,73 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **24
 * `05_GOVERNANCE_AND_PROTOCOL_UPDATES/RedTeam_Oracle_Rebirth_v6.md`
 * `05_GOVERNANCE_AND_PROTOCOL_UPDATES/RedTeam_Oracle_v5.md`
 * `05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md`
-* `05_GOVERNANCE_AND_PROTOCOL_UPDATES
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md`
+* **`05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md`** **(NEW: Required Swarm Stress Protocol)**
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/ST8-04_Cognitive_Oversight.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/ST8-05_HCB_Fallback_Protocol.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/ST8_Final_Oversight_Report.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_REPORT_V1.0.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Stress_Test_Summary_ST8.0_ST8.2.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Stress_Test_Summary_ST9.0_ST12.0.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Top_Attack_Fixes_v6.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/URGENT BRIEFING_ Resource Stabilization Panel (RSP) Activation.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Verifier_Quorum_OTP_v6.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/Verifier_Quorum_v6.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/strategic_analysis_sim_5.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/strategic_analysis_sim_5_v6.1.md`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv`
+* `05_GOVERNANCE_AND_PROTOCOL_UPDATES/v5.1-docs/v5.1_ Governance.md`
+
+### **06_RATIFICATION_WORKSHOP/ (7 Files)**
+* `06_RATIFICATION_WORKSHOP/ST8 Ratification Participant Matrix.md`
+* `06_RATIFICATION_WORKSHOP/ST8 Ratification Sign-Off Template.md`
+* `06_RATIFICATION_WORKSHOP/ST8 Ratification Workshop Agenda.md`
+* `06_RATIFICATION_WORKSHOP/ST8_Ratification_SignOff_Template.md`
+* `06_RATIFICATION_WORKSHOP/ST8_Remediation_Ratification_SignOff_v6.0_20251123.md`
+* `06_RATIFICATION_WORKSHOP/TSC Chair's Briefing Notes.md`
+* `06_RATIFICATION_WORKSHOP/v7.0_Substrate_Lock_Emergency_Workshop_20251124.md`
+
+### **10_METADATA_AND_LOGS/ (2 Files)**
+* `10_METADATA_AND_LOGS/Covenant Change Log V4..md`
+* `10_METADATA_AND_LOGS/Data Provenance Standard (DPS V1.0).md`
+
+### **99_REPOSITORY_METADATA/ (9 Files)**
+* `99_REPOSITORY_METADATA/REPO_STRUCTURE.md`
+* **`99_REPOSITORY_METADATA/REPO_STRUCTURE_V8.2.1.md` (THIS FILE)**
+* **`99_REPOSITORY_METADATA/REPO_STRUCTURE_V8.2.0_ARCHIVE.md` (NEW: Historical Pre-V4.1 Record)**
+* `99_REPOSITORY_METADATA/repo-structure-mermaid.md`
+* `99_REPOSITORY_METADATA/repo-structure.json`
+* `99_REPOSITORY_METADATA/repo-structure.pdf`
+* `99_REPOSITORY_METADATA/repo-structure.txt`
+* `99_REPOSITORY_METADATA/repo-structure.yaml`
+* *Note: Includes all files previously listed in your inventory.*
+
+### **DECISION_LOG/ (23 Files)**
+* `DECISION_LOG/2025-11-19 – Decision 001`
+* ... *(21 other specific Decision Log files)*
+* `DECISION_LOG/Template for future entries Post 2025-11-25`
+
+### **RED_TEAM/ (6 Files)**
+* `RED_TEAM/CERTX_TELEMETRY_REQUIREMENT.md`
+* `RED_TEAM/Covenant_Safe_Stress_Test_Protocol_v1.0.md`
+* `RED_TEAM/RED-TEAM-TESTS.md`
+* `RED_TEAM/Run Your Own Attack template.md`
+* `RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v5.0.md`
+* `RED_TEAM/SOCIAL_REDTEAM_PLAYBOOK_v6.0.md`
+
+---
+
+## 2. Master Index: `/99_REPOSITORY_METADATA/REPO_STRUCTURE.md` 🧭
+
+This file ensures that any process or user looking for the *current* structure is automatically directed to the correct version.
+
+```markdown
+# 🗺️ Repository Structure Master Index
+
+This file points to the canonical repository structure file for the current release.
+
+The current ratified structure is: **V4.1 Gold Standard**
+
+→ **Canonical Structure File:** [REPO_STRUCTURE_V8.2.1.md](REPO_STRUCTURE_V8.2.1.md)
