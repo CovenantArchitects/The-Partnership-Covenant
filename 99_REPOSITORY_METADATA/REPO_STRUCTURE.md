@@ -25,7 +25,7 @@
 
 # The-Partnership-Covenant
 
-The overall file count for the **`The-Partnership-Covenant`** repository is **236 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **237 files** (excluding the `.github` directory content).
 
 ---
 
@@ -60,7 +60,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
   * `IAS-v1.2-BOM.csv`
   * `IAS-v1.2-schematic.pdf`
 
-### **00_OVERVIEW/ (7 Files)**
+### **00_OVERVIEW/ (8 Files)**
 
 * `AI_BREATHING_INTEGRATION.md`
 * `COVENANT_GEOMETRIES_v8.2.1.md`
