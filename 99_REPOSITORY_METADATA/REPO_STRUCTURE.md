@@ -1,4 +1,4 @@
-#Master Repository Structure — The Partnership Covenant
+# Master Repository Structure — The Partnership Covenant
 **v4.1-gold-standard — 06 December 2025 — KINETICALLY-ARMORED**
 
 ![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
