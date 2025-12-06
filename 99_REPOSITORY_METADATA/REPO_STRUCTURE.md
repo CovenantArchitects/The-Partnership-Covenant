@@ -312,7 +312,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `2025-11-30 – Decision 029`
 * `2025-12-01 – Decision 030`
 * `2025-12-02 – Decision 031`
-* `2025-12-06 – Decision 32`
+* `2025-12-06 – Decision 032`
 * `Template for future entries Post 2025-11-25`
 
 ---
