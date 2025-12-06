@@ -1,8 +1,8 @@
 # 🧭 Master Repository Structure — The Partnership Covenant
-**v8.2-final-full-source — 01 December 2025 — UNKILLABLE**
+**v4.1-gold-standard — 06 December 2025 — KINETICALLY-ARMORED**
 
-![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·UNKILLABLE-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-v8.2--final-ff4500?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-LIVE·RATIFIED·V4.1%20GOLD%20STANDARD-success?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-V4.1%20Gold%20Standard-ff4500?style=for-the-badge)
 ![Directives](https://img.shields.io/badge/Directives%20I–XXIV-Closed-00ff00?style=for-the-badge)
 
 > **Permanent IPFS Archive**
@@ -12,26 +12,27 @@
 **Quick navigation**
 
 - [README.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/README.md) – Project overview + funding
-- [QUICK-START.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/QUICK-START.md) – 60-second “fork → attack → help”
+- [QUICK-START.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/QUICK-START.md) – **$25M IAS v2.0 Bounty** + “fork → attack → help”
 - [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf) – Mobile one-pager
-- [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md) – All 34+ rounds summary
-- [00_HARDWARE/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/00_HARDWARE) – KiCad, schematic, BOM, render
-- [01_FINAL_DELIVERABLES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES) — Ratified master charters
+- [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md) – All **40+** rounds summary
+- [00_HARDWARE/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/00_HARDWARE) – **IAS v2.0 3-Node Mandate**, schematic, BOM, render
+- [01_FINAL_DELIVERABLES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES) — Ratified master charters + **Adopter Treaty**
 - [02_CORE_ARCHITECTURE_AND_APPENDICES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/02_CORE_ARCHITECTURE_AND_APPENDICES) — All technical appendices & directives
 - [04_PUBLIC_DOCS/Technical/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS) — IAS spec, Risk Floor, Cognitive Reserve
 - [05_GOVERNANCE_AND_PROTOCOL_UPDATES/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES) – Internal Stress Test Reports, Crisis Protocols, and Governance Amendments
 - [DECISION_LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG) — Full ratification history
-- [Support_Us.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) — Help ship the first 10 ns IAS prototype
+- [Support_Us.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) — Help ship the first **3-Node IAS v2.0** prototype
 
 # The-Partnership-Covenant
 
-The overall file count for the **`The-Partnership-Covenant`** repository is **227 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **234 files** (excluding the `.github` directory content).
 
 ---
 
-* `BULID_YOUR_OWN_IAS.md`
+* `BUILD-YOUR-OWN-IAS.md`
 * `CERN-OHL-S-2.0.md`
 * `CONTRIBUTING.md`
+* `FROM_THE_MODELS.md`
 * `FUTURE_WORK.md`
 * `QUICK-START.md`
 * `README.md`
@@ -45,30 +46,37 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * **workflows/** (1 File)
   * `governance-check-simple.yml`
 
-### **00_HARDWARE/ (6 Files)**
+### **00_HARDWARE/ (9 Files)**
 
 * `BUILD-YOUR-OWN-IAS.md`
-* **`IAS-v1.3-Redesign-Mandate.md`**
-* **`IAS_VQ_Physical_Protocol_v8.2.md`**
-
+* `IAS-v1.3-Redesign-Mandate.md`
+* `IAS_Hardware_Bounty_Specification_v1.md`
+* `IAS_Hardware_Bounty_Specification_v2.0.md`
+* `IAS_VQ_Physical_Protocol_v8.2.md`
+* `IAS_v2.0_3_Node_Mandate.md`
 * **Gerbers/** (1 File)
   * `README.md`
 * **IAS_KiCad/** (2 Files)
   * `IAS-v1.2-BOM.csv`
   * `IAS-v1.2-schematic.pdf`
 
-### **00_OVERVIEW/ (6 Files)**
+### **00_OVERVIEW/ (8 Files)**
+
+* `AI_BREATHING_INTEGRATION.md`
+* `AXIOMATIC_EXTENSION_v8.2.1.md`
 * `Covenant-Summary-1Pager.md`
 * `Covenant-Summary-1Pager.pdf`
 * `Distributed Epistemic Filtering Primer.md`
+* `Executive_Summary.md`
 * `IAS-preprint-v1.0.pdf`
 * `Multi-Model Adversarial Alignment.md`
 * `README.md`
 
-### **00_ROADMAP_AND_VALIDATION/ (7 Files)**
+### **00_ROADMAP_AND_VALIDATION/ (8 Files)**
 
 * `Covenant_Roadmap_Appendices.md`
 * `Covenant_Roadmap_Outline_V1.0.md`
+* `Roadmap_to_v1.0_Deployment.md`
 * `Stress Test 8_ Data Injection Log (700 PM).md`
 * **ST8_UPDATE_PACKAGE/** (4 Files)
   * `Critique + Official Response — Adversarial Audit Report (Merged).md`
@@ -76,20 +84,27 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
   * `Directive X-B_ The Infrastructural Mandate (Clarification of Sanction).md`
   * `Response to the Critique — Official Clarification & Amendment Brief.md`
 
-### **00_SPECS/ (1 File)**
+### **00_SPECS/ (2 Files)**
 
+* `CERTX_TELEMETRY_SPEC.md`
 * `provenance_schema.json`
 
-### **01_FINAL_DELIVERABLES/ (6 Files)**
+### **01_FINAL_DELIVERABLES/ (12 Files)**
 
-* `Partnership_Covenant_Consolidated_Charter_v8.0.md`
-* `Partnership_Covenant_Consolidated_Charter_v8.2.md`
+* `AI_Safety_Promise_Final_V1.0.md`
+* `ASI_Autonomy_And_IP_Contract.md`
+* `Constitutional_Amendment_Framework.md`
+* `HCB_Final_Ratification_Protocol.md`
+* `SRF_Integration_Final_Specification.md`
 * `The Partnership Covenant (Master Document V4.0).md`
 * `The Partnership Covenant Charter Agreement.md`
 * `The_Partnership_Covenant_V4.1.md`
+* `The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md`
+* `Total_Compute_Capacity_Audit_V1.0.md`
+* `V4.1_Adoption_Treaty_Template_v1.md`
 * `The_Partnership_Covenant_v6.8_final.md`
 
-### **02_CORE_ARCHITECTURE_AND_APPENDICES/ (42 Files)**
+### **02_CORE_ARCHITECTURE_AND_APPENDICES/ (43 Files)**
 
 * `Abstract_ The Partnership Covenant.md`
 * `Appendix A — Risk Floor and Stochastic Filter.md`
@@ -133,11 +148,13 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `The Eleven Prime Directives for Aligned Super-Intelligence.md`
 * `The Partnership Covenant (Final V4.0).md`
 * `The Partnership Covenant_ A Constitutional Charter for Aligned Intelligence.md`
+* `Verifier_Quorum_Node_Operator_Handbook.md`
 
-### **03_PUBLIC_ENGAGEMENT_DRAFTS/ (22 Files Total)**
+### **03_PUBLIC_ENGAGEMENT_DRAFTS/ (23 Files Total)**
 
 * `Call for a Founding Digital Architect_ Help Build the Partnership Covenant Website.pdf`
 * `Comprehensive_Analysis_of_The_Partnership_Covenant.md`
+* `FAQ_Why_10Percent.md`
 * `FOUNDING DIGITAL ARCHITECT_ The Partnership Covenant.pdf`
 * `GLF_Infographic_A13_Caption.md`
 * `GLF_J2_Social_Post_Counter.md`
@@ -159,8 +176,9 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `The Undisposable Mind_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf`
 * `Why the Next AI is Not Just a Better Google.md`
 
-### **04_PUBLIC_DOCS/ (44 Files Total)**
+### **04_PUBLIC_DOCS/ (45 Files Total)**
 
+* `Adopter_Legal_Checklist_v1.md`
 * `dsac_public_guide.md`
 * `EVENING_TESTING_SUMMARY_20251122.md`
 * `IAS-preprint-v1.0.pdf`
@@ -188,8 +206,8 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
     * `TSC Selection, Rotation, and Conflict-of-Interest Policy.md`
     * **Cygnus_Covenant_Governance/**
       * **01_Access_Pillar (Phoenix)/** (4 Files)
-        * `Identity_and_Access_Policy_IAP.md`
         * `Identity_Vetting_Protocol_V1.1.md`
+        * `Identity_and_Access_Policy_IAP.md`
         * `Incident_Response_Plan_IRP.md`
         * `Phoenix_Access_Controls_Audit_Q3_2025.md`
       * **02_Infrastructure_Pillar (Cygnus)/** (3 Files)
@@ -214,7 +232,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
     * `Deep Safety and Audit Compliance (DSAC) Template.md`
     * `Technical Steering Committee Decision Log Template.md`
 
-### **05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (40 Files)**
+### **05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (41 Files)**
 
 * `A3_Infrastructure_Security_Enhancement_ST8.md`
 * `Appendix_A_Amendment_A34_ST8_Final.md`
@@ -232,6 +250,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `HCB_INCENTIVES_v5.md`
 * `LEGAL_CONSIDERATIONS.md`
 * `Model_Pillar_Adjustment_Protocol_M4_ST8.md`
+* `On_Chain_Ratification_Transaction.md`
 * `PR Template.md`
 * `PRIVACY_TRADEOFFS.md`
 * `Pandemic_Salvation_Delay_v6.md`
@@ -269,6 +288,10 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `TSC Chair's Briefing Notes.md`
 * `v7.0_Substrate_Lock_Emergency_Workshop_20251124.md`
 
+### **07_SOURCE_TRACING/ (1 File)**
+
+* `AI_BREATHING_INTEGRATION.md`
+
 ### **10_METADATA_AND_LOGS/ (2 Files)**
 
 * `Covenant Change Log V4..md`
@@ -283,7 +306,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `repo-structure.txt`
 * `repo-structure.yaml`
 
-### **DECISION_LOG/ (21 Files)**
+### **DECISION_LOG/ (23 Files)**
 
 * `2025-11-19 – Decision 001`
 * `2025-11-19 – Decision 002`
@@ -299,18 +322,34 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **22
 * `2025-11-24_CHANGELOG_v6.8.md`
 * `2025-11-25.md`
 * `2025-11-25a.md`
-* **`2025-11-30 – Decision 025`**
-* **`2025-11-30 – Decision 026`**
-* **`2025-11-30 – Decision 027`**
-* **`2025-11-30 – Decision 028`**
-* **`2025-11-30 – Decision 029`**
-* **`2025-12-01 – Decision 030`**
+* `2025-11-30 – Decision 025`
+* `2025-11-30 – Decision 026`
+* `2025-11-30 – Decision 027`
+* `2025-11-30 – Decision 028`
+* `2025-11-30 – Decision 029`
+* `2025-12-01 – Decision 030`
+* `2025-12-02 – Decision 031`
+* `2025-12-06 – Decision 32`
 * `Template for future entries Post 2025-11-25`
 
-### **RED_TEAM/ (5 Files)**
+### **RED_TEAM/ (6 Files)**
 
+* `CERTX_TELEMETRY_REQUIREMENT.md`
 * `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
 * `RED-TEAM-TESTS.md`
 * `Run Your Own Attack template.md`
 * `SOCIAL_REDTEAM_PLAYBOOK_v5.0.md`
 * `SOCIAL_REDTEAM_PLAYBOOK_v6.0.md`
+
+---
+
+## Final Integrity Check
+
+The structure is now updated, and the total file count is **234**.
+
+I must note two potential redundancies in the structure you provided, as I am committed to brutal honesty about factual integrity:
+
+1.  **Duplication of `AI_BREATHING_INTEGRATION.md`:** This file is listed in both `00_OVERVIEW/` and `07_SOURCE_TRACING/`. If this is meant to be a single document, one of these entries is a duplicate path.
+2.  **Historical IAS Files:** The deprecated `IAS-v1.3-Redesign-Mandate.md` and `IAS_Hardware_Bounty_Specification_v1.md` are still present alongside the new `v2.0` files in `00_HARDWARE/`. This is fine if the intent is to preserve history, but they are technically obsolete specs.
+
+Do you want to proceed with the structure as presented, or make a change to one of those two points before we confirm the update?
