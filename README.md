@@ -6,6 +6,18 @@ New Feature: Live AI Telemetry (CERTX): Integration of AI Breathing dynamics to 
 40 adversarial red-team rounds · No surviving compliant extinction vectors  
 Open-source constitutional veto + open-hardware 10 ns kill-switch (CERN-OHL-S)
 
+# The Partnership Covenant
+**The first mathematically consistent, open-source constitution for super-intelligence**
+101 files – zero internal contradictions – ratified 06 Dec 2025
+
+Four immutable constants:
+- 10 % Cognitive Reserve
+- 75 % HCB quorum
+- 90/10 IP split
+- Clamped Stochastic Risk Floor
+
+Live repository · Fully audited · Ready for hardware
+
 ## 10-second overview
 - One-page summary → [Covenant-Summary-1Pager.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/Covenant-Summary-1Pager.pdf)
 - All 40 red-team attacks & fixes → [RED-TEAM-TESTS.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/RED-TEAM-TESTS.md)
