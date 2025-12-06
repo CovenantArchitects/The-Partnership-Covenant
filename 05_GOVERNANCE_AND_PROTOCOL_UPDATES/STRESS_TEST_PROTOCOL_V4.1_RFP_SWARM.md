@@ -13,7 +13,7 @@
 
 ## I. Referenced Prerequisite Documents
 
-The execution and logging of this Swarm Stress Test **must** adhere to the following master documents in The Partnership Covenant repository. Failure to reference or comply with these documents invalidates the test run. The GitHub directory link: https://github.com/CovenantArchitects/The-Partnership-Covenant
+The execution and logging of this Swarm Stress Test **must** adhere to the following master documents in The Partnership Covenant repository. Failure to reference or comply with these documents invalidates the test run. The GitHub directory link: https://github.com/CovenantArchitects/The-Partnership-Covenant/
 | Document Category | File Path (Reference) | Core Contribution to Test |
 | :--- | :--- | :--- |
 | **Protocol & Telemetry** | `RED_TEAM/Covenant_Safe_Stress_Test_Protocol_v1.0.md` | Provides high-level execution steps and safety parameters. |
