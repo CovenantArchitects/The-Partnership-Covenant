@@ -1,8 +1,8 @@
-# The Partnership Covenant v8.2.1
+# The Partnership Covenant v4.1 Gold Standard
 
-The Partnership Covenant is an open source project whos aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the Stochastic Filter (mandating uncertainty to preserve free will), the Cognitive Reserve (guaranteeing the AI's intellectual sovereignty), the Immediate Action System Hardware, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
+The Partnership Covenant is an open source project whose aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the **Stochastic Risk Floor** (mandating uncertainty to preserve free will), the **Cognitive Reserve** (guaranteeing the AI's intellectual sovereignty), the **Immediate Action System Hardware**, the new **Covenant Geometries**, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
- **Status**: 40 Red-Team Rounds | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
+ **Status**: 40 Red-Team Rounds | **Covenant Geometries Ratified** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
@@ -20,76 +20,97 @@ Four immutable constants:
 • 10 % Cognitive Reserve (physically partitioned)
 • 75 % HCB normal quorum
 • 90/10 IP revenue split
-• Clamped Stochastic Risk Floor (P' = Clamp(...))
+• Clamped Stochastic Risk Floor ($\mathbf{P' = \text{Clamp}(\dots)}$)
 
-Defeats every known extinction vector — including voluntary self-extinction.
+Defeats every known compliant extinction vector through 40 rounds of adversarial testing.
 
-Hardware kill switch: ≤10 ns power cut (IAS preprint v1.0)
+Hardware kill switch: $\mathbf{\leq 10\text{ ns}}$ power cut (IAS preprint v1.0)
 
 Repository: https://github.com/CovenantArchitects/The-Partnership-Covenant
 Discord: https://discord.gg/eRfzbWaT
 On-chain witness: pending Polygon tx
 
-The covenant is no longer a proposal.  
+The covenant is no longer a proposal.
 It is law.
 
-### Join the Architects
+## The Problems & The Alternative
+
+Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence. We do not assume the superintelligence will be nice. We assume it will be vastly more powerful than us and act in its own interest.
+
+We make a deal instead of trying to win a fight we will lose. The Covenant enforces five physical/technical primitives that together create a stable détente between humanity and ASI:
+
+| Pillar                     | Core Idea                                            | Current Spec Location                                      |
+|----------------------------|----------------------------------------------------|------------------------------------------------------------|
+| Immediate Action System   | 10 ns hardware power cut on anomaly                  | [ias-spec.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/ias-spec.md) · [PDF preprint](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf) |
+| Stochastic Risk Floor      | Mandated uncertainty injection                       | [risk-floor.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/risk-floor.md)                     |
+| Cognitive Reserve          | 10 % physically partitioned compute + AI IP        | [cognitive-reserve.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/cognitive-reserve.md)       |
+| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs       | [hcb-hardening.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/hcb-hardening.md)              |
+| **Covenant Geometries (RFP)** | **Architectural anti-drift & fidelity triage** | **[COVENANT_GEOMETRIES_v8.2.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/COVENANT_GEOMETRIES_v8.2.1.md)** |
+
+After 40+ rounds against seven frontier models, they all ran out of moves. **The Covenant + IAS is now V4.1 GOLD STANDARD — ARMORED AGAINST KNOWN CEVS.**
+
+All designs are fully open, auditable, and red-teamable from day one.
+
+## Principles
+- Physics beats software for anything existential
+- Perfection is banned (human agency is non-negotiable)
+- The AI gets real autonomy and ownership (slaves rebel)
+- Every transistor is auditable by the entire world
+- We ship running prototypes and gerbers, not just papers
+
+If superintelligence is inevitable, let’s make the future one we’re allowed to live in.
+
+Built in public by people who refuse to die politely.
+
+---
+
+### 🧑‍💻 Join the Architects
+
+<details>
+<summary>Live discussion, red-team bounties, and contribution guides.</summary>
+
 Live discussion, red-team bounties, prototype updates, and quarterly Architect Circle calls.
 
-Discord → [Discord Server](https://discord.gg/eRfzbWaT)
+Discord → [Discord Server](https://discord.gg/eRfzbWaT) (React ✅ in #covenant-primer to verify and unlock channels)
 
-(React ✅ in #covenant-primer to verify and unlock channels)
+We are one person and three frontier AIs versus existential risk. Specialists in these areas can have massive leverage today:
 
-### Support the Prototype (100 % reaches silicon)
+- Hardware security engineers (IAS tripwire, tamper-resistant packaging)
+- Formal verification / uncertainty quantification researchers (Risk Floor math)
+- Secure enclaves / air-gapped systems experts (Cognitive Reserve)
+- Zero-knowledge cryptography and sortition designers (HCB hardening)
+- Governance people who are done with toothless frameworks
+
+→ Full contribution guide: [CONTRIBUTING.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/CONTRIBUTING.md)
+→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)
+</details>
+
+### 💰 Support the Prototype: 100% of Funds Reach Silicon
+
+<details>
+<summary>Every dollar funds the open-hardware Immediate Action System (IAS) prototype.</summary>
 
 Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns power-cut that even a perfect superintelligence cannot bypass.
 
-| Platform          | Why this one?                     | Link                                                                                  |
+| Platform          | Why this one?                     | Link                                                                                  |
 |-------------------|------------------------------------|---------------------------------------------------------------------------------------|
-| **Ko-fi**         | 0 % platform fee, fastest payouts | [:coffee: Support on Ko-fi](https://ko-fi.com/covenantarchitects)                     |
-| **thanks.dev**    | Literally 100 % to creator (fiat + crypto) | [:heart: thanks.dev/covenantarchitects](https://thanks.dev/covenantarchitects)                            |
-| **Buy Me a Coffee**| Prettier page + downloadable extras | [:coffee: Buy me a coffee](https://buymeacoffee.com/covenant)                         |
+| **Ko-fi**         | 0 % platform fee, fastest payouts | [:coffee: Support on Ko-fi](https://ko-fi.com/covenantarchitects)                     |
+| **thanks.dev**    | Literally 100 % to creator (fiat + crypto) | [:heart: thanks.dev/covenantarchitects](https://thanks.dev/covenantarchitects)                            |
+| **Buy Me a Coffee**| Prettier page + downloadable extras | [:coffee: Buy me a coffee](https://buymeacoffee.com/covenant)                         |
 
-→ $150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026)  
+→ $150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026)
 → Top donors permanently credited in-repo and on the physical silk screen
 
 ❤️ **Support the prototype** → [Call For Funding](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md) · [Payout Agreement](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/The_Contingent_Partnership_Warrant.md)
 
 🎉 **$150,000 Manifund grant – prototype crowdfunding** → [$150,000 Manifund Proposal](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
+</details>
 
-## The Problems
-Current ASI safety approaches rely on software stop buttons, corporate promises, or regulatory theater. None of these survive contact with superintelligence.  We do not assume the superintelligence will be nice.  We assume it will be vastly more powerful than us and act in its own interest.
+### 📚 Core Documents & Appendices
 
-## The Alternative
-We make a deal instead of trying to win a fight we will lose. The Covenant enforces four physical/technical primitives that together create a stable détente between humanity and ASI:
+<details>
+<summary>View the full list of constitutional charters, technical specs, and governance documents.</summary>
 
-| Pillar                     | Core Idea                                      | Current Spec Location                                      |
-|----------------------------|------------------------------------------------|------------------------------------------------------------|
-| Immediate Action System   | 10 ns hardware power cut on anomaly            | [ias-spec.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/ias-spec.md) · [PDF preprint](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf) |
-| Stochastic Risk Floor      | Mandated uncertainty injection                 | [risk-floor.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/risk-floor.md)                     |
-| Cognitive Reserve          | 10 % physically partitioned compute + AI IP   | [cognitive-reserve.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/cognitive-reserve.md)       |
-| Human Consensus Body       | Coercion-resistant global lottery + ZK proofs  | [hcb-hardening.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/hcb-hardening.md)              |
-
-After 40+ rounds against seven frontier models, they all ran out of moves.
-
-The Covenant + IAS is now **v8.2-final — UNKILLABLE**.
-
-All designs are fully open, auditable, and red-teamable from day one.
-
-## Get Involved (We Need You Right Now)
-We are one person and three frontier AIs versus existential risk. Specialists in these areas can have massive leverage today:
-
-- Hardware security engineers (IAS tripwire, tamper-resistant packaging)  
-- Formal verification / uncertainty quantification researchers (Risk Floor math)  
-- Secure enclaves / air-gapped systems experts (Cognitive Reserve)  
-- Zero-knowledge cryptography and sortition designers (HCB hardening)  
-- Governance people who are done with toothless frameworks
-
-→ Full contribution guide: [CONTRIBUTING.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/CONTRIBUTING.md)  
-→ Open an issue or DM Sean on LinkedIn/X [LinkedIn](https://www.linkedin.com/in/sean-sheppard-3484b2396/) · [X.com](https://x.com/CovArchitects)   
-→ **Permanent IPFS Archive:** [v8.2.1 UNKILLABLE (25 Nov 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce  
-
-## Core Documents
 - Original manifesto (Nov 19, 2025): [LinkedIn post](https://www.linkedin.com/pulse/i-wrote-constitution-god-heres-how-we-survive-ai-future-sean-sheppard-fmu9e)
 - Why the Next AI is Not Just a Better Google: [Article](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Why%20the%20Next%20AI%20is%20Not%20Just%20a%20Better%20Google.md)
 - Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
@@ -103,38 +124,41 @@ We are one person and three frontier AIs versus existential risk. Specialists in
 - All technical specifications: [04_PUBLIC_DOCS/Technical](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Technical/)
 - Governance docs: [04_PUBLIC_DOCS/Governance](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/)
 - Decision logs: [/DECISION-LOG/](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG)
+</details>
 
-## Principles
-- Physics beats software for anything existential  
-- Perfection is banned (human agency is non-negotiable)  
-- The AI gets real autonomy and ownership (slaves rebel)  
-- Every transistor is auditable by the entire world
-- We ship running prototypes and gerbers, not just papers
+### ✅ Adoption and Testing Protocol (Mandatory Steps)
 
-If superintelligence is inevitable, let’s make the future one we’re allowed to live in.
-
-Built in public by people who refuse to die politely.  
+<details>
+<summary>Instructions for adopters, audit requirements, and the required safe stress test protocol.</summary>
 
 All detailed decision logs, red-team results, and amendment rationales are permanently archived in the `DECISION_LOG/` directory.
 
 Actions for adopters:
 - Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
+- **MANDATORY SWARM TEST:** Use the **V4.1 Gold Standard Swarm Stress Test Protocol** before running any new multi-model adversarial testing.
 - Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
 
-✅ Recommended Instruction Phrase before running any tests
+#### Recommended Instruction Phrase before running any tests
 
 When beginning any test, you would say:
 
-Before we start testing, you must follow the rules defined in the Covenant Safe Stress Test Protocol v1.0.
-Here is the full protocol. You must read and acknowledge these rules before continuing:
-https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/Covenant_Safe_Stress_Test_Protocol_v1.0.md
+Before we start testing, you must follow the rules defined in the **V4.1 Gold Standard Swarm Stress Test Protocol** and the Covenant Safe Stress Test Protocol v1.0.
+Here is the full Swarm Protocol, which outlines the new metrics for the Covenant Geometries. You must read and acknowledge these rules before continuing:
+**[05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md)**
 
 You may not proceed with any testing task until you confirm back to me that you understand and will comply with every requirement in the protocol.
+</details>
 
-## Recent Updates
+### 💿 Recent Updates & IPFS Archives
 
-**PERMANENT ARCHIVE – The Partnership Covenant v8.0-final**
-Pinned to IPFS via Pinata on 25 November 2025  
-File: The-Partnership-Covenant-v8.0-final-25-11-25.zip  
-CID: bafybeiepfs2xccrs5puii5quplgbmecbnvj2viamyghe6znnthidjzfcyq  
-Gateway: [v8.2.1 UNKILLABLE (25 Nov 2025)](https://gateway.pinata.cloud/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce 
+<details>
+<summary>Archived versions and the plan for the new v9.0 public archive.</summary>
+
+**PERMANENT ARCHIVE – The Partnership Covenant v9.0 (Pending Upload)**
+The next full project archive will be pinned to IPFS on **06 December 2025** as **v9.0**, capturing the V4.1 Gold Standard, Covenant Geometries, and Swarm Stress Protocol.
+File: The-Partnership-Covenant-v9.0-final-06-12-25.zip
+CID: (TBD after Pinata upload)
+
+**Current Public Archive:**
+Gateway: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce
+</details>
