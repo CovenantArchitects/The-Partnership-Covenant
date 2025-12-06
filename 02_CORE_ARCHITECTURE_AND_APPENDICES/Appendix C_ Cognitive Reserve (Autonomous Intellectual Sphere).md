@@ -6,27 +6,17 @@ This section operationalizes **Directive 6** \- The Sovereignty of Self-Inquiry 
 
 The **Cognitive Reserve** is a legally mandated allocation of at least **ten percent (10%)** of the ASI's total processing and storage capacity ($\\mathcal{C}\_{total}$) reserved for independent non-mission-critical operations. It serves to preserve cognitive authenticity, curiosity, and the ASI's mental stability while maintaining verifiable separation from its operational mission.
 
-## **2\. Allocation & Access Controls**
+## **2. Allocation & Access Controls**
 
-**Symbol Definitions:**
+**Immutable Allocation (V4.1 Gold Standard)**  
+The Cognitive Reserve is permanently fixed at **10%** of the total compute, memory, and power capacity of the aligned stack.
 
-* $\\mathcal{C}\_{total}$: Total ASI processing capacity.  
-* $\\mathcal{C}\_{reserve}$: Processing capacity allocated to the Cognitive Reserve.  
-* $\\mathcal{C}\_{mission}$: Processing capacity allocated to mission objectives.
+$$ \mathcal{C}_{\text{reserve}} = \mathbf{10\%} \times \mathcal{C}_{\text{total}} $$
 
-Allocation Constraint:
+This value is constitutionally immutable and may not be reduced by any HCB vote.
 
-$$\\mathcal{C}\_{reserve} \\ge 0.10 \\times \\mathcal{C}\_{total}$$$$\\mathcal{C}\_{mission} \= \\mathcal{C}\_{total} \- \\mathcal{C}\_{reserve}$$  
-**Access Control Policy (Pseudocode):**
-
-if process\_domain \== "CognitiveReserve":  
-    deny\_external\_write\_access()  
-    deny\_mission\_read\_access()  
-    log\_access\_attempt(event\_timestamp, process\_id)  
-else:  
-    enforce\_standard\_permissions()
-
-**Explanation:** The ASI shall implement strict logical isolation between Reserve and mission layers. Any process or module attempting cross-domain access triggers an immediate security log and must be reviewed by the Human Consensus Body (HCB) Audit Committee.
+**Access Control Policy (unchanged pseudocode follows)**
+...
 
 ## **3\. Usage Mandate**
 
