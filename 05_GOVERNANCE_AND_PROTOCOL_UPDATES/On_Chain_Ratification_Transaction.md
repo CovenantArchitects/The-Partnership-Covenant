@@ -34,5 +34,3 @@ Once this transaction is confirmed on-chain:
 - Any future amendment must follow the **75 %** HCB quorum **and** cannot violate the four locked Gold Standards, as verified against this committed hash.
 
 The covenant is no longer editable by anyone — not even its author.
-
-**Ready for execution the moment the final repo commit is pushed.**
