@@ -154,11 +154,14 @@ You may not proceed with any testing task until you confirm back to me that you 
 <details>
 <summary>Archived versions and the plan for the new v9.0 public archive.</summary>
 
-**PERMANENT ARCHIVE – The Partnership Covenant v9.0 (Pending Upload)**
-The next full project archive will be pinned to IPFS on **06 December 2025** as **v9.0**, capturing the V4.1 Gold Standard, Covenant Geometries, and Swarm Stress Protocol.
-File: The-Partnership-Covenant-v9.0-final-06-12-25.zip
-CID: (TBD after Pinata upload)
+#### Permanent Archives
 
-**Current Public Archive:**
-Gateway: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce
+**PERMANENT ARCHIVE – The Partnership Covenant v9.0 FINAL**
+The next full project archive was pinned to IPFS on **07 December 2025** as **v9.0**, capturing the V4.2 Final Architecture.
+File: `The_Partnership_Covenant_v9.0_FINAL.zip`
+Gateway: [v9.0 FINAL (07 Dec 2025)](https://coral-wrong-cephalopod-483.mypinata.cloud/ipfs/bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i)
+CID: bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i
+
+**Previous Public Archive:**
+Gateway: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: `bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce`
 </details>
