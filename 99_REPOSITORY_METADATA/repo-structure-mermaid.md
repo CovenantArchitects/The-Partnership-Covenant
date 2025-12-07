@@ -1,4 +1,9 @@
 ```mermaid
+%% The-Partnership-Covenant Repository Structure — Final v9.0 (245 files)
+
+classDef updated fill:#ffebee,stroke:#c62828,stroke-width:2px;
+classDef newFile fill:#e8f5e8,stroke:#2e7d32,stroke-dasharray: 5 5;
+
 graph TD
     ROOT[The-Partnership-Covenant<br/><small>v9.0_Final — 245 files</small>]
 
@@ -25,7 +30,7 @@ graph TD
     ROOT --> RT[RED_TEAM<br/>7 files]
     ROOT --> GH[.github<br/>2 files]
 
-    %% Highlight New & Updated Files
+    %% New & Updated Files
     subgraph "New & Updated Files"
         FD --> FD1{The_Partnership_Covenant_V4.1.1.md}:::newFile
         CA --> CA1{CORE_DIRECTIVES.md}:::newFile
@@ -38,3 +43,5 @@ graph TD
         RT --> RT1{TEST_LOG_R41-R44.md}:::newFile
         RT --> RT2{SOCIAL_REDTEAM_PLAYBOOK_v6.0.md}:::newFile
     end
+
+    click ROOT "https://github.com/CovenantArchitects/The-Partnership-Covenant"
