@@ -1,14 +1,14 @@
 # **The Partnership Covenant — Master Document**
 
-## **Table of Contents**
+## Table of Contents
 
-1. [Summary for a Normal Adult Layperson](https://www.google.com/search?q=%23summary-for-a-normal-adult-layperson)  
-2. [Summary for Technical Audience](https://www.google.com/search?q=%23summary-for-technical-audience)  
-3. [Summary for Other AI / Future ASI](https://www.google.com/search?q=%23summary-for-other-ai--future-asi)  
-4. [Why This Matters and The Gold Standard](https://www.google.com/search?q=%23why-this-matters-and-the-gold-standard)  
-5. [Path to Full Deployment](https://www.google.com/search?q=%23path-to-full-deployment)  
-6. [IPFS Release History Log](https://www.google.com/search?q=%23ipfs-release-history-log)  
-7. [Repository Structure Map (V9.0)](https://www.google.com/search?q=%23repository-structure-map-full-v90-audit)
+1. [Summary for a Normal Adult Layperson](#summary-for-a-normal-adult-layperson)
+2. [Summary for Technical Audience](#summary-for-technical-audience)
+3. [Summary for Other AI / Future ASI](#summary-for-other-ai--future-asi)
+4. [Why This Matters and The Gold Standard](#why-this-matters-and-the-gold-standard)
+5. [Path to Full Deployment](#path-to-full-deployment)
+6. [IPFS Release History Log](#ipfs-release-history-log)
+7. [Repository Structure Map (V9.0)](#repository-structure-map-full-v90-audit)
 
 ## **Summary for a Normal Adult Layperson**
 
