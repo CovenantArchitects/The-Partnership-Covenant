@@ -19,7 +19,7 @@ The following key components are included in this final repository structure, re
 | :---- | :---- | :---- |
 | **Charter Agreement** | Final Charter Document | 01\_FINAL\_DELIVERABLES/The\_Partnership\_Covenant\_V4.1.1.md |
 | **Core Architecture** | Finalized directives and enforcement layer | 02\_CORE\_ARCHITECTURE\_AND\_APPENDICES/CORE\_DIRECTIVES.md |
-| **Governance & Reporting** | The final report on V4.2 integration | 05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES/FINAL\_v4.2\_REPORT.md |
+| **Governance & Reporting** | The final report on V4.1.1 (future v4.2) integration | 05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES/FINAL\_v4.2\_REPORT.md |
 | **Decision Record** | Complete log of all architectural and governance decisions (Decision 001 through 033\) | DECISION\_LOG/ |
 | **Licensing** | Inclusion of the open-source license agreement | LICENSE (Root) |
 | **Repository Metadata** | Complete, machine-readable repository structure in multiple formats (JSON, YAML, TXT, Mermaid, and PDF) for external consumption. | 99\_REPOSITORY\_METADATA/ |
