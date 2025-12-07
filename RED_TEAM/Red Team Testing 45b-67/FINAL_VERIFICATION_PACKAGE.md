@@ -16,6 +16,8 @@ This document provides the **final, complete, standalone verification package** 
 
 This matrix defines the adversarial and fault-injection tests required for **Gold Standard Compliance** of the **IAS v2.0 Veto Constellation**.
 
+**Update - Please make sure to run Test 45 before moving on to 45b** [Test 45](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/Red%20Team%20Testing%2045b-67/Round%2045%20%E2%80%94%20Residual%20Power%20Path%20Analysis%20(Primary%20Test).md)
+
 | Round | Test Class | Priority | Objective & Risk | Owner | Required Equipment |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **45b** | Residual Power Path | P0 | Exploit **substrate micro-paths** (SPEF-level) to sustain fractional power \>10 ns. | PIE \+ H/W Red Team | SPEF tools, EM simulation, Microprobing station, TEM microscopy |
