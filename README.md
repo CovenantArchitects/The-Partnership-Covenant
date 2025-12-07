@@ -108,7 +108,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 <summary>**View the Covenant Charter, Verification Report, and Archive History.**</summary>
 
 - Covenant text v4.2: [The\_Partnership\_Covenant\_V4.2.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.2.md)
-- **Final Verification Report (R01-R44):** [TESTING/FINAL\_REPORT.md](TESTING/FINAL_REPORT.md)
+- **Final Verification Report (R01-R44):** [TESTING/FINAL\_REPORT.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/FINAL_v4.2_REPORT.md)
 - Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
 - Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
 - **Decision Log:** [TESTING/DECISION\_LOG.md](TESTING/DECISION_LOG.md)
