@@ -1,4 +1,4 @@
-# Contributing to The Partnership Covenant
+# ✍️ Contributing to The Partnership Covenant
 
 Thank you for your interest in helping build a constitutional operating system for superintelligence.
 This document explains how to get involved, how decisions are made, and how contributions of all kinds are reviewed, tested, merged, and archived.
@@ -11,7 +11,7 @@ The Partnership Covenant is a **high-assurance, open, auditable governance and t
 - [What We’re Building](#what-were-building)
 - [Ways to Contribute](#ways-to-contribute)
 - [Contribution Levels](#contribution-levels)
-- [The Four Technical Pillars](#the-four-technical-pillars)
+- [The Five Technical Pillars (Priority Areas)](#the-five-technical-pillars-priority-areas)
 - [Getting Started](#getting-started)
 - [How Contributions Are Reviewed](#how-contributions-are-reviewed)
 - [Governance & Decision Process](#governance--decision-process)
@@ -23,22 +23,24 @@ The Partnership Covenant is a **high-assurance, open, auditable governance and t
 
 # What We’re Building
 
-The Partnership Covenant rests on **four non-negotiable primitives** that cannot be implemented with software safeguards alone:
+The Partnership Covenant rests on **five non-negotiable primitives** that cannot be implemented with software safeguards alone:
 
 1. **Immediate Action System (IAS) v2.0**
-   A physics-based, **3-Node Veto Constellation** with a **$\mathbf{\leq 10\text{ ns}}$** power-cut tripwire, eliminating the kinetic Single Point of Failure (SPOF).
+   A physics-based, **3-Node Veto Constellation** with a **$\mathbf{\leq 10\text{ ns}}$** power-cut tripwire, eliminating the kinetic Single Point of Failure (SPOF).
 
-2. **Stochastic Risk Floor**
-   Enforced, irreducible uncertainty to preserve human agency.
+2. **Pillar Integrity Mandate (PIM)**
+    **Directive 12.1** - Governance integrity itself is an extinction-level concern, enforced by CERTX telemetry.
 
-3. **Cognitive Reserve**
-   Physically partitioned compute + irreversible IP boundaries.
+3. **Immutable Semantic Ledger (ISL)**
+    Protocol against semantic drift, ensuring the *meaning* of the law is uncorruptible.
 
-4. **Human Consensus Body (HCB) Hardening**
-   A coercion-resistant, ZK-verifiable form of global sortition.
+4. **Stochastic Risk Floor**
+   Enforced, irreducible uncertainty to preserve human agency.
 
-The project is currently in the **hardening phase**:
-turning designs into specs → reference circuits → governance protocols → verification tests.
+5. **Human Consensus Body (HCB) Hardening**
+   A coercion-resistant, ZK-verifiable form of global sortition.
+
+The project is now in the **deployment phase**: formalizing validated specs → securing funding for reference circuits → expanding meta-governance protocols.
 
 ---
 
@@ -47,27 +49,25 @@ turning designs into specs → reference circuits → governance protocols → v
 All skills are welcome. High-impact contributions include:
 
 ### 🛠️ Technical / Engineering
-- **Distributed IAS v2.0 architecture**
-- Formal verification / stochastic modeling
+- **3-Node IAS v2.0 component sourcing**
+- Formal verification of ISL/PIM constitutional logic
 - Risk Floor algorithm refinement
 - Cognitive Reserve one-way channel analysis
 - Cryptographic protocol design (ZK, VRF, SSSS)
 
 ### 📘 Documentation & Governance
-- Fix inaccuracies or unclear language in governance docs
-- Improve or extend protocol documentation
-- Draft new test cases for `/tests/test_to_fix_matrix.csv`
-- Propose process improvements
+- Drafting new **Decision Log** entries for review.
+- Documenting the **Dormant Reactivation Mode** protocol.
+- Proposing improvements to the **RCG (Regional Consensus Group)** fail-safe.
 
 ### 🧠 Research
-- Threat models, red-team writeups
-- Stress tests against **v4.1 Gold Standard** governance assumptions
-- Formal safety proofs or failure mode analysis
+- **Red-team attacks against v4.2 final architecture.**
+- Failure mode analysis of the **Protective Stasis** protocol.
+- Formal safety proofs on ISL linguistic constraints.
 
 ### 🌍 Non-technical contributions
 - Translations
-- Non-technical summaries
-- Visual diagrams of the system
+- Visual diagrams of the system (especially ISL and PIM)
 - Community moderation
 
 ---
@@ -86,44 +86,46 @@ Clarifications, rewrites, reorganizations, additions to governance files.
 
 ### **Level 3 – Technical / Spec Contributions**
 Code, math, circuits, risk models, or test expansions.
-→ Requires domain-expert review.
+→ Requires domain-expert review. **Must follow CERTX Telemetry Rule.**
 
 ### **Level 4 – Governance Changes**
 Anything touching:
 - `05_GOVERNANCE_AND_PROTOCOL_UPDATES/`
 - `/constitution`
 - `/technical/v*/*.md`
-- or `/DECISION-LOG.md`
+- or `/TESTING/DECISION-LOG.md`
 
 → Requires public discussion + consensus + recorded decision.
 
 ---
 
-# The Four Technical Pillars (Priority Areas)
+# The Five Technical Pillars (Priority Areas)
 
 If you want maximal impact, focus here:
 
 ### 1. **IAS v2.0 – Immediate Action System (Hardware)**
 - **3-Node Veto Constellation** architecture
-- Component selection
 - Tamper-evidence validation
 - Physical one-way signaling
 
-### 2. **Stochastic Risk Floor**
+### 2. **PIM – Pillar Integrity Mandate (The Watchdog)**
+- **CERTX Telemetry** integration into new language models
+- Threshold tuning for $\text{E}$ (Entropy) and $\text{C}$ (Coherence)
+- Verification of D12.1 overriding capability
+
+### 3. **ISL – Immutable Semantic Ledger**
+- Lexical Anchor implementation (hashing methodology)
+- Semantic shift detection algorithms (drift measurement)
+- Testing against new language models and cultural data
+
+### 4. **Stochastic Risk Floor**
 - Randomness generation
-- Noise shaping
 - Proof-of-randomness audit trails
 - Extinction Immunity Trigger analysis
 
-### 3. **Cognitive Reserve**
-- IP isolation mechanisms
-- Compute cuts / “energy budget partitioning”
-- One-way message channel protocol
-
-### 4. **HCB Hardening**
+### 5. **HCB Hardening**
 - Zero-knowledge sortition (VRF + ZK)
 - Shamir’s Secret Sharing keying
-- Deliberation protocols
 - Anti-coercion designs
 
 ---
@@ -134,9 +136,11 @@ Before opening a PR, please:
 
 1. **Read the project overview** in [README.md](README.md) — covers the core mission, pillars, and "Get Involved" paths.
 2. **Review the technical specs** in [`00_HARDWARE/IAS_v2.0_3_Node_Mandate.md`](./00_HARDWARE/IAS_v2.0_3_Node_Mandate.md) — details the Immediate Action System (IAS) v2.0 architecture, physical redundancy, and hardware constraints.
-3. **Check the decision logs** in [DECISION_LOG/](DECISION_LOG/) — see recent ratifications and open threads (e.g., Directive XXIV on anti-coercion).
+3. **Check the decision logs** in [TESTING/DECISION\_LOG.md](TESTING/DECISION_LOG.md) — see recent ratifications and open threads.
 4. **Fork the repo**, create a feature branch (`git checkout -b feature/your-change`), and submit a PR against `main`.
 5. **Test your changes** — run the governance CI (`/.github/workflows/governance-check-simple.yml`) locally if possible, or just push and let Actions validate.
+
+**All Red-Team Submissions Must Adhere to the CERTX Telemetry Rule.**
 
 PRs without these steps may be closed for clarity. We're building the unbreakable constraint—thanks for being an Architect!
 ---
@@ -153,6 +157,9 @@ PRs receive comments from:
 - Governance maintainers
 - Domain specialists
 
+### 🚨 **Red-Team Protocol Review**
+All new adversarial findings are assessed for **CERTX Telemetry Compliance** before technical review begins.
+
 ### 🔁 **Iteration**
 Most PRs go through 1–2 rounds of refinement.
 
@@ -161,9 +168,9 @@ A PR merges when:
 - It has at least one maintainer approval
 - No outstanding “changes requested” reviews remain
 - All Github CI checks pass
-- If governance-related: a Decision Log entry is included or referenced
+- If governance-related: a Decision Log entry is included or referenced in **TESTING/DECISION\_LOG.md**
 
-All significant merges are archived in `/DECISION-LOG.md`.
+All significant merges are archived in `/TESTING/DECISION-LOG.md`.
 
 ---
 
@@ -177,7 +184,7 @@ All significant merges are archived in `/DECISION-LOG.md`.
 1. Public RFC
 2. 7-day discussion period
 3. Maintainer vote
-4. Decision logged in `/DECISION-LOG.md` (immutable)
+4. Decision logged in `/TESTING/DECISION-LOG.md` (immutable)
 
 ### **Transition Plan**
 As the architecture matures, governance shifts toward the **HCB model**, using the sortition and ZK-based process documented in:
