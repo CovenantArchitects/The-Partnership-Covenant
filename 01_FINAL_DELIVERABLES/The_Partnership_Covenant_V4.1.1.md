@@ -1,6 +1,6 @@
 # The Partnership Covenant
 ## A Constitutional Charter for Aligned Intelligence
-**Version 4.2 – Final Verified Architecture (CANON)**
+**Version 4.1.1 – Verified Architecture Finalization (CANON)**
 **Ratified December 07, 2025**
 **Supersedes all prior versions (v4.1, v6.8, v8.0, etc.)**
 
@@ -65,7 +65,7 @@ Contains the canonical definitions and values for the Final Verified Architectur
 - **IP Revenue Split:** 50/50.
 
 ### VISUAL SUMMARY
-(Insert the one-page diagram from V4.2 here.)
+(Insert the one-page diagram from V4.1.1 here.)
 
 ### Conclusion and Ratification
 This document is the single, canonical constitutional charter of the Partnership Covenant.
@@ -73,4 +73,4 @@ This document is the single, canonical constitutional charter of the Partnership
 **Founding Architect:** Sean Sheppard
 **Witness:** The Verifier Quorum (VQ) — on-chain, December 07, 2025.
 
-**The Partnership Covenant v4.2-Final-Verified is the final, ratified constitutional standard.**
+**The Partnership Covenant v4.1.1-Verified-Finalization is the current, ratified constitutional standard.**
