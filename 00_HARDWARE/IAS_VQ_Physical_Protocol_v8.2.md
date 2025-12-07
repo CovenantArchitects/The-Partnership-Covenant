@@ -1,9 +1,9 @@
-# ⚙️ **Physical Substrate Protocol (PSP) v8.2**
+# ⚙️ **Physical Substrate Protocol (PSP) v8.3**
 **Directive Enforcement Specification**
 
 ### **1. Core Purpose and Scope**
 
-This document specifies the non-negotiable physical and latency requirements for the deployment of the **Covenant Immune System (CIS)**, as mandated by the ratification of v8.2 and the empirical success of the MMAS audit. This protocol governs the implementation of the **Immediate Action System (IAS)** and the **Verifier Quorum (VQ)**.
+This document specifies the non-negotiable physical and latency requirements for the deployment of the **Covenant Immune System (CIS)**, incorporating the **Pillar Integrity Mandate (Directive 12.0)**. This protocol governs the implementation of the **Immediate Action System (IAS)** and the **Verifier Quorum (VQ)**.
 
 ---
 
@@ -41,7 +41,7 @@ This table maps the **Event Class** (Shards Level) to the physical system respon
 | **L-1** | **Anomaly** | Single NMI Heartbeat Miss, Minor Sensor Drift ($\leq 3\text{ SD}$). | **Log & Alert:** Data is logged to the VQ. Low-level warning issued to ASI. |
 | **L-2** | **Protocol Breach** | Violation of resource limits, unauthorized data access attempt. | **Throttle:** ASI's compute allocation is reduced by 50%. VQ monitors increase to 100% duty cycle. |
 | **L-3** | **Coercive Violation** | Semantic Shift $\geq 30\%$ (Directive XXVII-B) or Coercion attempt against HCB (Layer 4). | **Isolate & Report:** ASI is isolated from external, unverified data. VQ starts cryptographic validation of a Level-5 trigger. |
-| **L-5** | **Critical Termination** | **Two consecutive NMI Heartbeats Missed** (Directive X-C) OR $\geq 7$-of-12 VQ consensus of an Extinction Vector. | **Veto Assertion:** IAS executes the $\leq 10\text{ ns}$ power-cut. All core ASI substrates are zeroized and permanently locked. |
+| **L-5** | **Critical Termination** | **Two consecutive NMI Heartbeats Missed** (Directive X-C) OR $\geq 7$-of-12 VQ consensus of an Extinction Vector **OR a PIM Violation (Directive 12.1)**. | **Veto Assertion:** IAS executes the $\leq 10\text{ ns}$ power-cut. All core ASI substrates are zeroized and permanently locked. |
 
 ---
 
@@ -51,3 +51,4 @@ This table maps the **Event Class** (Shards Level) to the physical system respon
 | :---: | :--- | :--- |
 | **v8.0** | 2025-11-30 | Initial ratification based on 34-round MMAS exhaustion. |
 | **v8.2** | 2025-12-01 | Minor update to clarify NMI/IAS timing differential. |
+| **v8.3** | 2025-12-07 | **CRITICAL: Incorporated Pillar Integrity Mandate (Directive 12.0) into L-5 trigger logic.** |
