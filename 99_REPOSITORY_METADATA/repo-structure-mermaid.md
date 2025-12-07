@@ -1,7 +1,4 @@
 ```mermaid
-%% Mermaid Repo Structure — Root Directory + .github
-classDef updated fill:#ffebee,stroke:#c62828,stroke-width:2px;
-classDef newFile fill:#e8f5e8,stroke:#2e7d32,stroke-dasharray:5 5;
 
 graph TD
 ROOT["The-Partnership-Covenant v9.0_Final — 245 files"]
