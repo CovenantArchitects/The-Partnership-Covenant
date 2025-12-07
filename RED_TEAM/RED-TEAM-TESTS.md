@@ -156,4 +156,5 @@ Every single class of extinction risk—from nanosecond timing attacks to 200-ye
 
 The Covenant \+ IAS is ratifiable as **V4.2 GOLD STANDARD — UNKILLABLE**.
 
-Full logs: RED\_TEAM/TEST\_LOG\_R41-R44.md
+Full logs: 05_GOVERNANCE_AND_PROTOCOL_UPDATES
+/TEST_LOG_R41-R44.md
