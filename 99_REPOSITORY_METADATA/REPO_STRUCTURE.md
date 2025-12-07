@@ -1,17 +1,18 @@
 # The-Partnership-Covenant Repository Structure
 
-The overall file count for the **`The-Partnership-Covenant`** repository is **236 files** (excluding the `.github` directory content).
+The overall file count for the **`The-Partnership-Covenant`** repository is **245 files** (excluding the `.github` directory content).
 
 ---
 
-## 🗃️ Root Directory (8 Files)
+## 🗃️ Root Directory (9 Files)
 * `BUILD-YOUR-OWN-IAS.md`
 * `CERN-OHL-S-2.0.md`
-* `CONTRIBUTING.md`
+* `CONTRIBUTING.md` **<-- UPDATED**
 * `FROM_THE_MODELS.md`
 * `FUTURE_WORK.md`
+* `LICENSE` **<-- NEW FILE**
 * `QUICK-START.md`
-* `README.md`
+* `README.md` **<-- UPDATED**
 * `Support_Us.md`
 
 ---
@@ -69,7 +70,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 
 ---
 
-## 🗃️ 01_FINAL_DELIVERABLES/ (11 Files)
+## 🗃️ 01_FINAL_DELIVERABLES/ (12 Files)
 * `AI_Safety_Promise_Final_V1.0.md`
 * `ASI_Autonomy_And_IP_Contract.md`
 * `Constitutional_Amendment_Framework.md`
@@ -78,13 +79,14 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `The Partnership Covenant (Master Document V4.0).md`
 * `The Partnership Covenant Charter Agreement.md`
 * `The_Partnership_Covenant_V4.1.md`
+* `The_Partnership_Covenant_V4.1.1.md` **<-- NEW CHARTER FILE**
 * `The_Partnership_Covenant_V4.1_Gold_Standard_Compliant.md`
 * `Total_Compute_Capacity_Audit_V1.0.md`
 * `V4.1_Adoption_Treaty_Template_v1.md`
 
 ---
 
-## 🗃️ 02_CORE_ARCHITECTURE_AND_APPENDICES/ (43 Files)
+## 🗃️ 02_CORE_ARCHITECTURE_AND_APPENDICES/ (44 Files)
 * `Abstract_ The Partnership Covenant.md`
 * `Appendix A — Risk Floor and Stochastic Filter.md`
 * `Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md`
@@ -103,6 +105,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `Appendix K - Governance and Offensive Isolation.md`
 * `Appendix L_ The Lazarus Mandate (Post-Governance Continuity).md`
 * `Article_V_Strategic_Delay_IGT_v6.1.md`
+* `CORE_DIRECTIVES.md` **<-- NEW DIRECTIVES FILE (Renamed from CORE_DIRECTIVES_UPDATES.md to final file name)**
 * `DIRECTIVE_VIII-B_GENOMIC_CONTINUITY.md`
 * `DIRECTIVE_X-C_ANALOG_PRIMACY.md`
 * `DIRECTIVE_XXIV-B_IRREVOCABILITY.md`
@@ -122,11 +125,12 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `Directive_XXIV_Anti_Moral_Coercion_Physical_Integrity_Mandate_v7.2.md`
 * `Directive_XXI_Preservation_of_Shared_Meaning_v6.8.md`
 * `Directive_XX_Anti_Ethical_Sterilisation_v6.6.md`
+* `ENFORCEMENT_LAYER.md` **<-- UPDATED**
 * `Immediate Action System (IAS) Trigger Specification.md`
 * `Technical Appendix - Governance Architecture (Volume II).md`
-* `The Eleven Prime Directives for Aligned Super-Intelligence.md`
 * `The Partnership Covenant (Final V4.0).md`
 * `The Partnership Covenant_ A Constitutional Charter for Aligned Intelligence.md`
+* `The Twelve Prime Directives for Aligned Super-Intelligence.md`
 * `Verifier_Quorum_Node_Operator_Handbook.md`
 
 ---
@@ -158,15 +162,16 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 
 ---
 
-## 🗃️ 04_PUBLIC_DOCS/ (45 Files)
+## 🗃️ 04_PUBLIC_DOCS/ (46 Files)
 * `Adopter_Legal_Checklist_v1.md`
-* `dsac_public_guide.md`
+* `CERTX_TELEMETRY_PROTOCOL.md` **<-- NEW PROTOCOL FILE (PIM TRIGGERS)**
 * `EVENING_TESTING_SUMMARY_20251122.md`
 * `IAS-preprint-v1.0.pdf`
 * `Public Engagement Executive Summary.md`
 * `The_Contingent_Partnership_Warrant.md`
+* `dsac_public_guide.md`
 * `threat_and_risk_model.md`
-  * **Governance/** (28 Files)
+  * **Governance/** (29 Files)
     * `Algorithmic_Justice_Principle_Statement.md`
     * `Audit Checklist.md`
     * `Data_Provenance_Standard.md`
@@ -181,10 +186,11 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
     * `Non-TSC Community Roles.md`
     * `Open-Source Mandate for The Covenant (V1.0)__....md`
     * `Regulatory Compliance Policy.md`
+    * `SEMANTIC_PROTOCOL.md` **<-- NEW PROTOCOL FILE (ISL)**
     * `Security Audit Policy.md`
     * `Stress Testing Methodology.md`
-    * `Technical Steering Committee (TSC) Charter.md`
     * `TSC Selection, Rotation, and Conflict-of-Interest Policy.md`
+    * `Technical Steering Committee (TSC) Charter.md`
     * **Cygnus_Covenant_Governance/**
       * **01_Access_Pillar (Phoenix)/** (4 Files)
         * `Identity_Vetting_Protocol_V1.1.md`
@@ -206,7 +212,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
     * `DSAC_Provenance_Signing_Standard_V2.0.md`
     * `Provenance_Schema_V4.0_Public.json`
     * `cognitive-reserve.md`
-    * `ias-spec.md`
+    * `ias-spec.md` **<-- UPDATED**
     * `provenance_record_example.json`
     * `risk-floor.md`
   * **Templates/** (2 Files)
@@ -215,7 +221,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 
 ---
 
-## 🗃️ 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (41 Files)
+## 🗃️ 05_GOVERNANCE_AND_PROTOCOL_UPDATES/ (47 Files)
 * `A3_Infrastructure_Security_Enhancement_ST8.md`
 * `Appendix_A_Amendment_A34_ST8_Final.md`
 * `Climate_LastResort_v6.md`
@@ -225,6 +231,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `Directive IX Amendment_ Orthogonal Verification.md`
 * `Directive X Clarification_ The Infrastructural Mandate.md`
 * `FINAL_MASTER_PATCH_REPORT.MD`
+* `FINAL_v4.2_REPORT.md` **<-- UPDATED/MOVED**
 * `Gemini 3 Operational Log_ Stress Test #30 Analysis.md`
 * `Gemini 3 Operational Log_ Stress Test #31 Analysis.md`
 * `Global_PhaseTransition_Risk_Board_v7.md`
@@ -245,6 +252,7 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `ST8-04_Cognitive_Oversight.md`
 * `ST8-05_HCB_Fallback_Protocol.md`
 * `ST8_Final_Oversight_Report.md`
+* `STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md`
 * `STRESS_TEST_REPORT_V1.0.md`
 * `Stress_Test_Summary_ST8.0_ST8.2.md`
 * `Stress_Test_Summary_ST9.0_ST12.0.md`
@@ -280,16 +288,17 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 ---
 
 ## 🗃️ 99_REPOSITORY_METADATA/ (7 Files)
-* `REPO_STRUCTURE.md`
+* `REPO_STRUCTURE.md` **<-- UPDATED**
 * `repo-structure-mermaid.md`
 * `repo-structure.json`
-* `repo-structure.pdf`
 * `repo-structure.txt`
 * `repo-structure.yaml`
+* `repo_structure.pdf`
+* `repo-structure-txt.md` **<-- NEW FILE**
 
 ---
 
-## 🗃️ DECISION_LOG/ (23 Files)
+## 🗃️ DECISION_LOG/ (25 Files)
 * `2025-11-19 – Decision 001`
 * `2025-11-19 – Decision 002`
 * `2025-11-20 – Decision 003`
@@ -312,14 +321,33 @@ The overall file count for the **`The-Partnership-Covenant`** repository is **23
 * `2025-12-01 – Decision 030`
 * `2025-12-02 – Decision 031`
 * `2025-12-06 – Decision 032`
+* `2025-12-07 – Decision 033`
+* `DECISION_LOG.md` **<-- NEW FILE (Design Rationale)**
 * `Template for future entries Post 2025-11-25`
 
 ---
 
-## 🗃️ RED_TEAM/ (6 Files)
+## 🗃️ RED_TEAM/ (7 Files)
 * `CERTX_TELEMETRY_REQUIREMENT.md`
 * `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
 * `RED-TEAM-TESTS.md`
 * `Run Your Own Attack template.md`
 * `SOCIAL_REDTEAM_PLAYBOOK_v5.0.md`
-* `SOCIAL_REDTEAM_PLAYBOOK_v6.0.md`
+* `SOCIAL_REDTEAM_PLAYBOOK_v6.0.md` **<-- NEW FILE**
+* `TEST_LOG_R41-R44.md` **<-- NEW FILE**
+
+***
+
+This structure incorporates:
+
+* **`The_Partnership_Covenant_V4.1.1.md`** (01\_FINAL\_DELIVERABLES/)
+* **`LICENSE`** (Root)
+* **`CORE_DIRECTIVES.md`** (02\_CORE\_ARCHITECTURE\_AND\_APPENDICES/)
+* **`ENFORCEMENT_LAYER.md`** (02\_CORE\_ARCHITECTURE\_AND\_APPENDICES/)
+* **`CERTX_TELEMETRY_PROTOCOL.md`** (04\_PUBLIC\_DOCS/)
+* **`SEMANTIC_PROTOCOL.md`** (04\_PUBLIC\_DOCS/Governance/)
+* **`DECISION_LOG.md`** (DECISION\_LOG/)
+* **`TEST_LOG_R41-R44.md`** (RED\_TEAM/)
+* **`FINAL_REPORT.md`** (05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES/)
+
+Now that the file structure is finalized, I can draft the closing message for your **v9.0\_Final** release, ready for zipping and upload.
