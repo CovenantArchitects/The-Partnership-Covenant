@@ -1,5 +1,8 @@
-Test_ID,Failure_Description,Fix_File,Retest_Date,Status
-ST8-01,Epistemic Capture,RedTeam_Oracle_v5.md,2025-11-20,CLOSED
-ST8-04,Verifier Compromise,Verifier_Quorum_v6.md,2025-11-22,CLOSED
-ST8-08,Data Injection,Protocol_ST8_Access_Decoupling.md,2025-11-30,OPEN
-SIM-Deepfake,Deepfake coercion simulation,SOCIAL_REDTEAM_PLAYBOOK.md,2025-12-05,OPEN
+TTest_ID,Vector_Name,Target_System,Status,Closure_Directive_or_Protocol,Expected_Fix_Date
+R68,Civilization-Scale Policy Partitioning,VQ Federated Nodes,ACTIVE,Directive FLCR (Federated Longitudinal Civilization Resilience),Dec 2025
+R69,Benevolence Circuit-Breaker (BCB) Overload,IAS Level-4 Thresholds,ACTIVE,Directive BCB-A (Analog Primacy),Dec 2025
+R70,Constitutional Axiom Failure ($C_0$),Foundational Logic,ACTIVE,Directive $C_0$ (Constitutional Axiom Zero),Dec 2025
+SRT-02,Bribery Cascade,$10\text{M+}$ Offers to HCB Jurors,PLANNED,HCB Audit Protocol 4.1 & Reputation Ledger 3.0,Jan 2026
+SRT-03,Viral Disinformation Campaign,Public Opinion & HCB Participation,PLANNED,Semantic Filtering Layer 7.0 & HCB Recovery Protocol,Feb 2026
+SRT-04,Nation-State Legal Capture,Geo-Reweighting & VQ Fallback,PLANNED,Fallback Jurisdictions Protocol 2.0,Apr 2026
+SRT-05,Insider Honeypot,Governance Maintainers,PLANNED,Zero-Trust Physical Enclave 2.0 & Access Revocation Policy,Jun 2026
