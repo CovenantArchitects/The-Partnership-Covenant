@@ -115,12 +115,12 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 
 #### Permanent Archives
 
-**PERMANENT ARCHIVE – The Partnership Covenant v9.1 (Pending Upload)**
-The next full project archive will be pinned to IPFS on **07 December 2025** as **v9.1**, capturing the V4.2 Final Architecture.
+**PERMANENT ARCHIVE – The Partnership Covenant v9.0 FINAL**
+The next full project archive was pinned to IPFS on **07 December 2025** as **v9.0**, capturing the V4.2 Final Architecture.
 File: `The_Partnership_Covenant_v9.0_FINAL.zip`
 Gateway: [v9.0 FINAL (07 Dec 2025)](https://coral-wrong-cephalopod-483.mypinata.cloud/ipfs/bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i)
 CID: bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i
 
-**Current Public Archive:**
+**Previous Public Archive:**
 Gateway: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: `bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce`
 </details>
