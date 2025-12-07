@@ -349,5 +349,3 @@ This structure incorporates:
 * **`DECISION_LOG.md`** (DECISION\_LOG/)
 * **`TEST_LOG_R41-R44.md`** (RED\_TEAM/)
 * **`FINAL_REPORT.md`** (05\_GOVERNANCE\_AND\_PROTOCOL\_UPDATES/)
-
-Now that the file structure is finalized, I can draft the closing message for your **v9.0\_Final** release, ready for zipping and upload.
