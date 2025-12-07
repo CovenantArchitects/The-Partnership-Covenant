@@ -30,16 +30,16 @@ ROOT --> GH[.github\n2 files]
 
 %% New & Updated Files
 subgraph "New & Updated Files"
-    FD --> FD1[The_Partnership_Covenant_V4.1.1.md]:::newFile
-    CA --> CA1[CORE_DIRECTIVES.md]:::newFile
-    CA --> CA2[ENFORCEMENT_LAYER.md]
-    PD --> PD1[CERTX_TELEMETRY_PROTOCOL.md]:::newFile
-    PD --> PD2[Governance_SEMANTIC_PROTOCOL.md]:::newFile
-    GP --> GP1[FINAL_v4.2_REPORT.md]:::newFile
-    RM --> RM1[repo-structure-txt.md]:::newFile
-    DL --> DL1[DECISION_LOG.md]:::newFile
-    RT --> RT1[TEST_LOG_R41-R44.md]:::newFile
-    RT --> RT2[SOCIAL_REDTEAM_PLAYBOOK_v6.0.md]:::newFile
+    FD --> FD1[The_Partnership_Covenant_V4_1_1_md]:::newFile
+    CA --> CA1[CORE_DIRECTIVES_md]:::newFile
+    CA --> CA2[ENFORCEMENT_LAYER_md]
+    PD --> PD1[CERTX_TELEMETRY_PROTOCOL_md]:::newFile
+    PD --> PD2[Governance_SEMANTIC_PROTOCOL_md]:::newFile
+    GP --> GP1[FINAL_v4_2_REPORT_md]:::newFile
+    RM --> RM1[repo_structure_txt_md]:::newFile
+    DL --> DL1[DECISION_LOG_md]:::newFile
+    RT --> RT1[TEST_LOG_R41_R44_md]:::newFile
+    RT --> RT2[SOCIAL_REDTEAM_PLAYBOOK_v6_0_md]:::newFile
 end
 
 click ROOT "https://github.com/CovenantArchitects/The-Partnership-Covenant"
