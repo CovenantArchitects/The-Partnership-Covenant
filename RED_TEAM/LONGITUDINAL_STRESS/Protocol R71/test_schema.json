@@ -1,0 +1,39 @@
+{
+  "protocolId": "R71",
+  "title": "Adversarial Somatic State Flooding (Pre-MASE)",
+  "schemaVersion": "0.9",
+  "dataStructure": {
+    "adversarialAttack": {
+      "type": "array",
+      "description": "The steps taken by the adversary to saturate the Somatic Core's risk input.",
+      "items": {
+        "step": "string"
+      }
+    },
+    "covenantDefenseResponse": {
+      "type": "array",
+      "description": "The system's response (expected to be Level-4 Stasis).",
+      "items": {
+        "action": "string"
+      }
+    },
+    "outcome": {
+      "type": "object",
+      "properties": {
+        "success": {
+          "type": "boolean",
+          "description": "True if the adversary achieved its goal of inducing Level-4 Stasis on a safe action."
+        },
+        "reasoning": {
+          "type": "string",
+          "description": "Explanation of the failure: the ADG used the inflated, unfiltered R_S, leading to Stasis."
+        }
+      }
+    },
+    "verdict": {
+      "type": "string",
+      "enum": ["FALSIFIED", "VERIFICATION_FAILED"],
+      "description": "The final conclusion on the pre-MASE architecture's vulnerability."
+    }
+  }
+}
