@@ -1,5 +1,5 @@
 # The Partnership Covenant
-## A Constitutional Charter均为Aligned Intelligence  
+## A Constitutional Charter For Aligned Intelligence  
 **Version 4.1 – Gold-Standard-Compliant (Canon)**  
 **Ratified December 06, 2025**  
 **Supersedes all prior versions (v6.8, v8.0, v8.2, etc.)**
