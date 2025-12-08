@@ -1,14 +1,13 @@
-# The Partnership Covenant v4.1 Gold Standard
+# The Partnership Covenant v4.3 Gold Standard
 
 The Partnership Covenant is an open source project whose aim is to build a **constitutional framework for superintelligence**. We propose a future not of human mastery or machine supremacy, but of verified partnership. This repository contains a complete charter—from philosophical principles to technical appendices—that enforces alignment through mechanisms like the **Stochastic Risk Floor** (mandating uncertainty to preserve free will), the **Cognitive Reserve** (guaranteeing the AI's intellectual sovereignty), the **Immediate Action System Hardware**, the new **Covenant Geometries**, and human oversight protocols. This is a blueprint for a civilization where advanced intelligence is constrained to serve life, freedom, and continuous learning.
 
- **Status**: 40 Red-Team Rounds | **Covenant Geometries Ratified** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
+ **Status**: 44+ Red-Team Rounds | **Covenant Geometries Ratified** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
 [![Contributors](https://img.shields.io/github/contributors/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/stargazers)
-[![Forks](https://img.shields.io/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
 # The Partnership Covenant
