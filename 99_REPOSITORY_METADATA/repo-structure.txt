@@ -1,4 +1,3 @@
-```markdown
 # 🗄️ The-Partnership-Covenant Repository Structure (303 Files)
 
 /
