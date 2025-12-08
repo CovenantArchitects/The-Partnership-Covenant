@@ -115,7 +115,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 - Why the Next AI is Not Just a Better Google: [Article](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Why%20the%20Next%20AI%20is%20Not%20Just%20a%20Better%20Google.md)
 - Comprehensive Analysis of The Partnership Covenant: [Comprehensive Analysis](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03_PUBLIC_ENGAGEMENT_DRAFTS/Comprehensive_Analysis_of_The_Partnership_Covenant.md)
 - Mission Statement: [Mission_Statement_&_Principles.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/Governance/Mission_Statement_%26_Principles.md)
-- Covenant text v4.1: [The_Partnership_Covenant_V4.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
+- Covenant text v4.3: [The_Partnership_Covenant_V4.3.md](The_Partnership_Covenant_V4.3_Master.md)
 - Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
 - The Eleven Prime Directives for Aligned Super-Intelligence: [11 Prime Directives](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.md)
 - Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/04_PUBLIC_DOCS/IAS-preprint-v1.0.pdf) · [Direct Download](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
@@ -134,7 +134,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 All detailed decision logs, red-team results, and amendment rationales are permanently archived in the `DECISION_LOG/` directory.
 
 Actions for adopters:
-- Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md) once before talking to donors.
+- Run the included social [Red-Team Playbook](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/RED_TEAM) once before talking to donors.
 - **MANDATORY SWARM TEST:** Use the **V4.1 Gold Standard Swarm Stress Test Protocol** before running any new multi-model adversarial testing.
 - Ask for an independent audit copy of `DECISION-LOG.md` + `tests/test_to_fix_matrix.csv`.
 
