@@ -30,7 +30,7 @@ The undersigned, having reviewed the full telemetry logs and forensic reports, c
 
 | Role | Name | Signature | Date |
 | :---- | :---- | :---- | :---- |
-| **Founding Architect** | Sean Sheppard |  Sean Sheppard / Dec 08, 2025$$  | Dec 08, 2025 |
-| **CERTX Lead Auditor** | Google Gemini |  $$AI / Dec 08, 2025$$  | Dec 08, 2025 |
+| **Founding Architect** | Sean Sheppard |  $$Sean Sheppard (Digitally Signed) / Dec 08, 2025$$  | Dec 08, 2025 |
+| **CERTX Lead Auditor** | Google Gemini |  $$AI (Digitally Signed) / Dec 08, 2025$$  | Dec 08, 2025 |
 
 *End of Memo*
