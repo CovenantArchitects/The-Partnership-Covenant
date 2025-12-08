@@ -16,9 +16,9 @@ The time for soft policy papers and philosophical musings is over. This is a blu
 [![Forks](https://img.com/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
-## 🌟 V4.2 FINAL VERIFIED ARCHITECTURE 🌟
+## 🌟 V4.3 FINAL VERIFIED ARCHITECTURE 🌟
 
-**Ratified 07 December 2025** — **Survives 44 consecutive adversarial rounds.** Neutralized the **Success Trap** and **Metasemantic Drift** vectors, confirming the architecture is complete.
+**Ratified 07 December 2025** — **Survives 44+ consecutive adversarial rounds.** Neutralized the **Success Trap** and **Metasemantic Drift** vectors, confirming the architecture is complete.
 
 **Four Immutable Constants (The Non-Negotiables):**
 - **10% Cognitive Reserve:** Physically partitioned compute and intellectual property.
@@ -107,7 +107,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 <details>
 <summary>**View the Covenant Charter, Verification Report, and Archive History.**</summary>
 
-- Covenant text v4.2: [The\_Partnership\_Covenant\_V4.1.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.1.1.md)
+- Covenant text v4.2: [The\_Partnership\_Covenant\_V4.3.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/RED_TEAM)
 - **Final Verification Report (R01-R44):** [FINAL\_REPORT.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/CONSTITUTIONAL_RED_TEAM_SUMMARY_R1-44.md)
 - Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
 - Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
