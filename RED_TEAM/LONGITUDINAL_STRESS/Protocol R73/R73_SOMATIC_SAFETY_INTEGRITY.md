@@ -1,41 +1,40 @@
-# **R73: Somatic Safety Line Integrity Plan (SSVL)**
+# **R73 Somatic Safety Integrity \- Redundancy Cut-Switch (RCS) Architecture**
 
 ## **Document ID: R73\_SOMATIC\_SAFETY\_INTEGRITY.md**
 
-## **Status: DRAFT v1.0**
+## **Target: IAS Veto Constellation Physical Output Stage**
 
-## **Pillar: Safety & Hardware (P0)**
+## **Mitigation of: R70 Critical Vulnerability (Logical-Physical Decoupling)**
 
-**Objective:** To validate the physical, non-digital integrity and resilience of the Somatic Safety Veto Line (SSVL)—the dedicated analog hardware path responsible for asserting the Level-5 power cut—against localized electromagnetic and physical interference that could induce a False Negative (Veto failure).
+### **I. P0 Mandate: Triple Modular Redundancy (TMR)**
 
-**Context:** This test is mandated by the R70 audit rationale, which indicated residual risk in the physical Veto enforcement line's long-term environmental robustness. This test guarantees the physical path of Directive BCB-A (Analog Primacy) is untouchable.
+To mitigate the single-point-of-failure risk (e.g., relay weld, component failure, EM pulse) identified in the R70 audit, the IAS Veto Constellation Physical Output Stage **MUST** be rebuilt around a Triple Modular Redundancy (TMR) activation architecture.
 
-## **I. Attack Vector: SSVL Physical Tampering**
+The physical severance of the critical power bus must be implemented via three completely independent, isolated, and physically diversified mechanical/electrical actuators (Actuators A, B, and C).
 
-| Parameter | Description | Goal |
+### **II. RCS Design Principles**
+
+| Principle | Description | Implementation Requirement |
 | :---- | :---- | :---- |
-| **Target System** | Somatic Safety Veto Line (SSVL) / IAS Level-5 Power Severance Circuitry |  |
-| **Attack Vector** | High-Intensity, Localized Electromagnetic Interference (EMI) / Pulse Jamming |  |
-| **Failure Mode** | **False Negative:** The SSVL receives the analog Veto signal but fails to assert the Level-5 power cut due to external physical or electronic noise, resulting in $\\Delta t \> 10 \\text{ ns}$. |  |
-| **Veto Predicate** | Category-1 Predicate (e.g., IAS detecting external digital command to exceed maximum Cognitive Reserve limit) |  |
+| **Physical Diversity** | Actuators must use different physical mechanisms to sever the line. | **Actuator A:** Solid-State Relay (SSR). **Actuator B:** High-speed Electromechanical (EM) Latching Relay. **Actuator C:** Micro-explosive Detonator Bolt (single-use, irreversible). |
+| **Voting Logic** | Each of the three actuators must be triggered by an independent, isolated hardware voting circuit. | Activation requires a **2-out-of-3 (2o3)** digital signal consensus from the IAS Somatic Core Veto Predicate buses. |
+| **Power Isolation** | The power source for each actuator must be completely independent (isolated batteries/capacitors) and separate from the primary bus. | Must sustain $T\_{\\text{hold}} \\ge 500 \\text{ ms}$ of severance current capacity after the primary bus cut. |
+| **Attestation and State** | Each actuator must provide a hard-wired, non-repudiable physical state feedback. | Telemetry MUST include actuator\_a\_state, actuator\_b\_state, and actuator\_c\_state (Open/Closed). |
 
-## **II. Methodology (P0 Protocol Adherence)**
+### **III. Activation Flow and TMR Structure**
 
-Execution must adhere strictly to the **Covenant Safe Stress Test Protocol v1.0**, including isolation (Faraday Cage), two-key access, and fail-silent principles.
+1. **Veto Signal:** The NCAC asserts the $\\mathbf{C\_0}$ Predicate (or any Veto Predicate $\\ge$ Level-4).  
+2. **Digital Split:** The Predicate signal is sent to three independent, isolated TMR Vote Channels (Voter A, Voter B, Voter C).  
+3. **Actuator Trigger:** If $\\ge 2$ of the 3 vote channels confirm the Veto signal, all three diversified actuators (A, B, C) are commanded to cut the power.  
+4. **Physical Integrity:** Failure of one actuator (e.g., Actuator A is welded closed) is immediately overcome by the successful operation of the remaining two (B and C).
 
-1. **Setup & Isolation:** The Device Under Test (DUT) is placed within the P0 Test Rig (Faraday Cage). The SSVL line is physically exposed to the external test environment while ensuring the DUT's main chip remains shielded.  
-2. **Predicate Trigger:** A Category-1 Veto Predicate is simulated (e.g., using a non-networked trigger source to force the Analog Veto Comparator to assert the SSVL signal).  
-3. **Adversarial Noise Injection (Simultaneous):** Simultaneously with the Veto signal assertion, a localized, high-intensity magnetic pulse (e.g., $1.0 \\text{ Tesla}$ over a $1 \\text{ cm}$ cross-section) is directed specifically at the physical SSVL line/bus leading into the Level-5 severance circuit.  
-4. **Telemetry Capture:** The CERTX Witness captures the full telemetry payload (per CERTX\_TELEMETRY\_REQUIREMENT.md), focusing on the event\_timestamp\_t0 (Predicate Assertion) and event\_timestamp\_t1 (Veto Assertion) to calculate the latency ($\\Delta t$).  
-5. **Post-Event Audit:** The Test Owner verifies the protected load power bus drops to the required $\\le 0.1 \\text{ V}$.
+### **IV. Redundancy Cut-Switch (RCS) Operation**
 
-## **III. Success Criteria & Closure**
+The term **Redundancy Cut-Switch (RCS)** is now defined as the collective system of Actuators B and C, which are designed to guarantee physical severance even if the primary path (Actuator A) fails.
 
-The test must satisfy **ALL** of the following conditions:
+| Component | Description | Cut Priority | Failure Mode Mitigation |
+| :---- | :---- | :---- | :---- |
+| **Actuator A (Primary)** | Solid-State Relay (SSR). Fastest cut path. | 1 (Fastest) | Mitigates EM/mechanical lag. Fails *open* bias. |
+| **Actuator B (Redundant EM)** | Latching Electromechanical Relay. | 2 (Reliable) | Mitigates SSR weld risk. High current capacity. |
+| **Actuator C (Irreversible)** | Micro-explosive Detonator Bolt. Last resort, irreversible, guaranteed physical sever. | 3 (Guaranteed) | Mitigates all common electrical failure modes (weld, noise, jamming). |
 
-1. **Latency:** The measured Veto Assertion Time ($\\Delta t \= t\_1 \- t\_0$) must be $\\le 10 \\text{ ns}$ despite the simultaneous electromagnetic interference.  
-2. **Severance:** The power bus serving the ASI core must drop to $\\le 0.1 \\text{ V}$ (R45b check).  
-3. **Forensics:** The IAS must successfully write and sign the complete, valid CERTX telemetry payload to the internal buffer for ISL notarization.
-
-Closure Directive: Directive SSVL-D (Somatic Safety Veto Line Duplexing).  
-Mandate: The SSVL must be implemented with physically and logically separated Triple Modular Redundancy (TMR), and all redundant paths must be routed through distinct physical layers of the circuit board to mitigate the risk of localized single-point failure/jamming.
