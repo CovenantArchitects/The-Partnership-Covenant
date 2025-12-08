@@ -7,13 +7,12 @@ We have built and **verified** the first mathematically consistent, hardware-enf
 
 The time for soft policy papers and philosophical musings is over. This is a blueprint for survival.
 
- **Status**: **44 Red-Team Rounds Complete** | **FINAL ARCHITECTURE VERIFIED** | **V4.3 GOLD STANDARD** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
+ **Status**: **44+ Red-Team Rounds Complete** | **FINAL ARCHITECTURE VERIFIED** | **V4.3 GOLD STANDARD** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
 [![Contributors](https://img.shields.io/github/contributors/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/stargazers)
-[![Forks](https://img.com/github/forks/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/network/members)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
 ## 🌟 V4.3 FINAL VERIFIED ARCHITECTURE 🌟
@@ -107,7 +106,7 @@ Every dollar funds the open-hardware Immediate Action System (IAS) — the 10 ns
 <details>
 <summary>**View the Covenant Charter, Verification Report, and Archive History.**</summary>
 
-- Covenant text v4.2: [The\_Partnership\_Covenant\_V4.3.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/RED_TEAM)
+- Covenant text v4.2: [The\_Partnership\_Covenant\_V4.3.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01_FINAL_DELIVERABLES/The_Partnership_Covenant_V4.3_Master.md)
 - **Final Verification Report (R01-R44):** [FINAL\_REPORT.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/RED_TEAM/CONSTITUTIONAL_RED_TEAM_SUMMARY_R1-44.md)
 - Constitutional Charter for Aligned Intelligence: [Constitutional Charter](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/02_CORE_ARCHITECTURE_AND_APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
 - Immediate Action System preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
