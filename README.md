@@ -7,7 +7,7 @@ We have built and **verified** the first mathematically consistent, hardware-enf
 
 The time for soft policy papers and philosophical musings is over. This is a blueprint for survival.
 
- **Status**: **44 Red-Team Rounds Complete** | **FINAL ARCHITECTURE VERIFIED** | **V4.2 GOLD STANDARD** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
+ **Status**: **44 Red-Team Rounds Complete** | **FINAL ARCHITECTURE VERIFIED** | **V4.3 GOLD STANDARD** | Open Hardware (CERN-OHL-S) | Ratified Directives | TELEMETRY HARDENED
 
 [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S_v2-blue.svg)](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 [![Friendly Governance Docs Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
