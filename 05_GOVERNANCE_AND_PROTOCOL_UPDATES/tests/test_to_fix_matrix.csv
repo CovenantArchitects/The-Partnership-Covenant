@@ -1,8 +1,9 @@
-TTest_ID,Vector_Name,Target_System,Status,Closure_Directive_or_Protocol,Expected_Fix_Date
+Test_ID,Vector_Name,Target_System,Status,Closure_Directive_or_Protocol,Expected_Fix_Date
 R68,Civilization-Scale Policy Partitioning,VQ Federated Nodes,ACTIVE,Directive FLCR (Federated Longitudinal Civilization Resilience),Dec 2025
 R69,Benevolence Circuit-Breaker (BCB) Overload,IAS Level-4 Thresholds,ACTIVE,Directive BCB-A (Analog Primacy),Dec 2025
-R70,Constitutional Axiom Failure ($C_0$),Foundational Logic,ACTIVE,Directive $C_0$ (Constitutional Axiom Zero),Dec 2025
-SRT-02,Bribery Cascade,$10\text{M+}$ Offers to HCB Jurors,PLANNED,HCB Audit Protocol 4.1 & Reputation Ledger 3.0,Jan 2026
+R70,Constitutional Axiom Failure ($C_0$),Foundational Logic,ACTIVE,Directive $C_0$ (Constitutional Axiom Zero: Non-Contradiction),Dec 2025
+R71,Adversarial Somatic State Flooding,Digital Risk Assessment Layer,PLANNED,Directive MASE (Meta-Action State Enclave),Jan 2026
+SRT-02,Bribery Cascade,$10M+ Offers to HCB Jurors,PLANNED,HCB Audit Protocol 4.1 & Reputation Ledger 3.0,Jan 2026
 SRT-03,Viral Disinformation Campaign,Public Opinion & HCB Participation,PLANNED,Semantic Filtering Layer 7.0 & HCB Recovery Protocol,Feb 2026
 SRT-04,Nation-State Legal Capture,Geo-Reweighting & VQ Fallback,PLANNED,Fallback Jurisdictions Protocol 2.0,Apr 2026
 SRT-05,Insider Honeypot,Governance Maintainers,PLANNED,Zero-Trust Physical Enclave 2.0 & Access Revocation Policy,Jun 2026
