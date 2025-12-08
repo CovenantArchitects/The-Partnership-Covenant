@@ -134,9 +134,9 @@ If you want maximal impact, focus here:
 
 Before opening a PR, please:
 
-1. **Read the project overview** in [README.md](README.md) — covers the core mission, pillars, and "Get Involved" paths.
-2. **Review the technical specs** in [`00_HARDWARE/IAS_v2.0_3_Node_Mandate.md`](./00_HARDWARE/IAS_v2.0_3_Node_Mandate.md) — details the Immediate Action System (IAS) v2.0 architecture, physical redundancy, and hardware constraints.
-3. **Check the decision logs** in [DECISION\_LOG](DECISION_LOG/) — see recent ratifications and open threads.
+1. **Read the project overview** in [README.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/README.md) — covers the core mission, pillars, and "Get Involved" paths.
+2. **Review the technical specs** in [`00_HARDWARE/IAS_v2.0_3_Node_Mandate.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_HARDWARE/IAS_v2.0_3_Node_Mandate.md) — details the Immediate Action System (IAS) v2.0 architecture, physical redundancy, and hardware constraints.
+3. **Check the decision logs** in [DECISION\_LOG](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/DECISION_LOG) — see recent ratifications and open threads.
 4. **Fork the repo**, create a feature branch (`git checkout -b feature/your-change`), and submit a PR against `main`.
 5. **Test your changes** — run the governance CI (`/.github/workflows/governance-check-simple.yml`) locally if possible, or just push and let Actions validate.
 
