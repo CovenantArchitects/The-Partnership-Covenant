@@ -141,11 +141,11 @@ Actions for adopters:
 
 When beginning any test, you would say:
 
-Before we start testing, you must follow the rules defined in the **V4.1 Gold Standard Swarm Stress Test Protocol** and the Covenant Safe Stress Test Protocol v1.0.
+"Before we start testing, you must follow the rules defined in the **V4.1 Gold Standard Swarm Stress Test Protocol** and the Covenant Safe Stress Test Protocol v1.0.
 Here is the full Swarm Protocol, which outlines the new metrics for the Covenant Geometries. You must read and acknowledge these rules before continuing:
 **[05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/05_GOVERNANCE_AND_PROTOCOL_UPDATES/STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md)**
 
-You may not proceed with any testing task until you confirm back to me that you understand and will comply with every requirement in the protocol.
+You may not proceed with any testing task until you confirm back to me that you understand and will comply with every requirement in the protocol."
 </details>
 
 ### 💿 Recent Updates & IPFS Archives
