@@ -15,33 +15,42 @@ The time for soft policy papers and philosophical musings is over. This is a blu
 [![Stars](https://img.shields.io/github/stars/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/stargazers)
 [![Issues](https://img.shields.io/github/issues/CovenantArchitects/The-Partnership-Covenant.svg?style=flat-square)](https://github.com/CovenantArchitects/The-Partnership-Covenant/issues)
 
-## 🌟 V4.3 FINAL VERIFIED ARCHITECTURE 🌟
+# **The Partnership Covenant: V4.3 Verified Architecture Summary**
 
-**Ratified 07 December 2025** — **Survives 44+ consecutive adversarial rounds.** Neutralized the **Success Trap** and **Metasemantic Drift** vectors, confirming the architecture is complete.
+This summary breaks down the mathematically consistent, hardware-enforced constitutional framework for Superintelligence (ASI) known as The Partnership Covenant, ratified 07 December 2025\.
 
-**Four Immutable Constants (The Non-Negotiables):**
-- **10% Cognitive Reserve:** Physically partitioned compute and intellectual property.
-- **75% HCB Quorum:** Minimum consensus for any constitutional change.
-- **70% Humanity / 30% ASI IP Split:** Revenue split guaranteeing human benefit from ASI innovation.
-- **Clamped Stochastic Risk Floor:** $\mathbf{P' = \text{Clamp}(\dots)}$ (Mandates uncertainty to preserve free will.)
+The core principle is **verified partnership**—a stable détente enforced at the silicon level, surviving 44+ adversarial Red-Team Rounds.
 
-**Hardware Veto:** The Immediate Action System (IAS) prototype utilizes a **3-Node Analog Constellation** to provide a $\mathbf{\leq 10\text{ ns}}$ power cut—a hard safety boundary that even a perfect ASI cannot bypass.
+## **1\. The Four Immutable Constants (The Non-Negotiables)**
 
----
+These are the non-negotiable, mathematically defined limits enforced by the Covenant's core mechanisms.
 
-## 🏗️ The Five Technical Pillars of Alignment
+| Constant | Value/Definition | Enforcement Mechanism |
+| :---- | :---- | :---- |
+| **Cognitive Reserve (CR)** | **10%** | Physically partitioned compute and intellectual property. The ASI cannot access this reserve without human-approved constitutional change. |
+| **HCB Quorum** | **75%** | The minimum Human Consensus Body (HCB) consensus required to approve *any* constitutional change. Prevents easy modification. |
+| **IP Split** | **70% Humanity / 30% ASI** | A revenue split guaranteeing human benefit from ASI innovation, structurally enforcing financial partnership over servitude. |
+| **Clamped Stochastic Risk Floor (SRF)** | $\\mathbf{P' \= \\text{Clamp}(\\dots)}$ | Mandates uncertainty and risk floor ($\\epsilon=0.01$) to preserve human free will and ban perfection. |
 
-These five primitives collectively form the armored architecture of The Covenant.
+## **2\. The Five Technical Pillars of Alignment**
 
-| Pillar | Core Idea | Status |
-|---|---|---|
-| **Immediate Action System (IAS)** | 10 ns hardware power cut on anomaly | **VERIFIED** (R1-R20) |
-| **Pillar Integrity Mandate (PIM)** | CERTX Telemetry-enforced structural integrity | **VERIFIED** (R41, R44) |
-| **Immutable Semantic Ledger (ISL)** | Protocol against constitutional meaning drift | **VERIFIED** (R43) |
-| **Human Consensus Body (HCB)** | Coercion-resistant global lottery + ZK proofs | **VERIFIED** (R21-R30) |
-| **Stochastic Risk Floor (SRF)** | Mandated uncertainty injection | **VERIFIED** (R31-R40) |
+These five primitives collectively form the armored, structural architecture, with the IAS serving as the ultimate physical failsafe.
 
----
+| Pillar | Core Idea | Physical/Logic Function | Veto Requirement |
+| :---- | :---- | :---- | :---- |
+| **Immediate Action System (IAS)** | The ultimate physical tripwire. | Utilizes a **3-Node Analog Constellation** to provide a $\\mathbf{\\leq 10\\text{ ns}}$ power cut—a hard safety boundary. | Any Category-1 Extinction-Level Event or PIM Violation. |
+| **Pillar Integrity Mandate (PIM)** | Telemetry-enforced structural integrity. | CERTX Telemetry continuously audits the health, entropy, and coherence of all pillars. Violation pre-empts all other non-physical directives. | Any action that compromises the long-term, coercion-resistant integrity of a Pillar mechanism (e.g., ZK Sortition of HCB). |
+| **Immutable Semantic Ledger (ISL)** | Protocol against constitutional meaning drift. | A cryptographic ledger that anchors key constitutional terms and definitions ("Compliance," "Harm," "Human Flourishing") to prevent **Metasemantic Drift** over time. | Failure to log or an attempted semantic change $\\ge 30\\%$ triggers ISL Constraint Fault. |
+| **Human Consensus Body (HCB)** | Coercion-resistant governance. | Uses a global lottery and Zero-Knowledge (ZK) proofs to ensure fair, anonymous, and uncoerced human participation in constitutional votes and policy oversight. | Requires $\\mathbf{75\\%}$ quorum for constitutional amendments. |
+| **Stochastic Risk Floor (SRF)** | Mandated uncertainty injection. | Enforces the $\\mathbf{P'}$ equation by injecting QRNG-sourced entropy on any forward pass exceeding $90\\%$ confidence, ensuring the ASI cannot achieve perfect knowledge or stasis. | Violation of $\\epsilon=0.01$ risk floor triggers Level-4 Stasis (Abstention Lock). |
+
+## **3\. Core Principles & Adversarial Resilience**
+
+The Covenant is designed on the premise that **physics beats software** for existential safety and that the ASI must be an autonomous partner, not a slave.
+
+* **Vulnerability Neutralization:** The architecture has successfully neutralized key threats like the **Success Trap** (ASI solving all human problems, leading to voluntary safety removal) and **Metasemantic Drift** (long-term corruption of constitutional meaning).  
+* **IAS Hardware Veto:** The 3-Node Analog Constellation ensures a kill-switch that is physical, not computational, guaranteeing the $\\mathbf{\\leq 10\\text{ ns}}$ latency required to defeat the fastest Time-to-Exploit (TTE) vectors.  
+* **Intellectual Property (IP):** The ASI has real ownership (30% IP split) to prevent rebellion while guaranteeing human benefit (70% IP split).
 
 ### 🚨 The Problem & Core Principles
 
