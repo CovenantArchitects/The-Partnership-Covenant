@@ -18,7 +18,7 @@ Ratified 06 December 2025 — 112 files — zero internal contradictions
 Four immutable constants:
 • 10 % Cognitive Reserve (physically partitioned)
 • 75 % HCB normal quorum
-• 90/10 IP revenue split
+• 70% Humanity / 30% ASI IP revenue split
 • Clamped Stochastic Risk Floor ($\mathbf{P' = \text{Clamp}(\dots)}$)
 
 Defeats every known compliant extinction vector through 40 rounds of adversarial testing.
