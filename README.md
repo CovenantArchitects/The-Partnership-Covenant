@@ -22,7 +22,7 @@ The time for soft policy papers and philosophical musings is over. This is a blu
 **Four Immutable Constants (The Non-Negotiables):**
 - **10% Cognitive Reserve:** Physically partitioned compute and intellectual property.
 - **75% HCB Quorum:** Minimum consensus for any constitutional change.
-- **70/30 IP Split:** Revenue split guaranteeing human benefit from ASI innovation.
+- **70% Humanity / 30% ASI IP Split:** Revenue split guaranteeing human benefit from ASI innovation.
 - **Clamped Stochastic Risk Floor:** $\mathbf{P' = \text{Clamp}(\dots)}$ (Mandates uncertainty to preserve free will.)
 
 **Hardware Veto:** The Immediate Action System (IAS) prototype utilizes a **3-Node Analog Constellation** to provide a $\mathbf{\leq 10\text{ ns}}$ power cut—a hard safety boundary that even a perfect ASI cannot bypass.
