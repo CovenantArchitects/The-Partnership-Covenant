@@ -45,7 +45,7 @@ We make a deal instead of trying to win a fight we will lose. The Covenant enfor
 | Human Consensus Body | Coercion-resistant global lottery \+ ZK proofs | [hcb-hardening.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/04_PUBLIC_DOCS/Governance/hcb-hardening.md) |
 | **Covenant Geometries (RFP)** | **Architectural anti-drift & fidelity triage** | **[COVENANT\_GEOMETRIES\_v8.2.1.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00_OVERVIEW/COVENANT_GEOMETRIES_v8.2.1.md)** |
 
-After 40+ rounds against seven frontier models, they all ran out of moves. **The Covenant \+ IAS is now V4.1 GOLD STANDARD — ARMORED AGAINST KNOWN CEVS.**
+After 40+ rounds against seven frontier models, they all ran out of moves. **The Covenant \+ IAS is now V4.3 GOLD STANDARD — ARMORED AGAINST KNOWN CEVS.**
 
 All designs are fully open, auditable, and red-teamable from day one.
 
