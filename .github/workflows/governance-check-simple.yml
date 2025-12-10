@@ -46,7 +46,7 @@ jobs:
             "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Technical Steering Committee (TSC) Charter.md"
 
             # Master logs
-           "DECISION_LOG/2025-11-25a.md"   # Final UNKILLABLE ratification
+           "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/99.%20The%20History%20(Metadata%20%26%20Archive)%20%F0%9F%92%BE/LOGS/DECISION_HISTORY/2025-11-25a.md"   # Final UNKILLABLE ratification
           )
 
           missing=0
@@ -85,5 +85,6 @@ jobs:
             echo "Checking links: $f"
             markdown-link-check "$f" --quiet || echo "Possible broken links in $f"
           done
+
 
 
