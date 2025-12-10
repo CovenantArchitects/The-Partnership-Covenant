@@ -26,19 +26,19 @@ jobs:
         run: |
           files=(
             # Core governance protocols
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_INCENTIVES_v5.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/PRIVACY_TRADEOFFS.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/LEGAL_CONSIDERATIONS.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/SOCIAL_REDTEAM_PLAYBOOK.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/UPGRADE_AND_EMERGENCY.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/HCB_Family_Shield_v6.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Covenant_AntiFork_Treaty_v6.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Global_PhaseTransition_Risk_Board_v7.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Verifier_Quorum_v6.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/Directive X Clarification_ The Infrastructural Mandate.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/FINAL_MASTER_PATCH_REPORT.MD"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/ST8_Final_Oversight_Report.md"
-            "05_GOVERNANCE_AND_PROTOCOL_UPDATES/tests/test_to_fix_matrix.csv"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/HCB_INCENTIVES_v5.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/PRIVACY_TRADEOFFS.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/LEGAL_CONSIDERATIONS.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/SOCIAL_REDTEAM_PLAYBOOK.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/UPGRADE_AND_EMERGENCY.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/HCB_Family_Shield_v6.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Covenant_AntiFork_Treaty_v6.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Global_PhaseTransition_Risk_Board_v7.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Verifier_Quorum_v6.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Directive X Clarification_ The Infrastructural Mandate.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/FINAL_MASTER_PATCH_REPORT.MD"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/ST8_Final_Oversight_Report.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/tests/test_to_fix_matrix.csv"
 
             # Public governance
             "04_PUBLIC_DOCS/Governance/hcb-hardening.md"
@@ -85,3 +85,4 @@ jobs:
             echo "Checking links: $f"
             markdown-link-check "$f" --quiet || echo "Possible broken links in $f"
           done
+
