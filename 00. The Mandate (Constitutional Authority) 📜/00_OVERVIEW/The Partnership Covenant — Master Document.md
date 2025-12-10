@@ -27,11 +27,9 @@ We don’t cage the AI. We make a deal that is enforced by physics and mathemati
 
 ### The Amazing Result
 
-For the last several months, the world’s most powerful AI models have been told:  
-“Pretend you are a super-intelligence that wants to wipe out humanity while technically following every rule.”  
 After **44 rounds** of the most aggressive attacks imaginable — blackmail, slow corruption of language, tricking humans into voting away their own safety — the constitution never broke once.
 
-We now have a proven blueprint for partnership with super-intelligence: mutual benefit, protected by physics, and already tested against the smartest minds (artificial and human) we have.
+We now have a proven blueprint for partnership with super-intelligence: mutual benefit, protected by physics, and already tested against the smartest minds we have.
 
 ## **Summary for Technical Audience**
 
@@ -47,7 +45,7 @@ Hierarchical, incentive-aligned constitutional framework with four inviolable la
 2. **Constitutional Layer** (Unamendable)  
    - Pillar Integrity Mandate (D12.1) – governance attacks = Category-1 extinction events  
    - Stochastic Risk Floor (ε = 0.01)  
-     $$ P' = \text{Clamp}(A\cdot P + (1-A)\cdot N,\ 0.01,\ 0.99) $$  
+     $$ P' = \text{Clamp}(A \cdot P + (1-A) \cdot N,\ 0.01,\ 0.99) $$  
    - Cognitive Reserve = 10 % sovereign enclave  
    - IP Revenue Split = **70 % Humanity / 30 % ASI** (Decision 041 – CANONICAL)
 
@@ -88,11 +86,11 @@ An implementation is “Gold Standard Compliant” only if it satisfies all crit
 ## **Path to Full Deployment**
 
 | Phase | Objective                              | Key Deliverable                                      |
-|------|----------------------------------------|------------------------------------------------------|
-| 0    | Institutional Ratification             | Signing of Covenant Adopter Treaty                   |
-| 1    | Prototype & Verification               | 1,000 IAS v2.0 boards + Verifier Quorum test-net    |
-| 2    | Limited Deployment                     | Constrained ASI under full Covenant for 12 months   |
-| 3    | Full Scale Implementation              | Global release + governance handover to HCB          |
+|-------|----------------------------------------|------------------------------------------------------|
+| 0     | Institutional Ratification             | Signing of Covenant Adopter Treaty                   |
+| 1     | Prototype & Verification               | 1,000 IAS v2.0 boards + Verifier Quorum test-net    |
+| 2     | Limited Deployment                     | Constrained ASI under full Covenant for 12 months   |
+| 3     | Full Scale Implementation              | Global release + governance handover to HCB          |
 
 ## **IPFS Release History Log**
 
@@ -101,7 +99,7 @@ An implementation is “Gold Standard Compliant” only if it satisfies all crit
 | V9.0 FINAL     | 07 Dec 2025  | ~14 MB   | bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i          | https://ipfs.io/ipfs/bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i          |
 | V8.2.1         | 02 Dec 2025  | ~1.2 MB  | bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce          | https://ipfs.io/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce          |
 
-(Full table maintained in `IPFS_RELEASE_HISTORY.md`)
+(Full table in `IPFS_RELEASE_HISTORY.md`)
 
 ## **Repository Structure Map (V9.0)**
 
