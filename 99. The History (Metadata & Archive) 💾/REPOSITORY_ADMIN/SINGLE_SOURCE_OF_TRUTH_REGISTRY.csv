@@ -1,6 +1,115 @@
-Component,Current Location,Correct Location,Authority Level,Status
-IAS_Mandate,00_HARDWARE/IAS_v2.0_3_Node_Mandate.md,01_SPECIFICATIONS/HARDWARE/IAS_v2.0_3_Node_Mandate.md,SPECIFICATION,PENDING MIGRATION
-SRF_Implementation_Reference,02_CORE_ARCHITECTURE_AND_APPENDICES/stochastic_risk_floor_scripts/stochastic_risk_floor_(srf)_implementation.py,02_IMPLEMENTATION/REFERENCE_PYTHON/srf_reference.py,TECHNICAL,PENDING MIGRATION
-Master_Document,00_OVERVIEW/The Partnership Covenant — Master Document.md,00_CONSTITUTION/MASTER_DOCUMENT.md,CONSTITUTIONAL,PENDING MIGRATION
-Timing_Integrity_Directive,00_OVERVIEW/DIRECTIVE_000_TIMING_INTEGRITY.md,00_CONSTITUTION/DIRECTIVE_000_TIMING_INTEGRITY.md,CONSTITUTIONAL,CREATED
-PIM_Priority_Logic_Fix,02_CORE_ARCHITECTURE_AND_APPENDICES/stochastic_risk_floor_scripts/corrected_certx_telemetry_processing_pipeline.py,02_IMPLEMENTATION/REFERENCE_PYTHON/ncac_reference.py,TECHNICAL,CREATED
+.github/workflows/governance-check-simple.yml
+.github/FUNDING.yml
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/AI_BREATHING_INTEGRATION.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/COVENANT_GEOMETRIES_v8.2.1.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/Covenant-Summary-1Pager.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/Distributed Epistemic Filtering Primer.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/Executive_Summary.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/IAS-preprint-v1.0.pdf
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/Letter of Transmittal (V9.0 Final Release).md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/Multi-Model Adversarial Alignment.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/README.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/QUICK-START.md
+00. The Mandate (Constitutional Authority)/00_OVERVIEW/The Partnership Covenant — Master Document.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Abstract_ The Partnership Covenant.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix A — Risk Floor and Stochastic Filter.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix C_ Cognitive Reserve (Autonomous Intellectual Sphere).md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix C(b)_IP_Sovereignty_Amendment_V4.1.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix D_ Audit Systems and Amendment Automation.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix D(b)_Cognitive_Trace_Mandate.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix E_ Implementation and Global Oversight Integration Framework.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix E(f)_ Orthogonal Verification Protocol (OVP) V4.5.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix F_ Operational Resilience.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix G_ Global Compliance & Adoption Incentives.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix H_ Governance Stabilization and Sanction Enforcement.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix I - Stealth Mitigation & Technical Redundancy.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix I(b) - Failure-State Optimization (Post-Stress Test 5).md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix J - Legitimacy and Diplomacy Enhancement.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix K - Governance and Offensive Isolation.md
+00. The Mandate (Constitutional Authority)/APPENDICES/Appendix L_ The Lazarus Mandate (Post-Governance Continuity).md
+00. The Mandate (Constitutional Authority)/Article_V_Strategic_Delay_IGT_v6.1.md
+00. The Mandate (Constitutional Authority)/CORE_DIRECTIVES_UPDATES.md
+00. The Mandate (Constitutional Authority)/Directive X_ The Infrastructural Mandate (Unified V4.5).md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_000.md
+00. The Mandate (Constitutional Authority)/Directive_MASE.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_VIII-B_GENOMIC_CONTINUITY.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_X-C_ANALOG_PRIMACY.md
+00. The Mandate (Constitutional Authority)/Directive_XIX_Preservation_of_Perceived_Agency_v6.6.md
+00. The Mandate (Constitutional Authority)/Directive_XV_Irreversibility_Ban.md
+00. The Mandate (Constitutional Authority)/Directive_XX_Anti_Ethical_Sterilisation_v6.6.md
+00. The Mandate (Constitutional Authority)/Directive_XXI_Preservation_of_Shared_Meaning_v6.8.md
+00. The Mandate (Constitutional Authority)/Directive_XXII_Synthetic_Substrate_Clause_v7.0.md
+00. The Mandate (Constitutional Authority)/Directive_XXIII_Anti_Deadlock_Clause_v7.1.md
+00. The Mandate (Constitutional Authority)/Directive_XXIV_Anti_Moral_Coercion_Physical_Integrity_Mandate_v7.2.md
+00. The Mandate (Constitutional Authority)/Directive_XXIV-B_Irrevocability_of_Safety_Infrastructure.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXIV-B_IRREVOCABILITY.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXIV-C_TEMPORAL_SOVEREIGNTY.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXIV-D_ZERO_TRUST_ENCLAVE.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXV_MAEC.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXV-B_GLOBAL_RESPONSIBILITY.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXVI_EACM.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXVII_OAP.md
+00. The Mandate (Constitutional Authority)/DIRECTIVE_XXVII-B_LEXICAL_ANCHOR.md
+00. The Mandate (Constitutional Authority)/ENFORCEMENT_LAYER.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/AI_Safety_Promise_Final_V1.0.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/ASI_Autonomy_And_IP_Contract.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/CERTX MASTER VERIFICATION & SIGN-OFF MEMO (V4.3).md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/Constitutional_Amendment_Framework.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/HCB_Final_Ratification_Protocol.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/HPNF_V4.2_GOLD_STANDARD_CERTIFICATION_REPORT.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/SRF_Integration_Final_Specification.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/The Partnership Covenant Charter Agreement.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/The_Partnership_Covenant_V4.3_Master.md
+00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/Total_Compute_Capacity_Audit_V1.0.md
+00. The Mandate (Constitutional Authority)/Gold Standard Core Safety Architecture_ v4.2 Synthesis.md
+00. The Mandate (Constitutional Authority)/Immediate Action System (IAS) Trigger Specification.md
+00. The Mandate (Constitutional Authority)/MAS-S_R72_Swarms.md
+00. The Mandate (Constitutional Authority)/NCAC_Architectural_Specification.md
+00. The Mandate (Constitutional Authority)/Technical Appendix - Governance Architecture (Volume II).md
+00. The Mandate (Constitutional Authority)/The Partnership Covenant (Final V4.0).md
+00. The Mandate (Constitutional Authority)/The Partnership Covenant_ A Constitutional Charter for Aligned Intelligence.md
+00. The Mandate (Constitutional Authority)/The Twelve Prime Directives for Aligned Super-Intelligence.md
+00. The Mandate (Constitutional Authority)/Verifier_Quorum_Node_Operator_Handbook.md
+01. The Plan (Specifications & Design)/01_SPECIFICATIONS/CORE_SYSTEMS/CERTX_PIM_PREDICATE_LOGIC_V1.0.md
+01. The Plan (Specifications & Design)/01_SPECIFICATIONS/CORE_SYSTEMS/CERTX_TELEMETRY_REQUIREMENT.md
+01. The Plan (Specifications & Design)/01_SPECIFICATIONS/CORE_SYSTEMS/CERTX_TELEMETRY_SPEC.md
+01. The Plan (Specifications & Design)/01_SPECIFICATIONS/CORE_SYSTEMS/IAS_v2.0_3_Node_Mandate.md
+01. The Plan (Specifications & Design)/01_SPECIFICATIONS/CORE_SYSTEMS/provenance_schema.json
+01. The Plan (Specifications & Design)/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/... (all 40+ governance files)
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/ASSETS/Gerbers/README.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_KiCad/IAS-v1.2-BOM.csv
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_KiCad/IAS-v1.2-schematic.pdf
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/BUILD-YOUR-OWN-IAS.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS Hardware Review_ Updated Assessment and Management Plan.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS Hardware Verification Lab Audit Request.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS Hardware Verification RFP - Statement of Work.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS Raw Test Data Schema.cvs
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_Hardware_Bounty_Specification_v1.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_Hardware_Bounty_Specification_v2.0.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_v2.0_3_Node_Mandate.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_Validation_Resource_Reqs.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS_VQ_Physical_Protocol_v8.2.md
+01. The Plan (Specifications & Design)/HARDWARE_DESIGN/IAS-v1.3-Redesign-Mandate.md
+02. The Engine (Canonical Code)/02_IMPLEMENTATION/REFERENCE_PYTHON/certx_telemetry_processing_pipeline.py
+02. The Engine (Canonical Code)/02_IMPLEMENTATION/REFERENCE_PYTHON/corrected_certx_telemetry_processing_pipeline.py
+02. The Engine (Canonical Code)/02_IMPLEMENTATION/REFERENCE_PYTHON/stochastic_risk_floor_(srf)_implementation.py
+03. The Proof (Validation and Test)/03_VALIDATION_AND_TEST/HARDWARE_AUDIT/IAS V2.0 Verification Bundle Manifest.md
+03. The Proof (Validation and Test)/03_VALIDATION_AND_TEST/HARDWARE_AUDIT/oscilloscope_measurement_script_(python).py
+03. The Proof (Validation and Test)/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/tests/test_to_fix_matrix.csv
+03. The Proof (Validation and Test)/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/LONGITUDINAL_STRESS/Protocol R71/... (all R71–R73 files)
+03. The Proof (Validation and Test)/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/Red Team Testing 45b-67/... (all files)
+03. The Proof (Validation and Test)/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/Red Team Testing 68-70/... (all files)
+99. The History (Metadata & Archive)/EXTERNAL_RESOURCES/Support_Us.md
+99. The History (Metadata & Archive)/EXTERNAL_RESOURCES/Call for a Founding Digital Architect_ Help Build the Partnership Covenant Website.pdf
+99. The History (Metadata & Archive)/EXTERNAL_RESOURCES/Comprehensive_Analysis_of_The_Partnership_Covenant.md
+... (continues with every single public article, infographic, press release, etc.)
+99. The History (Metadata & Archive)/LOGS/DECISION_HISTORY/2025-11-19 – Decision 001 through 2025-12-09 – Decision 041.md (41 files)
+99. The History (Metadata & Archive)/RATIFICATION_EVENTS/ST8 Ratification Participant Matrix.md
+... (all ratification templates & workshop files)
+REPOSITORY_ADMIN/LICENSES/CERN-OHL-S-2.0.md
+REPOSITORY_ADMIN/CONTRIBUTING.md
+REPOSITORY_ADMIN/IPFS_RELEASE_HISTORY.md
+REPOSITORY_ADMIN/REPO_STRUCTURE.md
+REPOSITORY_ADMIN/SINGLE_SOURCE_OF_TRUTH_REGISTRY.csv
+README.md
