@@ -72,7 +72,7 @@ jobs:
 
       - name: Lint all governance Markdown files
         run: |
-          md_files=$(find 03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS DECISION_LOG -name "*.md" 2>/dev/null || echo "")
+          md_files=$(find 01.%20The%20Plan%20(Specifications%20%26%20Design)%20🛠%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance DECISION_LOG -name "*.md" 2>/dev/null || echo "")
           if [ -n "$md_files" ]; then
             echo "Linting $(echo "$md_files" | wc -l) Markdown files..."
             echo "$md_files" | xargs markdownlint || echo "Markdown lint issues found (non-blocking)"
@@ -80,11 +80,12 @@ jobs:
 
       - name: Check for broken links (friendly)
         run: |
-          md_files=$(find 03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS DECISION_LOG -name "*.md" 2>/dev/null || echo "")
+          md_files=$(find 01.%20The%20Plan%20(Specifications%20%26%20Design)%20🛠%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance DECISION_LOG -name "*.md" 2>/dev/null || echo "")
           for f in $md_files; do
             echo "Checking links: $f"
             markdown-link-check "$f" --quiet || echo "Possible broken links in $f"
           done
+
 
 
 
