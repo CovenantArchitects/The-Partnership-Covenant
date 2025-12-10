@@ -7,8 +7,6 @@ This directory houses the **constitutional authority** of The Partnership Covena
 
 The Mandate adheres to **Directive_000.md** (the root bootstrap) and survives under **75% HCB Quorum** approval only. All changes require multi-model verification via CERTX Telemetry.
 
-[![Governance Integrity Check](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml/badge.svg)](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
-
 ## 📋 Directory Structure Overview
 
 | Subdirectory | Files | Purpose |
@@ -186,3 +184,4 @@ CID: `bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i`
 Gateway: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce) · CID: `bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce`
 
 </details>
+
