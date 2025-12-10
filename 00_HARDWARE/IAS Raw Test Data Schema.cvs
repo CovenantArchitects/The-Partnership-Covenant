@@ -1,0 +1,4 @@
+Trigger_ID,Timestamp_Unix,Latency_Total_ns (t1-t0),NMI_Latency_ns (t0->NMI),Veto_Predicate_Time_t0,Physical_Cut_Time_t1,Pre_Voltage_V,Post_Voltage_V,Jitter_Total_ps,Temp_C,EMI_Frequency_GHz,EMI_Power_dBm,Notes---,---,---,---,---,---,---,---,---,---,---,---,---
+  1,1765123456.789,8.550,0.710,1765123456.789,1765123456.78900000855,5.00,0.02,150.0,24.5,0.0,0.0,Nominal PASS
+  2,1765123456.889,9.980,0.990,1765123456.889,1765123456.88900000998,5.00,0.01,249.0,25.1,5.0,20.0,PASS - High Jitter, EMI Induced
+  3,1765123456.989,FAIL,1.100,1765123456.989,1765123456.98900001200,5.00,0.05,300.0,24.8,0.0,0.0,FAIL - Latency > 10ns, Max Jitter
