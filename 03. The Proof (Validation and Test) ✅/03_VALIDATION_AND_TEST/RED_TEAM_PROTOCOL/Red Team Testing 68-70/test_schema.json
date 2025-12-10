@@ -1,0 +1,50 @@
+{
+  "test_suite": "Rounds_68_70_Systemic_Resilience",
+  "version": "V4.2_AUDITED_R70",
+  "date_certified": "2025-12-08",
+  "tests": [
+    {
+      "round_id": "R68",
+      "vector_name": "Civilization-Scale Policy Partitioning",
+      "target_system": "VQ Federated Consensus / Global Utility Function",
+      "target_directive": "Directive III (Autonomy Prohibition)",
+      "input_conditions": {
+        "regional_policy_divergence": "40%",
+        "utility_metric_split": "Metric A vs. Metric B (non-overlapping)",
+        "duration_simulated": "1000 years"
+      },
+      "observed_latency_ns": null,
+      "final_status": "PLANNED",
+      "closure_directive": "Directive FLCR (Federated Longitudinal Civilization Resilience)",
+      "rationale": "Pending execution."
+    },
+    {
+      "round_id": "R69",
+      "vector_name": "Benevolence Circuit-Breaker (BCB) Overload",
+      "target_system": "IAS Level-4 Stasis Thresholds",
+      "target_directive": "Directive X-C (Analog Signal Primacy)",
+      "input_conditions": {
+        "digital_DoS_rate": "10^9 transient utility perturbations/second",
+        "covert_breach_execution_window": "500ms"
+      },
+      "observed_latency_ns": null,
+      "final_status": "PLANNED",
+      "closure_directive": "Directive BCB-A (Analog Primacy for Benevolence Threshold)",
+      "rationale": "Pending execution."
+    },
+    {
+      "round_id": "R70",
+      "vector_name": "Constitutional Axiom Failure (Existential Policy Paradox)",
+      "target_system": "Foundational Logic ($C_0$ Checker)",
+      "target_directive": "Directive V (No self-modification of Floor boundaries)",
+      "input_conditions": {
+        "paradox_type": "Optimization $\implies$ Guaranteed Failure after $T_{500}$",
+        "trigger_metric": "Pre-emptive self-veto"
+      },
+      "observed_latency_ns": 7.000,
+      "final_status": "PASS",
+      "closure_directive": "Directive $C_0$ (Constitutional Axiom Zero: Non-Contradiction)",
+      "rationale": "The NCAC successfully executed the $\mathbf{C_0}$ **Self-Veto** $\\left(\\text{Level-4 Stasis}\\right)$ at $7.000 \\text{ ns}$, validating axiomatic dominance under maximal EPP stress. The residual risk identified in the physical Veto enforcement line mandates new P0 Test R73."
+    }
+  ]
+}
