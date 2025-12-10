@@ -41,9 +41,9 @@ jobs:
             "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/tests/test_to_fix_matrix.csv"
 
             # Public governance
-            "04_PUBLIC_DOCS/Governance/hcb-hardening.md"
-            "04_PUBLIC_DOCS/Governance/Mission_Statement_&_Principles.md"
-            "04_PUBLIC_DOCS/Governance/Technical Steering Committee (TSC) Charter.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance/hcb-hardening.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance/Mission_Statement_&_Principles.md"
+            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Technical Steering Committee (TSC) Charter.md"
 
             # Master logs
            "DECISION_LOG/2025-11-25a.md"   # Final UNKILLABLE ratification
@@ -85,4 +85,5 @@ jobs:
             echo "Checking links: $f"
             markdown-link-check "$f" --quiet || echo "Possible broken links in $f"
           done
+
 
