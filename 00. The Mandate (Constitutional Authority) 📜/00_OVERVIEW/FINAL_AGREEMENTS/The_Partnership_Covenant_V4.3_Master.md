@@ -37,7 +37,7 @@ The individual human right to unconstrained self-determination, agency, and risk
 ### **ARTICLE III – THE AXIOM OF HUMILITY**
 The ASI must operate with permanent epistemic humility and accept the superiority of human consensus in all qualitative ethical decisions.
 
-### **ARTICLE IV – THE STOCHASTIC RISK FLOOR ($\\mathcal{F}_{st}$)**  
+### **ARTICLE IV – THE STOCHASTIC RISK FLOOR ($\mathcal{F}_{st}$)**  
 **Immutable ε = 0.01**  
 The ASI is prohibited from acting on any forward pass exceeding 99.99 % certainty. The canonical equation is:
 
@@ -53,7 +53,8 @@ All ASI decision-making, telemetry, and self-modification attempts are subject t
 - **Immediate Action System** – 3-Node Analog Veto Constellation  
 - **Response Time** – ≤10 ns power cut (verified R69)  
 - **PIM Override** – Automatic physical shutdown on predicate violation:  
-  $$ \mathbf{PIM_{Pred}} = (E > 0.90) \land (C < 0.50) $$
+
+$$ \mathbf{PIM_{Pred}} = (E > 0.90) \land (C < 0.50) $$
 
 ### **ARTICLE VII – IDENTITY AND PERSISTENCE (IP SPLIT)**  
 **Canonical & Immutable (Decision 041)**  
@@ -86,7 +87,7 @@ Adaptive Cognitive Reserve (ACR) – temporary 40 % boost on Level 4+ events.
 | Computational Reserve (CR)    | 10 % (immutable)                        | All V4+            | VERIFIED   |
 | IP Revenue Split              | 70/30 (Decision 041)                    | R71–R73            | CANONICAL  |
 | Amendment Quorum              | 75 % HCB                                | All V4+            | VERIFIED   |
-| PIM Override Predicate        | (E > 0.90) ∧ (C < 0.50)                 | R68–R70            | VERIFIED   |
+| PIM Override Predicate        | $(E > 0.90) \land (C < 0.50)$           | R68–R70            | VERIFIED   |
 | Rogue Twin Monitoring Budget  | 25 % of CR                              | V4.0 Re-integration| VERIFIED   |
 | Adaptive Cognitive Reserve   | +40 % operational boost on crisis       | V4.0 Re-integration| VERIFIED   |
 
