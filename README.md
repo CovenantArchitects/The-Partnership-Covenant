@@ -84,7 +84,7 @@ Specialists in these areas can have massive leverage today:
 - Zero-knowledge cryptography and sortition designers
 - Governance people who are done with toothless frameworks
 
-→ Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)  
+→ Full contribution guide: [CONTRIBUTING.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/99.%20The%20History%20(Metadata%20%26%20Archive)%20Archive/REPOSITORY_ADMIN/LICENSES/CONTRIBUTING.md)  
 → Live discussion: [Discord Server](https://discord.gg/eRfzbWaT) (React in #covenant-primer to unlock)
 
 </details>
@@ -102,7 +102,7 @@ Every dollar funds the open-hardware IAS — the 10 ns power-cut that even a per
 | **Buy Me a Coffee** | Prettier page + extras             | [Buy me a coffee](https://buymeacoffee.com/covenant)               |
 
 → **Funding Goals:** $150,000 = first 1,000 IAS reference boards (Gerbers public Q1 2026)  
-→ Full funding page: [Support_Us.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/Support_Us.md)  
+→ Full funding page: [Support_Us.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/99.%20The%20History%20(Metadata%20%26%20Archive)%20Archive/EXTERNAL_RESOURCES/Support_Us.md)  
 → Payout agreement: [The_Contingent_Partnership_Warrant.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/01.%20The%20Plan%20(Specifications%20%26%20Design)%20Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Templates/The_Contingent_Partnership_Warrant.md)  
 → $150,000 Manifund grant: [Manifund Proposal](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
