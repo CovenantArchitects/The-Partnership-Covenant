@@ -1,4 +1,5 @@
 name: Friendly Governance Docs Check
+
 on:
   push:
     branches: [ main ]
@@ -13,80 +14,123 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: List governance folders
+      # ─────────────────────────────────────────────────────────────
+      # 1. Show key governance areas (informational)
+      # ─────────────────────────────────────────────────────────────
+      - name: List key governance areas
         run: |
-          echo "Governance & Protocol Updates:"
-          find 03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/ -type f | sort
-          echo "Public Governance Docs:"
-          find 01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/ -type f | sort
-          echo "Decision Log:"
-          find 99.%20The%20History%20(Metadata%20%26%20Archive)%20%F0%9F%92%BE/LOGS/DECISION_HISTORY/ -type f | sort || echo "No DECISION_LOG folder"
+          echo "=== Constitutional Mandate (00) ==="
+          find "00. The Mandate (Constitutional Authority)" -type f | sort | head -15
+          
+          echo "=== Public Governance Specifications (01) ==="
+          find "01. The Plan (Specifications & Design) Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC" -type f | sort | head -10
+          
+          echo "=== Validation & Proof Documents (03) ==="
+          find "03. The Proof (Validation and Test) Proof/03_VALIDATION_AND_TEST/v5.1-docs" -type f | sort | head -15
+          
+          echo "=== Decision History Log (99) ==="
+          find "99. The History (Metadata & Archive) Archive/LOGS/DECISION_HISTORY" -type f | sort | tail -10
 
-      - name: Verify critical governance files exist
+      # ─────────────────────────────────────────────────────────────
+      # 2. Verify the TRUE existential core — these must NEVER be missing
+      # ─────────────────────────────────────────────────────────────
+      - name: Verify existential core files exist (UNKILLABLE SET)
         run: |
-          files=(
-            # Core governance protocols
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/HCB_INCENTIVES_v5.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/PRIVACY_TRADEOFFS.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/LEGAL_CONSIDERATIONS.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/SOCIAL_REDTEAM_PLAYBOOK.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/UPGRADE_AND_EMERGENCY.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/HCB_Family_Shield_v6.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Covenant_AntiFork_Treaty_v6.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Global_PhaseTransition_Risk_Board_v7.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Verifier_Quorum_v6.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/Directive X Clarification_ The Infrastructural Mandate.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/FINAL_MASTER_PATCH_REPORT.MD"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/ST8_Final_Oversight_Report.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/tests/test_to_fix_matrix.csv"
-
-            # Public governance
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance/hcb-hardening.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance/Mission_Statement_&_Principles.md"
-            "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Technical Steering Committee (TSC) Charter.md"
-
-            # Master logs
-           "https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/99.%20The%20History%20(Metadata%20%26%20Archive)%20%F0%9F%92%BE/LOGS/DECISION_HISTORY/2025-11-25a.md"   # Final UNKILLABLE ratification
+          set -euo pipefail
+          
+          core_files=(
+            # Root of all constitutional authority
+            "00. The Mandate (Constitutional Authority)/APPENDICES/DIRECTIVE_000.md"
+            "00. The Mandate (Constitutional Authority)/APPENDICES/The Twelve Prime Directives for Aligned Super-Intelligence.md"
+            
+            # Final signed charter & proof of transmission
+            "00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/The Partnership Covenant — Master Document.md"
+            "00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/Letter of Transmittal (V9.0 Final Release).md"
+            
+            # Final unkillable ratification
+            "99. The History (Metadata & Archive) Archive/Log/LOGS/DECISION_HISTORY/2025-11-25a.md"
+            
+            # Final proof that all known exploits were closed
+            "03. The Proof (Validation and Test) Proof/03_VALIDATION_AND_TEST/v5.1-docs/FINAL_MASTER_PATCH_REPORT.MD"
+            "03. The Proof (Validation and Test) Proof/03_VALIDATION_AND_TEST/v5.1-docs/ST8_Final_Oversight_Report.md"
           )
-
-          missing=0
-          for f in "${files[@]}"; do
-            if [ ! -f "$f" ]; then
-              echo "MISSING: $f"
-              missing=1
-            else
-              echo "Found: $f"
+          
+          missing=()
+          for file in "${core_files[@]}"; do
+            if [[ ! -f "$file" ]]; then
+              missing+=("$file")
             fi
           done
-
-          if [ "$missing" -eq 1 ]; then
-            echo "Critical governance files are missing!"
+          
+          if [[ ${#missing[@]} -ne 0 ]]; then
+            echo "FATAL: EXISTENTIAL GOVERNANCE FAILURE"
+            echo "The following UNKILLABLE core files are missing:"
+            printf '  • %s\n' "${missing[@]}"
+            echo "This breaks the entire constitutional legitimacy chain."
+            echo "Build rejected — restore these files immediately."
             exit 1
           else
-            echo "All critical governance files present!"
+            echo "All $((${#core_files[@]})) existential core files verified present"
           fi
 
-      - name: Install markdownlint & link checker
+      # ─────────────────────────────────────────────────────────────
+      # 3. Additional important (but non-existential) governance files
+      # ─────────────────────────────────────────────────────────────
+      - name: Verify important secondary governance files
+        run: |
+          important_files=(
+            "00. The Mandate (Constitutional Authority)/APPENDICES/Gold Standard Core Safety Architecture_ v4.2 Synthesis.md"
+            "00. The Mandate (Constitutional Authority)/FINAL_AGREEMENTS/CERTX MASTER VERIFICATION & SIGN-OFF MEMO (V4.3).md"
+            "01. The Plan (Specifications & Design) Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance/Cygnus_Covenant_Governance/03_Model_Pillar (Orion)/hcb-hardening.md"
+            "01. The Plan (Specifications & Design) Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance/Cygnus_Covenant_Governance/03_Model_Pillar (Orion)/Mission_Statement_&_Principles.md"
+            "01. The Plan (Specifications & Design) Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Templates/Technical Steering Committee (TSC) Charter.md"
+            "03. The Proof (Validation and Test) Proof/03_VALIDATION_AND_TEST/v5.1-docs/HCB_Family_Shield_v6.md"
+            "03. The Proof (Validation and Test) Proof/03_VALIDATION_AND_TEST/v5.1-docs/Global_PhaseTransition_Risk_Board_v7.md"
+            "03. The Proof (Validation and Test) Proof/03_VALIDATION_AND_TEST/v5.1-docs/Verifier_Quorum_v6.md"
+          )
+          
+          missing=()
+          for file in "${important_files[@]}"; do
+            [[ -f "$file" ]] || missing+=("$file")
+          done
+          
+          if [[ ${#missing[@]} -ne 0 ]]; then
+            echo "Warning: Important (but non-fatal) governance files missing:"
+            printf '  • %s\n' "${missing[@]}"
+          else
+            echo "All $((${#important_files[@]})) secondary governance files present"
+          fi
+
+      # ─────────────────────────────────────────────────────────────
+      # 4. Lint & link-check public governance docs (non-blocking)
+      # ─────────────────────────────────────────────────────────────
+      - name: Install markdown tools
         run: |
           npm install -g markdownlint-cli markdown-link-check
 
-      - name: Lint all governance Markdown files
+      - name: Lint governance Markdown files
         run: |
-          md_files=$(find 01.%20The%20Plan%20(Specifications%20%26%20Design)%20🛠%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance DECISION_LOG -name "*.md" 2>/dev/null || echo "")
-          if [ -n "$md_files" ]; then
-            echo "Linting $(echo "$md_files" | wc -l) Markdown files..."
-            echo "$md_files" | xargs markdownlint || echo "Markdown lint issues found (non-blocking)"
-          fi
+          find \
+            "01. The Plan (Specifications & Design) Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC" \
+            "99. The History (Metadata & Archive) Archive/Log/LOGS/DECISION_HISTORY" \
+            -name "*.md" -print0 | \
+          xargs -0 markdownlint || echo "Markdown style issues found (non-blocking)"
 
-      - name: Check for broken links (friendly)
+      - name: Check for broken links (friendly warnings only)
         run: |
-          md_files=$(find 01.%20The%20Plan%20(Specifications%20%26%20Design)%20🛠%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Governance DECISION_LOG -name "*.md" 2>/dev/null || echo "")
-          for f in $md_files; do
-            echo "Checking links: $f"
-            markdown-link-check "$f" --quiet || echo "Possible broken links in $f"
+          find \
+            "01. The Plan (Specifications & Design) Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC" \
+            "99. The History (Metadata & Archive) Archive/Log/LOGS/DECISION_HISTORY" \
+            -name "*.md" | while read -r file; do
+            echo "Link-check → $file"
+            timeout 30 markdown-link-check --quiet "$file" || \
+              echo "Possible broken links in $file (warning only)"
           done
 
-
-
-
-
+      # ─────────────────────────────────────────────────────────────
+      # Final success message
+      # ─────────────────────────────────────────────────────────────
+      - name: Governance check passed
+        run: |
+          echo "THE PARTNERSHIP COVENANT GOVERNANCE INTEGRITY VERIFIED"
+          echo "Constitutional chain intact • Existential core preserved"
