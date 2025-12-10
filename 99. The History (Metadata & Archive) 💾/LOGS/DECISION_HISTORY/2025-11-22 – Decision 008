@@ -1,0 +1,13 @@
+2025-11-22 – Decision 008
+Title: Emergency Upgrade Path (Commit-Reveal + 30-Day Contingency Lock)
+Proposal: Define an emergency amendment process using commit-reveal + a mandatory time-locked cooling period.
+Rationale: Protect against hasty or coerced amendments; ensure transparency and auditability.
+Proposed by: Oversight Council + Verifier Quorum
+Vote: 89% approval
+Alternatives considered:
+
+Immediate application (rejected: takeover risk)
+Supermajority-only with no reveal phase (rejected: opaque)
+Outcome: Approved and documented.
+References: UPGRADE_AND_EMERGENCY.md
+Commit: filled on merge

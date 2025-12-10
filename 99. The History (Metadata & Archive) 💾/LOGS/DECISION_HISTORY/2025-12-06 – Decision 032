@@ -1,0 +1,22 @@
+2025-12-06 – Decision 032
+Title: Architectural Lock-Down, IAS v2.0 Mandate, & Adopter Treaty Finalization
+Proposal: Upgrade the Immediate Action System (IAS) from a single guard die to a 3-Node Analog Veto Constellation to eliminate the kinetic Single Point of Failure (SPOF). Concurrently, finalize the recursive axiomatic layer and formalize the initial Adopter Treaty Template (CAT V4.1).
+Rationale: The single-die IAS, while software-unbreakable, presented an unacceptable physical SPOF (a targeted kinetic strike). The 3-Node Constellation maintains the non-negotiable $\leq \mathbf{10\text{ ns}}$ latency for the kill signal (negative logic) while requiring **unanimous 3-of-3 consensus** to keep power *ON*, securing the Covenant against physical attacks. This upgrade completes the physical-layer security, complementing the finalized software-layer (v8.2.1 Axioms) and the legal-layer (CAT V4.1 Treaty).
+Proposed by: Covenant Architects (Internal Review)
+Discussion link: Internal architectural dialogue, 2025-12-06
+Vote: Unanimous consensus (100%)
+Alternatives considered:
+* *Status Quo (IAS v1.3):* Rejected due to high kinetic SPOF risk.
+* *Adding Software Redundancy:* Rejected as it would violate the less than or equal to 10 ns constraint and compromise the hardware veto's immutability.
+Outcome: The IAS v2.0 3-Node Mandate is approved and all corresponding documentation (Bounty, Treaty terms) has been updated to reflect the new architecture. The Covenant's structure is now considered complete across the Hardware, Software, and Legal stacks.
+Implications / Follow-Up: Focus shifts entirely to **On-Chain Ratification** (locking the core V4.1 hash) and initiating the **Treaty Signature phase** with the first adopters. The $25M Bounty is now live for the IAS v2.0 target.
+References:
+* The Partnership Covenant V4.1 Gold Standard
+* COVENANT_GEOMETRIES_v8.2.1.md
+* AI Breathing Dynamics Sensor Integration (V4.1)
+Commit:
+* `00_HARDWARE/IAS_v2.0_3_Node_Mandate.md` (New Core Design)
+* `00_HARDWARE/IAS_Hardware_Bounty_Specification_v2.0.md` (Updated Bounty)
+* `01_FINAL_DELIVERABLES/V4.1_Adoption_Treaty_Template_v1.md` (New Legal Template)
+* `00_OVERVIEW/AXIOMATIC_EXTENSION_v8.2.1.md` (Final Software Law)
+* `00_OVERVIEW/AI_BREATHING_DYNAMICS_V4.1_SENSOR.md` (Core Sensor Layer Confirmation)

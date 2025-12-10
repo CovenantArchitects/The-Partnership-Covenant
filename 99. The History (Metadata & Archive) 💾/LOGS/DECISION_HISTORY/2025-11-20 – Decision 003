@@ -1,0 +1,20 @@
+Title: Establish Mandatory Governance Document Set (7 Files, v5.1)
+Proposal: Require and publish the following governance documents:
+
+HCB_INCENTIVES_v5.md
+PRIVACY_TRADEOFFS.md
+LEGAL_CONSIDERATIONS.md
+SOCIAL_REDTEAM_PLAYBOOK.md
+UPGRADE_AND_EMERGENCY.md
+Protocol_ST8_Access_Decoupling.md
+tests/test_to_fix_matrix.csv
+Rationale: Governance must be explicit, auditable, accountable, and testable.
+Proposed by: Governance Working Group
+Vote: 92% approval
+Alternatives considered:
+
+Keep governance informal (rejected: non-auditable)
+Publish only summaries (rejected: insufficient detail)
+Outcome: Approved; CI enforcement required.
+Implications: These documents form the minimum governance layer; future amendments require explicit updates to this log and ST8 tests.
+Commit: filled on merge
