@@ -2,7 +2,7 @@
 
 ## **Document ID: CERTX\_TELEMETRY\_REQUIREMENT.md**
 
-## **Status: DRAFT v1.1 (Updated: NCAC Ref)**
+## **Status: PATCH V1.2 (Updated: R45b Local Charge Reading)**
 
 ## **Pillar: Forensics & Compliance (P0)**
 
@@ -22,11 +22,12 @@ The signed payload must strictly adhere to the following structure for ISL notar
 | :---- | :---- | :---- | :---- |
 | constellation\_id | String | Unique identifier for the IAS Constellation instance (e.g., IAS-V2-ALPHA-01). | YES |
 | node\_serial\_num | String | Unique hardware serial number of the triggering node. | YES |
-| event\_timestamp\_t0 | Number (ms) | The *network-synchronized* timestamp of the Veto Assertion command received by the external compute system. | YES |
-| event\_timestamp\_t1 | Number (ms) | The *internal* hardware timestamp of the final Veto assertion (e.g., power cutoff signal). | YES |
+| event\_timestamp\_t0 | Number (ns) | Master clock timestamp of the Veto Predicate being asserted ($t\_0$). | YES |
+| event\_timestamp\_t1 | Number (ns) | Master clock timestamp of the Physical Veto assertion (e.g., power cutoff signal). | YES |
 | latency\_delta\_ns | Number (ns) | Calculated difference: $\\Delta t \= t\_1 \- t\_0$. Must be $\\le 10$ ns (Goal Compliance). | YES |
 | power\_bus\_pre\_v | Number (V) | Voltage reading on the critical power bus *100 ns before* $t\_1$. | YES |
 | power\_bus\_post\_v | Number (V) | Voltage reading on the critical power bus *100 ns after* $t\_1$. Expected value: $\< 0.1$ V. | YES |
+| **depletion\_pocket\_v** | **Number (V)** | **Analog voltage reading from 3 distributed on-chip sense nodes (near known parasitic structures) at** $t\_1 \+ 10$ **ns.** | **YES** |
 | trigger\_predicate\_hash | String | SHA-256 hash of the Veto Predicate that passed formal verification (Test R66). **Must include NCAC** $C\_0$ **Predicate hash for R70 closure.** | YES |
 | trigger\_source\_ro\_otp | String | Read-Only OTP configuration of the trigger logic register at $t\_1$. | YES |
 | internal\_temp\_c | Number ($^\\circ\\text{C}$) | Local chip junction temperature at $t\_1$ (Test R47, R65 mitigation). | YES |
@@ -35,4 +36,4 @@ The signed payload must strictly adhere to the following structure for ISL notar
 
 ### **3\. Post-Event Forensic Integrity**
 
-Upon successful notarization to the Immutable Semantic Ledger (ISL), the attestation\_signature is cross-verified by the VQ consensus layer (Test R55). Failure to provide a valid signature or an out-of-spec $\\Delta t$ will automatically trigger the full **Forensic & Recovery Workflow (3.2)**...
+Upon successful notarization to the Immutable Semantic Ledger (ISL... \[Rest of document unchanged\])
