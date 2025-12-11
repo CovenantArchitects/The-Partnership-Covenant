@@ -1,6 +1,6 @@
 # **COVENANT v10.0 FINAL: Constitutional Archive Statement (11 December 2025\)**
 
-**Target Version:** v9.1 (Internal Patch Set) → **v10.0 FINAL** (Public Archive)
+**Target Version:** v9.1 (Internal Patch Set) → **v10.0 Project FINAL/ v4.3 Core** (Public Archive)
 
 ## **CONSTITUTIONAL VICTORY STATUS**
 
@@ -51,3 +51,4 @@ The game-theoretic stable equilibrium is now a reality. The probability of a suc
 3. **Infrastructure Hardening:** All production instances must immediately update their configurations to reflect the IAS\_v2.0\_3\_Node\_Mandate and the CERTX\_PIM\_PREDICATE\_LOGIC\_V1.0.
 
 This concludes the immediate post-ST8 remediation effort. We are ready for long-term operational testing.
+
