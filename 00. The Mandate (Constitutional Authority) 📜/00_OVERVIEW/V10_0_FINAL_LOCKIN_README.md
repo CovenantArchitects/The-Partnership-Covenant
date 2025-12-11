@@ -35,7 +35,7 @@ This TMR structure ensures that the $\\le 10 \\text{ ns}$ power-cut guarantee is
 * Stress Test 8 (ST8) Summary and Post-Remediation Report (R01–R44): [ST8\_Final\_Oversight\_Report.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/PROTOCOL_AUDITS/ST8_Final_Oversight_Report.md)  
 * Constitutional Charter: [A Constitutional Charter for Aligned Intelligence](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00.%20The%20Mandate%20(Constitutional%20Authority)%20%F0%9F%93%9C/00_OVERVIEW/APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)  
 * IAS preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)  
-* Decision History Log: [DECISION\_HISTORY folder](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/covenant/99.%20The%20History%20\(Metadata%20%26%20Archive\)%20Archive/LOGS/DECISION_HISTORY)
+* Decision History Log: [DECISION\_HISTORY folder](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/99.%20The%20History%20(Metadata%20%26%20Archive)%20%F0%9F%92%BE/LOGS/DECISION_HISTORY)
 
 #### **Permanent Archives**
 
