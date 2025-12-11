@@ -1,6 +1,6 @@
 # **The Partnership Covenant**
 
-## **Final Architecture \- v10.0.1 Project Final/ v4.3 Core Structure**
+## **Final Architecture \- v10.0.1 Project Final / v4.3 Core Structure**
 
 **A constitution for superintelligence—enforced by physics, not promises.**
 
