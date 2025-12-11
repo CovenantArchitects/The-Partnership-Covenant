@@ -8,7 +8,7 @@ The Partnership Covenant is a **high-assurance, open, auditable governance and t
 
 ## **Table of Contents**
 
-* [What We’re Building](%23what-were-building)  
+* [What We’re Building](#what-were-building)  
 * [Ways to Contribute](%23ways-to-contribute)  
 * [Contribution Levels](%23contribution-levels)  
 * [The Five Technical Pillars (Priority Areas)](%23the-five-technical-pillars-priority-areas)  
@@ -105,4 +105,5 @@ Subject: *Responsible Disclosure* Response within 72 hours.
 **The Contingent Partnership Warrant**
 
 [Read the full Contingent Partnership Warrant](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/The_Contingent_Partnership_Warrant.md)
+
 
