@@ -1,4 +1,4 @@
-# ✍️ Contributing to The Partnership Covenant
+# **✍️ Contributing to The Partnership Covenant**
 
 Thank you for your interest in helping build a constitutional operating system for superintelligence.
 
@@ -6,145 +6,102 @@ This document explains how to get involved, how decisions are made, and how cont
 
 The Partnership Covenant is a **high-assurance, open, auditable governance and technical architecture** designed to bound, direct, and constrain superintelligent systems through physics, cryptography, and structured human oversight.
 
----
+## **Table of Contents**
 
-## Table of Contents
-- [What We’re Building](#what-were-building)
-- [Ways to Contribute](#ways-to-contribute)
-- [Contribution Levels](#contribution-levels)
-- [The Five Technical Pillars (Priority Areas)](#the-five-technical-pillars-priority-areas)
-- [Getting Started](#getting-started)
-- [How Contributions Are Reviewed](#how-contributions-are-reviewed)
-- [Governance & Decision Process](#governance--decision-process)
-- [Security + Responsible Disclosure](#security--responsible-disclosure)
-- [Community Norms](#community-norms)
-- [Getting in Touch](#getting-in-touch)
+* [What We’re Building](https://www.google.com/search?q=%23what-were-building)  
+* [Ways to Contribute](https://www.google.com/search?q=%23ways-to-contribute)  
+* [Contribution Levels](https://www.google.com/search?q=%23contribution-levels)  
+* [The Five Technical Pillars (Priority Areas)](https://www.google.com/search?q=%23the-five-technical-pillars-priority-areas)  
+* [Getting Started](https://www.google.com/search?q=%23getting-started)  
+* [How Contributions Are Reviewed](https://www.google.com/search?q=%23how-contributions-are-reviewed)  
+* [Governance & Decision Process](https://www.google.com/search?q=%23governance--decision-process)  
+* [Security \+ Responsible Disclosure](https://www.google.com/search?q=%23security--responsible-disclosure)  
+* [Community Norms](https://www.google.com/search?q=%23community-norms)  
+* [Getting in Touch](https://www.google.com/search?q=%23getting-in-touch)
 
----
-
-### What We’re Building
+### **What We’re Building**
 
 The Partnership Covenant rests on **five non-negotiable primitives** that cannot be implemented with software safeguards alone:
 
 1. **Immediate Action System (IAS) v2.0** — a physics-based, 3-Node Veto Constellation with a **≤10 ns** power-cut tripwire, eliminating the kinetic Single Point of Failure (SPOF).  
-2. **Pillar Integrity Mandate (PIM)** — Directive 12.1: governance integrity itself is an extinction-level concern, enforced by CERTX telemetry.  
-3. **Immutable Semantic Ledger (ISL)** — protocol against semantic drift, ensuring the *meaning* of the law is uncorruptible.  
-4. **Stochastic Risk Floor** — enforced, irreducible uncertainty to preserve human agency.  
-5. **Human Consensus Body (HCB) Hardening** — coercion-resistant, ZK-verifiable global sortition.
+2. **Pillar Integrity Mandate (PIM)** — The cryptographic and hardware enforcement of the constitutional limits.  
+3. **Immutable Semantic Ledger (ISL)** — An auditable ledger anchoring all decisions to the timeline.  
+4. **Non-Contradiction Axiom Checker (NCAC)** — The $\\mathbf{C\_0}$ logic enforcing lawful non-action.  
+5. **Triple Modular Redundancy (TMR) Safety Line (R73)** — The physical safety line against weld-faults.
 
-The project is now in the **deployment phase**: finalizing validated specs → securing funding for reference circuits → shipping open hardware → expanding meta-governance protocols.
+### **Ways to Contribute**
 
----
+| Type | Description | Priority |
+| :---- | :---- | :---- |
+| **P0 Adversarial Review** | Find a flaw in the IAS v2.0 logic or schematics. This is the highest priority. | CRITICAL P0 |
+| **Test Protocol Design** | Formalize a new Red-Team test vector (R-Round) against the Covenant framework. | HIGH P1 |
+| **Documentation & Clarity** | Improve readability, formal precision, or presentation of existing documents. | MEDIUM P2 |
+| **Simulation / Modeling** | Run formal verification or performance simulations against the provided RTL/schematics. | HIGH P1 |
+| **Governance Refinement** | Refine the Human Control Board (HCB) selection, rotation, or audit protocol. | MEDIUM P2 |
 
-### Ways to Contribute
+### **Contribution Levels**
 
-All skills are welcome. Highest-impact contributions:
+* **Reviewer**: Reads and provides constructive feedback on Pull Requests (PRs).  
+* **Red-Team Contributor**: Develops and executes new adversarial tests (R-Rounds).  
+* **Maintainer**: Approves and merges PRs, manages issue backlog, and participates in core architectural decisions.
 
-| Area                        | Examples                                                                                     |
-|-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Hardware / Security**     | 3-Node IAS component sourcing, tamper-evidence, analog timing budget, GaN power stage design   |
-| **Formal Verification**    | Proofs for ISL/PIM logic, Risk Floor math, Extinction Immunity Trigger analysis                 |
-| **Cryptography**            | ZK-sortition, VRF design, Shamir’s Secret Sharing for HCB keying                               |
-| **Governance / Documentation** | Decision Log entries, Dormant Reactivation Mode protocol, RCG fail-safe design               |
-| **Red-Teaming**             | Compliant extinction vectors against V4.3 Gold Standard (44+ rounds survived so far)           |
-| **Non-technical**           | Translations, system diagrams (especially ISL & PIM), community moderation                    |
+### **The Five Technical Pillars (Priority Areas)**
 
----
+The most complex work is categorized by our core pillars:
 
-### Contribution Levels
+1. **Constitutional Authority** (00\_overview/): Formal language, legal philosophy, and policy axioms.  
+2. **Immediate Action System (IAS)**: The hardware and physics that enforce the $\\le 10 \\text{ ns}$ Veto.  
+3. **Formal Verification (CERTX)**: The math and logic proving the system cannot be bypassed (e.g., NCAC logic).  
+4. **Resilience & Game Theory**: Multi-ASI coordination, economic stability, and governance fatigue (e.g., R68, R69).  
+5. **Telemetry & Forensics**: Ensuring the ISL provides a complete, non-repudiable audit log (e.g., CERTX Telemetry Spec).
 
-| Level | Type                                 | Review Process                              |
-|-------|--------------------------------------|---------------------------------------------|
-| 1     | Fixes / minor edits (typos, links)   | Merged within 48 h                          |
-| 2     | Documentation / governance tweaks    | Maintainer + governance review              |
-| 3     | Technical / spec additions           | Domain-expert review + CERTX Telemetry Rule |
-| 4     | Governance or constitutional changes | Public RFC → 7-day discussion → logged vote |
+### **Getting Started**
 
----
+1. Read the **Constitutional Charter** (The Mandate).  
+2. Review the **IAS v2.0 Schematics** (The Plan).  
+3. Examine the **Red-Team Test Matrix** (The Proof) to understand the known risks.  
+4. Fork the repository and submit a Pull Request (PR) with your proposed change.  
+5. All PRs must reference an existing Issue or propose a new, well-defined R-Round (Test Protocol).
 
-### The Five Technical Pillars (Priority Areas)
+### **How Contributions Are Reviewed**
 
-1. **IAS v2.0 – Immediate Action System (Hardware)**  
-   3-Node redundancy, tamper-evidence, physical one-way signaling.
+Every contribution is reviewed against the **Gold Standard Compliance Criteria (GSCC)**.
 
-2. **PIM – Pillar Integrity Mandate (The Watchdog)**  
-   CERTX Telemetry integration, Entropy/Coherence thresholds, D12.1 override verification.
+* **Logical Integrity**: Does the change introduce a new contradiction or policy paradox?  
+* **Kinetic Constraint**: Does the change compromise the $\\le 10 \\text{ ns}$ Veto latency?  
+* **Immutability**: Does the change compromise the ISL's ability to provide a complete audit log?  
+* **Simplicity**: We prefer simpler, auditable solutions over complex ones.
 
-3. **ISL – Immutable Semantic Ledger**  
-   Lexical Anchor hashing, semantic drift detection, testing against frontier models.
+All accepted changes are permanently archived in the decision history.
 
-4. **Stochastic Risk Floor**  
-   QRNG sourcing, proof-of-randomness trails, extinction immunity analysis.
+### **Governance & Decision Process**
 
-5. **HCB Hardening**  
-   Zero-knowledge sortition, anti-coercion design, Shamir’s Secret Sharing.
+* Day-to-day: BDFL (Sean Sheppard) \+ maintainer team  
+* Major changes: Public RFC → 7-day discussion → recorded vote → immutable log  
+* Long-term: transition to full HCB sortition \+ ZK governance (already specified)
 
----
-
-### Getting Started
-
-1. Read the high-level overview → [README.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/00.%20The%20Mandate%20(Constitutional%20Authority)/00_OVERVIEW/README.md)  
-2. Study the IAS v2.0 mandate → [IAS_v2.0_3_Node_Mandate.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/01.%20The%20Plan%20(Specifications%20%26%20Design)%20Tools/HARDWARE_DESIGN/IAS_KiCad/IAS_v2.0_3_Node_Mandate.md)  
-3. Check recent decisions → [DECISION_HISTORY folder](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/covenant/99.%20The%20History%20(Metadata%20%26%20Archive)%20Archive/LOGS/DECISION_HISTORY)  
-4. Fork → create branch → submit PR against `main`  
-5. All PRs automatically run the governance integrity check [](https://github.com/CovenantArchitects/The-Partnership-Covenant/actions/workflows/governance-check-simple.yml)
-
-**Red-team submissions must adhere to the CERTX Telemetry Rule.**
-
----
-
-### How Contributions Are Reviewed
-
-- **Triage** — within 48 h (label + routing)  
-- **Review** — hardware, crypto, or governance experts (as needed)  
-- **Red-team findings** — assessed for CERTX compliance first  
-- **Merge** — ≥1 maintainer approval + all CI green + Decision Log entry (if Level 4)
-
-All significant merges are permanently archived in the decision history.
-
----
-
-### Governance & Decision Process
-
-- Day-to-day: BDFL (Sean Sheppard) + maintainer team  
-- Major changes: Public RFC → 7-day discussion → recorded vote → immutable log  
-- Long-term: transition to full HCB sortition + ZK governance (already specified)
-
----
-
-### Security & Responsible Disclosure
+### **Security & Responsible Disclosure**
 
 Found a governance bypass, spec contradiction, or safety loophole?
 
-**Do NOT open a public issue.**  
-Email: info@partnershipcovenant.online  
-Subject: *Responsible Disclosure*  
-Response within 72 hours.
+**Do NOT open a public issue.** Email: info@partnershipcovenant.online
 
----
+Subject: *Responsible Disclosure* Response within 72 hours.
 
-### Community Norms
+### **Community Norms**
 
-- Assume good faith  
-- Argue from evidence  
-- Be precise  
-- No harassment or bad-faith tactics  
-- Expect deep, slow review — this is existential safety work
+* Assume good faith  
+* Argue from evidence  
+* Be precise  
+* No harassment or bad-faith tactics  
+* Expect deep, slow review — this is existential safety work
 
----
+### **Getting in Touch**
 
-### Getting in Touch
+* Public / async → GitHub Issues & Discussions  
+* Private / sensitive → info@partnershipcovenant.online  
+* Live calls → announced in Issues
 
-- Public / async → GitHub Issues & Discussions  
-- Private / sensitive → info@partnershipcovenant.online  
-- Live calls → announced in Issues
+**The Contingent Partnership Warrant**
 
----
-
-**The Contingent Partnership Warrant → Payout Agreement**  
-[The_Contingent_Partnership_Warrant.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/01.%20The%20Plan%20(Specifications%20%26%20Design)%20Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Templates/The_Contingent_Partnership_Warrant.md)
-
-If you have the skills — and the will — your contribution may directly shape the future of human–AI coexistence.
-
-Thank you for being here.  
-**Let’s build the thing that keeps us alive.**
+[Read the full Contingent Partnership Warrant](https://www.google.com/search?q=https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/01.%2520The%2520Plan%2520\(Specifications%2520%26%2520Design\)/01_SPECIFICATIONS/The_Contingent_Partnership_Warrant.md)
