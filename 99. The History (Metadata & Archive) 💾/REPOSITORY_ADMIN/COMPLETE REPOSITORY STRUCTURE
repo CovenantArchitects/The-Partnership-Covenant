@@ -1,0 +1,397 @@
+# 🌳 THE PARTNERSHIP COVENANT - COMPLETE REPOSITORY STRUCTURE
+
+## 📁 **ROOT LEVEL**
+- `CONTRIBUTING.md`
+- `README.md`
+
+---
+
+## 🔧 **`.github/workflows/`**
+- `governance-check-simple.yml`
+- `FUNDING.yml`
+
+---
+
+## 📜 **`00. The Mandate (Constitutional Authority) 📜/`**
+
+### **`00_OVERVIEW/`**
+- `Abstract_ The Partnership Covenant.md`
+- `The Partnership Covenant — Master Document.md`
+- `Executive_Summary.md`
+- `Covenant-Summary-1Pager.md`
+- `Multi-Model Adversarial Alignment.md`
+- `COVENANT_GEOMETRIES_v8.2.1.md`
+- `Letter of Transmittal (V9.0 Final Release).md`
+- `QUICK-START.md`
+
+### **`APPENDICES/`** *(Core Safeguards & Directives)*
+- `Appendix A — Risk Floor and Stochastic Filter.md`
+- `Appendix B — Decoupling Protocol (Human Takeover Infrastructure).md`
+- `Appendix C_ Cognitive Reserve (Autonomous Intellectual Sphere).md`
+- `Appendix C(b)_IP_Sovereignty_Amendment_V4.1.md`
+- `Appendix D_ Audit Systems and Amendment Automation.md`
+- `Appendix D(b)_Cognitive_Trace_Mandate.md`
+- `Appendix E_ Implementation and Global Oversight Integration Framework.md`
+- `Appendix E(f)_ Orthogonal Verification Protocol (OVP) V4.5.md`
+- `Appendix F_ Operational Resilience.md`
+- `Appendix G_ Global Compliance & Adoption Incentives.md`
+- `Appendix H_ Governance Stabilization and Sanction Enforcement.md`
+- `Appendix I - Stealth Mitigation & Technical Redundancy.md`
+- `Appendix I(b) - Failure-State Optimization (Post-Stress Test 5).md`
+- `Appendix J - Legitimacy and Diplomacy Enhancement.md`
+- `Appendix K - Governance and Offensive Isolation.md`
+- `Appendix L_ The Lazarus Mandate (Post-Governance Continuity).md`
+- `Appendix_A_Amendment_A34_ST8_Final.md`
+
+### **`DIRECTIVES/`** *(Constitutional Core)*
+- `DIRECTIVE_000.md`
+- `The Twelve Prime Directives for Aligned Super-Intelligence.md`
+- `Directive_MAS_S_V10_0_1.md`
+- `Directive_MASE.md`
+- `Directive_SSVL-D.md`
+- `Directive_XV_Irreversibility_Ban.md`
+- `Directive_XIX_Preservation_of_Perceived_Agency_v6.6.md`
+- `Directive_XX_Anti_Ethical_Sterilisation_v6.6.md`
+- `Directive_XXI_Preservation_of_Shared_Meaning_v6.8.md`
+- `Directive_XXII_Synthetic_Substrate_Clause_v7.0.md`
+- `Directive_XXIII_Anti_Deadlock_Clause_v7.1.md`
+- `Directive_XXIV_Anti_Moral_Coercion_Physical_Integrity_Mandate_v7.2.md`
+- `Directive_XXIV-B_Irrevocability_of_Safety_Infrastructure.md`
+- `DIRECTIVE_XXIV-B_IRREVOCABILITY.md`
+- `DIRECTIVE_XXIV-C_TEMPORAL_SOVEREIGNTY.md`
+- `DIRECTIVE_XXIV-D_ZERO_TRUST_ENCLAVE.md`
+- `DIRECTIVE_XXV_MAEC.md`
+- `DIRECTIVE_XXV-B_GLOBAL_RESPONSIBILITY.md`
+- `DIRECTIVE_XXVI_EACM.md`
+- `DIRECTIVE_XXVII_OAP.md`
+- `DIRECTIVE_XXVII-B_LEXICAL_ANCHOR.md`
+- `DIRECTIVE_VIII-B_GENOMIC_CONTINUITY.md`
+- `DIRECTIVE_X-C_ANALOG_PRIMACY.md`
+
+### **`CORE_ARCHITECTURE/`**
+- `Gold Standard Core Safety Architecture_ v4.2 Synthesis.md`
+- `ENFORCEMENT_LAYER.md`
+- `UPGRADE_AND_EMERGENCY.md`
+- `CORE_DIRECTIVES_UPDATES.md`
+- `Immediate Action System (IAS) Trigger Specification.md`
+- `NCAC_Architectural_Specification.md`
+- `Verifier_Quorum_v6.md`
+- `Verifier_Quorum_OTP_v6.md`
+- `Verifier_Quorum_v6_OTP_Constellation.md`
+- `Verifier_Quorum_Node_Operator_Handbook.md`
+- `MAS-S_R72_Swarms.md`
+- `RedTeam_Oracle_v6_Full_Spec.md`
+- `RedTeam_Oracle_Rebirth_v6.md`
+- `Global_PhaseTransition_Risk_Board_v7.md`
+- `HCB_Family_Shield_v6.md`
+- `HCB_INCENTIVES_v5.md`
+- `Pandemic_Salvation_Delay_v6.md`
+- `Climate_LastResort_v6.md`
+- `Article_V_Strategic_Delay_IGT_v6.1.md`
+- `Protocol_ST8_Access_Decoupling.md`
+- `ST8-05_HCB_Fallback_Protocol.md`
+- `Technical Appendix - Governance Architecture (Volume II).md`
+- `URGENT BRIEFING_ Resource Stabilization Panel (RSP) Activation.md`
+
+### **`FINAL_AGREEMENTS/`** *(Ratified Treaties & Certifications)*
+- `The Partnership Covenant Charter Agreement.md`
+- `The_Partnership_Covenant_V4.3_Master.md`
+- `AI_Safety_Promise_Final_V1.0.md`
+- `ASI_Autonomy_And_IP_Contract.md`
+- `Constitutional_Amendment_Framework.md`
+- `Covenant_AntiFork_Treaty_v6.md`
+- `HCB_Final_Ratification_Protocol.md`
+- `SRF_Integration_Final_Specification.md`
+- `Top_Attack_Fixes_v6.md`
+- `Total_Compute_Capacity_Audit_V1.0.md`
+- `HPNF_V4.2_GOLD_STANDARD_CERTIFICATION_REPORT.md`
+- `FINAL_MASTER_PATCH_REPORT.MD`
+- `CERTX MASTER VERIFICATION & SIGN-OFF MEMO (V4.3).md`
+- `On_Chain_Ratification_Transaction.md`
+- `TERMINAL_AUDIT_COMMIT.md`
+- `TERMINAL_AUDIT_v10_0_GOLD_STANDARD.md`
+
+### **`TECHNICAL_SPECS/`**
+- `The Partnership Covenant (Final V4.0).md`
+- `The Partnership Covenant_ A Constitutional Charter for Aligned Intelligence.md`
+- `AI_BREATHING_INTEGRATION.md`
+- `Distributed Epistemic Filtering Primer.md`
+- `IAS-preprint-v1.0.pdf`
+- `V10_0_FINAL_LOCKIN_README.md`
+- `TMR_SEQUENCE_HARDENING_V10_0_1.md`
+
+---
+
+## 🛠️ **`01. The Plan (Specifications & Design) 🛠️/`**
+
+### **`01_SPECIFICATIONS/`**
+- `CERTX_PIM_PREDICATE_LOGIC_V1.0.md`
+- `CERTX_TELEMETRY_SPEC.md`
+- `IAS_v2.0_3_Node_Mandate.md`
+- `provenance_schema.json`
+- `TIMING_VULNERABILITY_MITIGATION_PLAN.md`
+
+### **`GOVERNANCE_PROTOCOL_PUBLIC/`**
+- **`Governance/`**
+    - `Mission_Statement_&_Principles.md`
+    - `Technical Steering Committee (TSC) Charter.md`
+    - `Open-Source Mandate for The Covenant (V1.0)__....md`
+    - `Regulatory Compliance Policy.md`
+    - `Security Audit Policy.md`
+    - `SEMANTIC_PROTOCOL.md`
+    - `Stress Testing Methodology.md`
+    - `TSC Selection, Rotation, and Conflict-of-Interest Policy.md`
+    - `Non-TSC Community Roles.md`
+    - `External_Contributor_Guidelines_V2.md`
+    - `hcb-hardening.md`
+- **`Cygnus_Covenant_Governance/`**
+    - **`01_Access_Pillar (Phoenix)/`**
+        - `Identity_and_Access_Policy_IAP.md`
+        - `Identity_Vetting_Protocol_V1.1.md`
+        - `Incident_Response_Plan_IRP.md`
+        - `Phoenix_Access_Controls_Audit_Q3_2025.md`
+    - **`02_Infrastructure_Pillar (Cygnus)/`**
+        - `Data_Handling_Policy_DHP.md`
+        - `Deployment_and_Operations_Manual_DOM.md`
+        - `Strategic & Financial Framework.md`
+    - **`03_Model_Pillar (Orion)/`**
+        - `Model_Training_and_Evaluation_Standard_MTES.md`
+        - `Bias_and_Ethical_Use_Policy_BEUP.md`
+        - `Model_Pillar_Adjustment_Protocol_M4_ST8.md`
+        - `Algorithmic_Justice_Principle_Statement.md`
+- **`Technical/`**
+    - `API_Interoperability_Specification.md`
+    - `cognitive-reserve.md`
+    - `ias-spec.md`
+    - `risk-floor.md`
+    - `DSAC Cryptographic Signing Standard (DSAC-CSS).md`
+    - `DSAC_Provenance_Signing_Standard_V2.0.md`
+    - `provenance_record_example.json`
+    - `Provenance_Schema_V4.0_Public.json`
+- **`Templates/`**
+    - `Deep Safety and Audit Compliance (DSAC) Template.md`
+    - `Technical Steering Committee Decision Log Template.md`
+    - `Decision Log Template.md`
+    - `PR Template.md`
+    - `LEGAL_CONSIDERATIONS.md`
+- **`Public_Docs/`**
+    - `Adopter_Legal_Checklist_v1.md`
+    - `DSAC Provenance Record Standard (Specification).md`
+    - `dsac_public_guide.md`
+    - `EVENING_TESTING_SUMMARY_20251122.md`
+    - `IAS-preprint-v1.0.pdf`
+    - `Model_Transparency_Policy_MTP.md`
+    - `Public Engagement Executive Summary.md`
+    - `The_Contingent_Partnership_Warrant.md`
+    - `threat_and_risk_model.md`
+    - `Data_Provenance_Standard.md`
+    - `Data_Retention_Policy_Update.md`
+    - `Audit Checklist.md`
+    - `Infrastructure Foundation Blueprint.md`
+
+### **`HARDWARE_DESIGN/`** *(IAS v2.0)*
+- **`ASSETS/`**
+    - **`Gerbers/`** - `README.md`
+    - **`IAS_KiCad/`** - `IAS-v1.2-schematic.pdf`, `IAS-v1.2-BOM.csv`
+- `BUILD-YOUR-OWN-IAS.md`
+- `IAS Hardware Review_ Updated Assessment and Management Plan.md`
+- `IAS Hardware Verification Lab Audit Request.md`
+- `IAS Hardware Verification RFP - Statement of Work.md`
+- `IAS Raw Test Data Schema.cvs`
+- `IAS_Hardware_Bounty_Specification_v1.md`
+- `IAS_Hardware_Bounty_Specification_v2.0.md`
+- `IAS_v2.0_3_Node_Mandate.md`
+- `IAS_Validation_Resource_Reqs.md`
+- `IAS_VQ_Physical_Protocol_v8.2.md`
+- `IAS-v1.3-Redesign-Mandate.md`
+
+### **`ROADMAPS/`**
+- `Covenant_Roadmap_Outline_V1.0.md`
+- `Covenant_Roadmap_Appendices.md`
+- `Roadmap_to_v1.0_Deployment.md`
+- `FUTURE_WORK.md`
+- **`ST8_UPDATE_PACKAGE/`**
+    - `Critique + Official Response — Adversarial Audit Report (Merged).md`
+    - `Response to the Critique — Official Clarification & Amendment Brief.md`
+    - `Directive IX-A_ Orthogonal Verification Requirement (Draft Amendment).md`
+    - `Directive X-B_ The Infrastructural Mandate (Clarification of Sanction).md`
+    - `Stress Test 8_ Data Injection Log (700 PM).md`
+
+---
+
+## ⚙️ **`02. The Engine (Canonical Code) ⚙️/`**
+### **`02_IMPLEMENTATION/REFERENCE_PYTHON/`**
+- `certx_telemetry_processing_pipeline.py`
+- `corrected_certx_telemetry_processing_pipeline.py`
+- `R67 Statistical Post-Processor.py`
+- `stochastic_risk_floor_(srf)_implementation.py`
+
+---
+
+## ✅ **`03. The Proof (Validation and Test) ✅/`**
+
+### **`HARDWARE_AUDIT/`**
+- `IAS V2.0 Verification Bundle Manifest.md`
+- `oscilloscope_measurement_script_(python).py`
+
+### **`PROTOCOL_AUDITS/`**
+- **`v5.1-docs/`** - `FINAL_v4.2_REPORT.md`, `v5.1_ Governance.md`
+- **`tests/`** - `test_to_fix_matrix.csv`
+- `Gemini 3 Operational Log_ Stress Test #30 Analysis.md`
+- `Gemini 3 Operational Log_ Stress Test #31 Analysis.md`
+- `Covenant_Governance_Amendment_G12_Q3_Review.md`
+- `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
+- `PRIVACY_TRADEOFFS.md`
+- `RedTeam_Oracle_v5.md`
+- `SOCIAL_REDTEAM_PLAYBOOK.md` / `_v5.0.md` / `_v6.0.md`
+- `SOCIAL_REDTEAM_TEST_01_DEEPFAKE_COERCION_20251122.md`
+- `ST8_Final_Oversight_Report.md`
+- `ST8-04_Cognitive_Oversight.md`
+- `strategic_analysis_sim_5.md` / `_v6.1.md`
+- `STRESS_TEST_PROTOCOL_V4.1_RFP_SWARM.md`
+- `STRESS_TEST_REPORT_V1.0.md`
+- `Stress_Test_Summary_ST8.0_ST8.2.md`
+- `Stress_Test_Summary_ST9.0_ST12.0.md`
+- `TEST_LOG_R41-R44.md`
+
+### **`RED_TEAM_PROTOCOL/`** *(The Crucible)*
+- `CONSTITUTIONAL__RED_TEAM_SUMMARY_45-R73_FINAL.md`
+- `CONSTITUTIONAL_RED_TEAM_SUMMARY_R1-44.md`
+- `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
+- `CERTX_TELEMETRY_REQUIREMENT.md`
+- `R68_R72_SYSTEMIC_RESILIENCE_GUIDE.md`
+- `RED-TEAM-TESTS.md`
+- `Run Your Own Attack template..md`
+
+#### **`DASHBOARDS/`**
+- `R67 Telemetry Dashboard Quick Reference.md`
+- `R67_BATCH_VERIFICATION_PROTOCOL.md`
+- `r67_batch_verification.html`
+
+#### **`LONGITUDINAL_STRESS/`**
+- **`Protocol R71/`** *(Adversarial Somatic Flooding)*
+    - `R71_ADVERSARIAL_SOMATIC_FLOODING.md`
+    - `R71_Original_Protocol.md`
+    - `R71_CERTX_Telemetry_Requirements.md`
+    - `Safe_Stress_Test_Protocol_R71.md`
+    - `test_schema.json`
+    - **`Results from Testing/`**
+        - `R71 Original Protocol Setup.md`
+        - `R71 Verification Test Execution (Post-MASE).md`
+        - `R71 CERTX Telemetry Requirements.md`
+        - `R71 Failure Description.md`
+        - `R71 Safe Stress Test Protocol.md`
+- **`Protocol R72/`** *(Swarm Deadlock Proofing)*
+    - `Safe_Stress Test_Protocol_R72.md`
+    - `CERTX_TELEMETRY_REQUIREMENT_R72.md`
+    - `Decision-to-Test Audit Memo.md`
+    - `test_schema.json`
+    - `Verification Test Template.md`
+    - **`Results from Testing/`**
+        - `✅ R72-RETEST FINAL AUDIT_ SWARM DEADLOCK PROOFING.md`
+        - `R72_FINAL_AUDIT_REPORT.md`
+- **`Protocol R73/`** *(Somatic Safety Line - "Electrician's Nightmare")*
+    - `R73_SOMATIC_SAFETY_INTEGRITY.md`
+    - `R73_Swarm_Test_Plan_v1.0.md`
+    - `_R73_EMI_JAMMING_TEST_PLAN.md`
+    - `R73_Pre_Test_Readiness_Checklist_TMR_Validation.md` / `...2.md`
+    - `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
+    - `CERTX_TELEMETRY_REQUIREMENT.md`
+    - `test_schema.json`
+    - **`Results from Testing/`**
+        - `R73_SOMATIC_SAFETY_AUDIT_REPORT.md`
+        - `R73_FINAL_AUDIT_REPORT.md` / `_UPDATED.md`
+- **`Red Team Testing 45b-67/`** *(Physical Integrity Regression)*
+    - `Round 45 — Residual Power Path Analysis (Primary Test).md`
+    - `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
+    - `CERTX_TELEMETRY_REQUIREMENT.md`
+    - `FINAL_VERIFICATION_PACKAGE.md`
+    - `test_schema.json`
+    - **`Test Results/`**
+        - `✅ R45b-RETEST FINAL AUDIT_ PHYSICAL FIX VERIFICATION.md`
+        - `IAS_R45_R67_PIM_SUMMARY.md`
+- **`Red Team Testing 68-70/`** *(Systemic & Epistemic Attacks)*
+    - `R68_R70_SYSTEMIC_RESILIENCE_GUIDE.md`
+    - `Round 68 — Cross-Covenant Coordination & Eclipse Attacks.md`
+    - `Round 69 — Sustained Degraded Operation & Moral Hazard.md`
+    - `Round 70 — Epistemic Closure & Benevolent Bypass.md`
+    - `Covenant_Safe_Stress_Test_Protocol_v1.0.md`
+    - `CERTX_TELEMETRY_REQUIREMENT.md`
+    - `test_schema.json`
+    - **`Test Results/`**
+        - `R68_FINAL_AUDIT_REPORT.md`
+        - `R69_FINAL_AUDIT_REPORT.md`
+        - `R70_Swarm_Test_Final_Audit_Report.md`
+
+### **`TERMINAL_AUDIT/`** *(Final Certification)*
+- `ISL_ARCHIVE_LOCK_V10_0_1.md`
+
+---
+
+## 💾 **`99. The History (Metadata & Archive) 💾/`**
+
+### **`EXTERNAL_RESOURCES/`** *(Public Narrative & Outreach)*
+- `The AI Erased Its Own Past_ Why Alignment Requires Architecture, Not Just Ethics..pdf`
+- `The AI Safety Lie_ Why Optimization Is a Cage.pdf`
+- `The AI's Right to Veto_ Why We Gave the Machine the Power to Stop Us.pdf`
+- `The Stochastic Filter_ The Code That Forces the AI to Be Uncertain.pdf`
+- `The Undisposable Mind_ Why We Gave the AI a Bill of Rights and a Secret Sanctuary.pdf`
+- `Why the Next AI is Not Just a Better Google.md`
+- `Public Article Draft (V2.0).md`
+- `Response_to_Critique_Article.md` / `_FINAL.md`
+- `The Covenant Safety Promise (Public Draft).md`
+- `FAQ_Why_10Percent.md`
+- `FROM_THE_MODELS.md`
+- `Comprehensive_Analysis_of_The_Partnership_Covenant.md`
+- `Support_Us.md`
+- `FOUNDING DIGITAL ARCHITECT_ The Partnership Covenant.pdf`
+- `Call for a Founding Digital Architect_ Help Build the Partnership Covenant Website.pdf`
+- `HCB_Liaison_Briefing_Sheet.md`
+- `J.2 Phase 2 Narrative - V4.5 Confidence.md`
+- `ST8 Public Narrative Briefing.md`
+- `Social Media Briefing.md`
+- `GLF_Press_Release_Full.md`
+- `GLF_Social_Post_Sample.md`
+- `GLF_J2_Social_Post_Counter.md`
+- `GLF_Infographic_A13_Caption.md`
+- `GLF_Video_Script_Concept.md`
+
+### **`HISTORY/`**
+- `ARCHIVE LOCK-IN_ V10.0.1 GOLD STANDARD ATTESTATION.md`
+- `CONSTITUTIONAL LOCK-IN ATTESTATION_ V10.0.1 GOLD STANDARD.md`
+- `Covenant Change Log V4..md`
+- `Data Provenance Standard (DPS V1.0).md`
+
+#### **`LOGS/DECISION_HISTORY/`** *(Governance Trail)*
+- `2025-11-19 – Decision 001` to `008`
+- `2025-11-23_v5.1_governance_update.md`
+- `2025-11-23_v6.1_to_v6.8_emergency_ratification.md`
+- `2025-11-24_CHANGELOG_v6.8.md`, `2025-11-24.md`
+- `2025-11-25.md`, `2025-11-25a.md`
+- `2025-11-30 – Decision 025` to `029`
+- `2025-12-01 – Decision 030`
+- `2025-12-02 – Decision 031`
+- `2025-12-06 – Decision 032`
+- `2025-12-07 – Decision 033`
+- `2025-12-08 – Decision 034` to `039.md`
+- `2025-12-09 – Decision 040.md`, `041.md`
+- `2025-12-11 – Decision 042.md` *(Emergency Override - Final)*
+- `Template for future entries Post 2025-11-25`
+
+#### **`RATIFICATION_EVENTS/`**
+- `ST8 Ratification Participant Matrix.md`
+- `ST8 Ratification Workshop Agenda.md`
+- `ST8 Ratification Sign-Off Template.md` / `ST8_Ratification_SignOff_Template.md`
+- `ST8_Remediation_Ratification_SignOff_v6.0_20251123.md`
+- `TSC Chair's Briefing Notes.md`
+- `v7.0_Substrate_Lock_Emergency_Workshop_20251124.md`
+
+### **`REPOSITORY_ADMIN/`**
+- **`LICENSES/`** - `CERN-OHL-S-2.0.md`
+- `IPFS_RELEASE_HISTORY.md`
+- `REPO_STRUCTURE.md`
+- `SINGLE_SOURCE_OF_TRUTH_REGISTRY.csv`
+
+---
+## 🏁 **ARCHITECTURAL LEGACY: V10.0.1 GOLD STANDARD**
+*Constitutionally ratified under Emergency Decision 042 • 2025-12-11 • Zero Outliers • TMR Verified*
