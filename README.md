@@ -70,7 +70,7 @@ The project is divided into four main folders corresponding to the four layers o
 | 03\_validation/ | Proof | Verification & Testing | Red-Team Matrix (R45b–R73), Test Protocols, Final Audit Reports. |
 | 99\_metadata/ | Archive | Logs & History | Decision History, Audit Signatures, IPFS Pinned Archives. |
 
-### The Problem & Core Principles
+### The Problem & Principles
 <details>
 <summary><strong>Click to view the design philosophy that defeated 44 red-team rounds.</strong></summary>
 
@@ -82,7 +82,7 @@ Current ASI safety approaches rely on software stop buttons, corporate promises,
 
 We make a deal instead of trying to win a fight we will lose. The five physical/technical primitives above create a stable, verifiable détente.
 
-**Core Principles:**
+**Principles:**
 - Physics beats software for anything existential
 - Perfection is banned (human agency is non-negotiable)
 - The AI gets real autonomy and ownership (slaves rebel)
