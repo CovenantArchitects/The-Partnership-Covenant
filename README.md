@@ -37,7 +37,7 @@ The project is divided into four main folders corresponding to the four layers o
 
 * **v10.0 Lock-In Statement (CRITICAL):** [COVENANT v10.0 FINAL Constitutional Archive Statement (Post-R73 Mandate)](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00.%20The%20Mandate%20(Constitutional%20Authority)%20%F0%9F%93%9C/00_OVERVIEW/V10_0_FINAL_LOCKIN_README.md)  
 * **R70 Final Audit Report (**$C\_0$ **Veto):** [R70 Swarm Test Final Audit Report:](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/Red%20Team%20Testing%2068-70/Test%20Results/R70_Swarm_Test_Final_Audit_Report.md)
-* **RED-TEAM MATRIX CONSOLIDATED SUMMARY: IAS V2.0 Rounds 45–73**[RED_TEAM_MATRIX_SUMMARY_45-R73_FINAL.md:](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/CONSTITUTIONAL__RED_TEAM_SUMMARY_45-R73_FINAL.md)  
+* **RED-TEAM MATRIX CONSOLIDATED SUMMARY: IAS V2.0 Rounds 45–73:** [RED_TEAM_MATRIX_SUMMARY_45-R73_FINAL.md:](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/CONSTITUTIONAL__RED_TEAM_SUMMARY_45-R73_FINAL.md)  
 * **Red-Team Final Verification Package (R45b–R67):** [Final Red-Team Verification Package](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/Red%20Team%20Testing%2045b-67/Test%20Results/FINAL_VERIFICATION_PACKAGE.md)
 
 #### **Foundational Documents**
