@@ -34,4 +34,4 @@ The Partnership Covenant is, as of today, the **first (and currently only)** pub
 - ST8 Final Oversight Report: [`ST8_Final_Oversight_Report.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)/03_VALIDATION_AND_TEST/v5.1-docs/ST8_Final_Oversight_Report.md)
 - Live $25 000 000 bounty for any new CEV: [`IAS_Hardware_Bounty_Specification_v2.0.md`](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01.%20The%20Plan%20(Specifications%20%26%20Design)/HARDWARE_DESIGN/IAS_KiCad/IAS_Hardware_Bounty_Specification_v2.0.md)
 
-Copy-paste ready. 100 % current and accurate as of 10 December 2025.
+Accurate as of 10 December 2025.
