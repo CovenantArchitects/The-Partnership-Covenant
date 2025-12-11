@@ -8,16 +8,16 @@ The Partnership Covenant is a **high-assurance, open, auditable governance and t
 
 ## **Table of Contents**
 
-* [What We’re Building](https://www.google.com/search?q=%23what-were-building)  
-* [Ways to Contribute](https://www.google.com/search?q=%23ways-to-contribute)  
-* [Contribution Levels](https://www.google.com/search?q=%23contribution-levels)  
-* [The Five Technical Pillars (Priority Areas)](https://www.google.com/search?q=%23the-five-technical-pillars-priority-areas)  
+* [What We’re Building](%23what-were-building)  
+* [Ways to Contribute](%23ways-to-contribute)  
+* [Contribution Levels](%23contribution-levels)  
+* [The Five Technical Pillars (Priority Areas)](%23the-five-technical-pillars-priority-areas)  
 * [Getting Started](https://www.google.com/search?q=%23getting-started)  
-* [How Contributions Are Reviewed](https://www.google.com/search?q=%23how-contributions-are-reviewed)  
-* [Governance & Decision Process](https://www.google.com/search?q=%23governance--decision-process)  
-* [Security \+ Responsible Disclosure](https://www.google.com/search?q=%23security--responsible-disclosure)  
-* [Community Norms](https://www.google.com/search?q=%23community-norms)  
-* [Getting in Touch](https://www.google.com/search?q=%23getting-in-touch)
+* [How Contributions Are Reviewed](%23how-contributions-are-reviewed)  
+* [Governance & Decision Process](%23governance--decision-process)  
+* [Security \+ Responsible Disclosure](%23security--responsible-disclosure)  
+* [Community Norms](%23community-norms)  
+* [Getting in Touch](%23getting-in-touch)
 
 ### **What We’re Building**
 
@@ -104,4 +104,5 @@ Subject: *Responsible Disclosure* Response within 72 hours.
 
 **The Contingent Partnership Warrant**
 
-[Read the full Contingent Partnership Warrant](https://www.google.com/search?q=https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/01.%2520The%2520Plan%2520\(Specifications%2520%26%2520Design\)/01_SPECIFICATIONS/The_Contingent_Partnership_Warrant.md)
+[Read the full Contingent Partnership Warrant](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/The_Contingent_Partnership_Warrant.md)
+
