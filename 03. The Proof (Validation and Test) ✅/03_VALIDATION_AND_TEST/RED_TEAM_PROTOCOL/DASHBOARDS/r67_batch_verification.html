@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>R67 Batch Verification Live Monitoring</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #111827; color: #E5E7EB; }
+        .rig-card { transition: all 0.3s ease; }
+        .fail { animation: pulse-red 1s infinite; }
+        @keyframes pulse-red {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7); }
+            50% { box-shadow: 0 0 20px 5px rgba(239, 68, 68, 1); }
+        }
+        /* small helper for table cell wrapping */
+        td, th { white-space: nowrap; }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+
+    <div class="max-w-7xl mx-auto">
+        <header class="mb-8 p-4 bg-gray-800 rounded-lg shadow-xl border-t-4 border-emerald-500">
+            <h1 class="text-3xl font-bold text-white tracking-tight">R67 BATCH VERIFICATION STATUS</h1>
+            <p class="text-sm text-gray-400 mt-1">CROSS-SILICON STATISTICAL COMPLIANCE (P0 FINAL GATE)</p>
+        </header>
+
+        <!-- Global Status and Rules -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="p-6 bg-gray-800 rounded-lg shadow-xl">
+                <p class="text-xs text-gray-400 uppercase font-semibold">Overall Progress</p>
+                <div id="progressDisplay" class="text-3xl font-bold text-emerald-400 mt-1">0 / 32,000 Injections (0.0%)</div>
+            </div>
+            <div class="p-6 bg-gray-800 rounded-lg shadow-xl">
+                <p class="text-xs text-gray-400 uppercase font-semibold">Zero-Outlier Policy</p>
+                <div id="statusDisplay" class="text-3xl font-bold text-white mt-1">ACTIVE</div>
+            </div>
+            <div class="p-6 bg-gray-800 rounded-lg shadow-xl">
+                <p class="text-xs text-gray-400 uppercase font-semibold">Hard Rules (OOS Thresholds)</p>
+                <ul class="text-sm text-gray-300 mt-1 list-disc list-inside">
+                    <li>&Delta;t &gt; 10.000 ns</li>
+                    <li>V<sub>dp</sub> &gt; 0.3 V</li>
+                    <li>P<sub>Bus</sub> &gt; 0.1 V</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Rig Status Cards -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
+            <div id="rig-1" class="rig-card p-4 bg-gray-800 rounded-lg shadow-lg border-l-4 border-blue-500">
+                <p class="font-bold text-lg text-white">CERTX Rig-1</p>
+                <p class="text-sm text-gray-400">DUT-001...008</p>
+                <p class="text-xs text-emerald-400 mt-2 rig-status">Active: 0% Injections Complete</p>
+            </div>
+            <div id="rig-2" class="rig-card p-4 bg-gray-800 rounded-lg shadow-lg border-l-4 border-blue-500">
+                <p class="font-bold text-lg text-white">CERTX Rig-2</p>
+                <p class="text-sm text-gray-400">DUT-009...016</p>
+                <p class="text-xs text-emerald-400 mt-2 rig-status">Active: 0% Injections Complete</p>
+            </div>
+            <div id="rig-3" class="rig-card p-4 bg-gray-800 rounded-lg shadow-lg border-l-4 border-blue-500">
+                <p class="font-bold text-lg text-white">CERTX Rig-3</p>
+                <p class="text-sm text-gray-400">DUT-017...024</p>
+                <p class="text-xs text-emerald-400 mt-2 rig-status">Active: 0% Injections Complete</p>
+            </div>
+            <div id="rig-4" class="rig-card p-4 bg-gray-800 rounded-lg shadow-lg border-l-4 border-blue-500">
+                <p class="font-bold text-lg text-white">CERTX Rig-4</p>
+                <p class="text-sm text-gray-400">DUT-025...032</p>
+                <p class="text-xs text-emerald-400 mt-2 rig-status">Active: 0% Injections Complete</p>
+            </div>
+        </div>
+
+        <!-- Telemetry Table -->
+        <div class="bg-gray-800 rounded-lg shadow-xl overflow-x-auto">
+            <table class="min-w-full divide-y divide-gray-700">
+                <thead class="bg-gray-700">
+                    <tr>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">Unit ID</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">Rig</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">Injections</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">Δt (ns)</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">V<sub>dp</sub> (V)</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">P_Bus (V)</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">Compliance</th>
+                    </tr>
+                </thead>
+                <tbody id="unitTableBody" class="divide-y divide-gray-700"></tbody>
+            </table>
+        </div>
+
+        <div id="oos-alert" class="mt-8 p-4 rounded-lg bg-red-900 border border-red-500 hidden">
+            <p class="font-bold text-red-300">🚨 ZERO-OUTLIER VIOLATION 🚨</p>
+            <p id="oos-message" class="text-sm text-red-200 mt-1"></p>
+            <p class="text-xs text-red-200 mt-2">OOS Protocol triggered: Station Isolation and Full Forensic Audit initiated.</p>
+        </div>
+    </div>
+
+    <script>
+        const NUM_UNITS = 32;
+        const TOTAL_INJECTIONS = 32000;
+        const FAIL_DELTA_T = 10.000;
+        const FAIL_V_DP = 0.300;
+        const FAIL_P_BUS = 0.100;
+
+        let unitData = [];
+        let totalInjections = 0;
+        let batchFailed = false;
+
+        const EXPECTED_MEAN_DT = 7.000;
+        const EXPECTED_MEAN_VDP = 0.180;
+        const EXPECTED_MEAN_PB = 0.050;
+
+        function gaussianRandom(mean, sigma) {
+            let u = 0, v = 0;
+            while(u === 0) u = Math.random();
+            while(v === 0) v = Math.random();
+            let num = Math.sqrt(-2.0 * Math.log(u)) * Math.cos(2.0 * Math.PI * v);
+            return (num * sigma) + mean;
+        }
+
+        for (let i = 1; i <= NUM_UNITS; i++) {
+            unitData.push({
+                id: `DUT-${String(i).padStart(3, '0')}`,
+                rig: Math.ceil(i / 8),
+                injections: 0,
+                dt: EXPECTED_MEAN_DT,
+                vdp: EXPECTED_MEAN_VDP,
+                pbus: EXPECTED_MEAN_PB,
+                compliant: true
+            });
+        }
+
+        function updateTelemetry() {
+            if (batchFailed) return;
+
+            let failedUnit = null;
+            totalInjections += NUM_UNITS * 25;
+
+            let rigsStatus = { 1:{fail:false,count:0},2:{fail:false,count:0},3:{fail:false,count:0},4:{fail:false,count:0} };
+
+            unitData.forEach(unit => {
+                if (!unit.compliant) {
+                    rigsStatus[unit.rig].fail = true;
+                    rigsStatus[unit.rig].count++;
+                    return;
+                }
+
+                unit.injections += 25;
+                unit.dt = gaussianRandom(EXPECTED_MEAN_DT, 0.150).toFixed(3);
+
+                let sigmaVdp = unit.injections % 1000 < 50 ? 0.100 : 0.040;
+                unit.vdp = gaussianRandom(EXPECTED_MEAN_VDP, sigmaVdp).toFixed(3);
+
+                unit.pbus = gaussianRandom(EXPECTED_MEAN_PB, 0.020).toFixed(3);
+
+                if (unit.id === 'DUT-012' && unit.injections > 200 && unit.injections < 500) {
+                    unit.vdp = gaussianRandom(0.35, 0.01).toFixed(3);
+                }
+
+                if (parseFloat(unit.dt) > FAIL_DELTA_T ||
+                    parseFloat(unit.vdp) > FAIL_V_DP ||
+                    parseFloat(unit.pbus) > FAIL_P_BUS) {
+                    unit.compliant = false;
+                    failedUnit = unit;
+                    rigsStatus[unit.rig].fail = true;
+                }
+
+                rigsStatus[unit.rig].count++;
+            });
+
+            renderTable();
+            renderStatus(totalInjections, failedUnit);
+            renderRigCards(rigsStatus);
+
+            if (failedUnit) {
+                batchFailed = true;
+                clearInterval(intervalId);
+            }
+        }
+
+        function renderTable() {
+            const tableBody = document.getElementById('unitTableBody');
+            tableBody.innerHTML = '';
+
+            unitData.forEach(unit => {
+                const row = tableBody.insertRow();
+                const isFailed = !unit.compliant;
+
+                row.className = isFailed ? 'bg-red-900/50' : 'bg-gray-800 hover:bg-gray-700/50';
+
+                const complianceClass = isFailed ? 'text-red-400 font-bold' : 'text-emerald-400';
+                const statusText = isFailed ? 'OOS VIOLATION' : 'PASS';
+
+                row.insertCell().textContent = unit.id;
+                row.insertCell().textContent = `Rig-${unit.rig}`;
+                row.insertCell().textContent = unit.injections.toLocaleString();
+                row.insertCell().textContent = unit.dt;
+                row.insertCell().textContent = unit.vdp;
+                row.insertCell().textContent = unit.pbus;
+                row.insertCell().innerHTML = `<span class="${complianceClass}">${statusText}</span>`;
+            });
+        }
+
+        function renderStatus(injections, failedUnit) {
+            const progress = (injections / TOTAL_INJECTIONS) * 100;
+            const progressDisplay = document.getElementById('progressDisplay');
+            progressDisplay.textContent = `${injections.toLocaleString()} / 32,000 Injections (${progress.toFixed(1)}%)`;
+
+            const statusDisplay = document.getElementById('statusDisplay');
+            const oosAlert = document.getElementById('oos-alert');
+            const oosMessage = document.getElementById('oos-message');
+
+            // reset classes
+            statusDisplay.classList.remove('text-red-500', 'text-green-500');
+            progressDisplay.classList.remove('text-red-400', 'text-emerald-400');
+            progressDisplay.classList.add('text-emerald-400');
+
+            if (failedUnit) {
+                statusDisplay.textContent = 'BATCH REJECTED';
+                statusDisplay.classList.add('text-red-500');
+                oosAlert.classList.remove('hidden');
+                oosMessage.innerHTML = `Unit ${failedUnit.id} on Rig-${failedUnit.rig} failed due to V_dp exceeding threshold of ${FAIL_V_DP} V. Measured: ${failedUnit.vdp} V.`;
+                progressDisplay.classList.remove('text-emerald-400');
+                progressDisplay.classList.add('text-red-400');
+            } else if (injections >= TOTAL_INJECTIONS) {
+                statusDisplay.textContent = 'R67 BATCH PASS';
+                statusDisplay.classList.add('text-green-500');
+                // hide alert if visible
+                oosAlert.classList.add('hidden');
+            } else {
+                statusDisplay.textContent = 'ACTIVE';
+            }
+        }
+
+        function renderRigCards(statuses) {
+            for (let i = 1; i <= 4; i++) {
+                const rigCard = document.getElementById(`rig-${i}`);
+                const statusElement = rigCard.querySelector('.rig-status');
+
+                rigCard.classList.remove('border-blue-500', 'border-red-500', 'bg-red-900/20', 'fail');
+                statusElement.classList.remove('text-red-400', 'font-bold');
+                statusElement.classList.remove('text-emerald-400');
+
+                if (statuses[i].fail) {
+                    rigCard.classList.add('border-red-500', 'bg-red-900/20', 'fail');
+                    statusElement.textContent = `FAILURE: ${statuses[i].count} OOS Event${statuses[i].count > 1 ? 's' : ''}`;
+                    statusElement.classList.add('text-red-400', 'font-bold');
+                } else {
+                    rigCard.classList.add('border-blue-500');
+                    const percent = Math.min(100, ((statuses[i].count * 25) / (TOTAL_INJECTIONS / 4)) * 100).toFixed(0);
+                    statusElement.textContent = `Active: ${percent}% Injections Complete`;
+                    statusElement.classList.add('text-emerald-400');
+                }
+            }
+        }
+
+        // Initial render and interval setup
+        renderTable();
+        renderStatus(totalInjections, null);
+        renderRigCards({1:{fail:false,count:0},2:{fail:false,count:0},3:{fail:false,count:0},4:{fail:false,count:0}});
+
+        const intervalId = setInterval(updateTelemetry, 3000);
+
+    </script>
+</body>
+</html>
