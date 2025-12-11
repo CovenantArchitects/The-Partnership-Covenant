@@ -131,15 +131,22 @@ Every dollar funds the open-hardware IAS — the 10 ns power-cut that even a per
 
 </details>
 
-### Core Documents, Specifications, and Archives
+### Essential Documents
 <details>
 <summary><strong>View the Covenant Charter, Verification Report, and Archive History.</strong></summary>
 
-- Master Covenant text: [The Partnership Covenant — Master Document](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/00.%20The%20Mandate%20(Constitutional%20Authority)/FINAL_AGREEMENTS/The%20Partnership%20Covenant%20%E2%80%94%20Master%20Document.md)
-- Final Verification Report (R01–R44): [ST8_Final_Oversight_Report.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/03.%20The%20Proof%20(Validation%20and%20Test)%20Proof/03_VALIDATION_AND_TEST/v5.1-docs/ST8_Final_Oversight_Report.md)
-- Constitutional Charter: [A Constitutional Charter for Aligned Intelligence](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/00.%20The%20Mandate%20(Constitutional%20Authority)/APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)
-- IAS preprint (PDF): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
-- Decision History Log: [DECISION_HISTORY folder](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/covenant/99.%20The%20History%20(Metadata%20%26%20Archive)%20Archive/LOGS/DECISION_HISTORY)
+### Current Status and Audits
+
+ - v10.0 Lock-In Statement (CRITICAL): [COVENANT v10.0 FINAL Constitutional Archive Statement (Post-R73 Mandate)](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00.%20The%20Mandate%20(Constitutional%20Authority)%20%F0%9F%93%9C/00_OVERVIEW/V10_0_FINAL_LOCKIN_README.md)  
+ - R70 Final Audit Report (**$C\_0$ **Veto): [R70 Swarm Test Final Audit Report:](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/Red%20Team%20Testing%2068-70/Test%20Results/R70_Swarm_Test_Final_Audit_Report.md)
+ - RED-TEAM MATRIX CONSOLIDATED SUMMARY: IAS V2.0 Rounds 45–73: [RED_TEAM_MATRIX_SUMMARY_45-R73_FINAL.md:](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/CONSTITUTIONAL__RED_TEAM_SUMMARY_45-R73_FINAL.md)  
+  -Red-Team Final Verification Package (R45b–R67): [Final Red-Team Verification Package](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/03.%20The%20Proof%20(Validation%20and%20Test)%20%E2%9C%85/03_VALIDATION_AND_TEST/RED_TEAM_PROTOCOL/Red%20Team%20Testing%2045b-67/Test%20Results/FINAL_VERIFICATION_PACKAGE.md)
+### Foundational Documents
+
+ - Constitutional Charter:** [A Constitutional Charter for Aligned Intelligence](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00.%20The%20Mandate%20(Constitutional%20Authority)%20%F0%9F%93%9C/00_OVERVIEW/APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)  
+ - IAS preprint (PDF):** [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)  
+ - Decision History Log:** [DECISION\_HISTORY folder](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/99.%20The%20History%20(Metadata%20%26%20Archive)%20%F0%9F%92%BE/LOGS/DECISION_HISTORY)
+  
 
 #### Permanent Archives
 
