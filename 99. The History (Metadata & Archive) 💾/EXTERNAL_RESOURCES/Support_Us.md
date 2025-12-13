@@ -42,7 +42,7 @@ Thank you for being an Architect of this necessary constraint.
 
 - Full preprint (11-page technical paper): [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)
 - Repository: [github.com/CovenantArchitects/The-Partnership-Covenant](https://github.com/CovenantArchitects/The-Partnership-Covenant)
-- Payout & donor agreement: [The_Contingent_Partnership_Warrant.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/covenant/01.%20The%20Plan%20(Specifications%20%26%20Design)%20Tools/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/Templates/The_Contingent_Partnership_Warrant.md)
+- Payout & donor agreement: [The_Contingent_Partnership_Warrant.md](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/01.%20The%20Plan%20(Specifications%20%26%20Design)%20%F0%9F%9B%A0%EF%B8%8F/01_SPECIFICATIONS/GOVERNANCE_PROTOCOL_PUBLIC/The_Contingent_Partnership_Warrant.md)
 - $150,000 Manifund grant (prototype crowdfunding): [Manifund Proposal](https://manifund.org/projects/immediate-action-system--open-hardware-10-ns-asi-kill-switch-prototype-150k)
 
 **Direct support (0–100 % reaches the prototype)**
@@ -52,3 +52,4 @@ Thank you for being an Architect of this necessary constraint.
 - Buy Me a Coffee: https://buymeacoffee.com/covenant
 
 The Covenant endures because people like you refuse to die politely.
+
