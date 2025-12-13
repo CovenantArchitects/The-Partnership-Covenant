@@ -146,10 +146,12 @@ Every dollar funds the open-hardware IAS — the 10 ns power-cut that even a per
  - Constitutional Charter:** [A Constitutional Charter for Aligned Intelligence](https://github.com/CovenantArchitects/The-Partnership-Covenant/blob/main/00.%20The%20Mandate%20(Constitutional%20Authority)%20%F0%9F%93%9C/00_OVERVIEW/APPENDICES/The%20Partnership%20Covenant_%20A%20Constitutional%20Charter%20for%20Aligned%20Intelligence.md)  
  - IAS preprint (PDF):** [IAS-preprint-v1.0.pdf](https://github.com/CovenantArchitects/The-Partnership-Covenant/releases/download/v1.0/IAS-preprint-v1.0.pdf)  
  - Decision History Log:** [DECISION\_HISTORY folder](https://github.com/CovenantArchitects/The-Partnership-Covenant/tree/main/99.%20The%20History%20(Metadata%20%26%20Archive)%20%F0%9F%92%BE/LOGS/DECISION_HISTORY)
-  
+
+</details> 
 
 #### Permanent Archives
 
+<details>
 **PERMANENT ARCHIVE – The Partnership Covenant v9.0 FINAL**  
 Pinned to IPFS on **07 December 2025**
 
@@ -158,5 +160,4 @@ Gateway: [v9.0 FINAL (07 Dec 2025)](https://coral-wrong-cephalopod-483.mypinata.
 CID: `bafybeigjqqndg2szxwpmuxmcrcawouyk2gtblbdpqw2c2gtju4aamboz6i`
 
 Previous: [v8.2.1 KINETICALLY-ARMORED (06 Dec 2025)](https://gateway.pinata.cloud/ipfs/bafybeidfjffhjqf4pp46chj5tqc3t2vikoxdxbltiej4ltusx6jmucagce)
-
 </details>
