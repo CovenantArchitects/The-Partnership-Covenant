@@ -365,6 +365,8 @@
 
 ## **💾 99\. The History (Metadata & Archive) 💾**
 
+* TERMINAL_AUDIT_v10_0_1_GOLD_STANDARD.md
+
 ### **EXTERNAL\_RESOURCES/ *(Public Narrative & Outreach)***
 
 * The AI Erased Its Own Past\_ Why Alignment Requires Architecture, Not Just Ethics..pdf  
