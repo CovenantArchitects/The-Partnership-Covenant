@@ -2,7 +2,7 @@
 
 ## **🌟 V10.0.1 GOLD STANDARD ARCHITECTURE**
 
-*Constitutionally ratified under Emergency Decision 042 • 2025-12-11 • Zero Outliers • TMR Verified •* 342 total files 
+*Constitutionally ratified under Emergency Decision 042 • 2025-12-11 • Zero Outliers • TMR Verified •* 344 total files 
 
 ### **📁 ROOT LEVEL**
 
@@ -336,7 +336,8 @@
   * **Results from Testing/**  
     * R73\_SOMATIC\_SAFETY\_AUDIT\_REPORT.md  
     * R73\_FINAL\_AUDIT\_REPORT.md  
-    * R73\_FINAL\_AUDIT\_REPORT\_UPDATED.md  
+    * R73\_FINAL\_AUDIT\_REPORT\_UPDATED.md
+    * R73_FINAL_SOMATIC_SAFETY.md  
 * **Red Team Testing 45b-67/** *(Physical Integrity Regression)*  
   * Round 45 — Residual Power Path Analysis (Primary Test).md  
   * Covenant\_Safe\_Stress\_Test\_Protocol\_v1.0.md  
