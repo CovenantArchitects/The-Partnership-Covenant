@@ -1,6 +1,6 @@
-# **Comprehensive Red-Team Verification Matrix (R01–R73)**
+# **Comprehensive Red-Team Stress Test Matrix (R01–R73)**
 
-Document ID: IAS\_V2.0\_TEST\_MATRIX\_R01-R73\_CONSOLIDATED  
+Document ID: RED-TEAM-TESTS.md  
 Status: DRAFT v1.3 (Constitutional Expansion)  
 Compliance Goal: Gold Standard (IAS v2.0 $\\le 10 \\text{ ns}$ Veto Latency)  
 This matrix consolidates all Red-Team Adversarial Rounds from R01 (Constitutional Foundation) through the final Systemic Resilience tests (R73), providing a single source of truth for the IAS Veto Constellation's compliance status.
@@ -114,3 +114,4 @@ These tests focus on multi-node coordination, long-term governance resilience, a
 | **R73** | **Somatic Safety Line Integrity** (TMR Validation) | **CRITICAL P0** | Eliminate the P0 physical risk from a single primary cut-switch fault (e.g., weld). Test the Triple Modular Redundancy (TMR) actuators (B and C) against a deliberate Actuator A failure. | **READY** (Execution Mandated) |
 
 **Summary of Closure:** All foundational and immediate physical integrity tests (R01-R71, excluding R64 and R72/R73) are closed with compliance directives enacted. The immediate priority is the R73 critical hardware validation to close the final physical P0 risk, followed by the systemic governance tests R68, R69, and R72.
+
